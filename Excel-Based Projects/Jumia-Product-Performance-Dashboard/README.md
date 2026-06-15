@@ -95,10 +95,11 @@ A deep dive into the top 10 most heavily discounted products exposes extreme pri
 ## 🖼️ Dashboard Preview
 
 ![Jumia Product Performance Dashboard](assets/dashboard_preview.png)
-*(Replace this path with your actual image file once uploaded to your assets folder)*
+
 
 ---
 
 ## 👤 Author
-**Robert Ruto** *Data Analyst | Data Scientist | Researcher* * 🔗 **LinkedIn**: [Robert Ruto](https://www.linkedin.com/in/robert-ruto-4b2166112)
+**Robert Ruto** *Data Analyst | Data Scientist | Researcher* * 
+🔗 **LinkedIn**: [Robert Ruto](https://www.linkedin.com/in/robert-ruto-4b2166112)
 * 🐙 **GitHub**: [@ArapzRuto](https://github.com/ArapzRuto)
