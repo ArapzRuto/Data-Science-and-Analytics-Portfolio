@@ -1,6 +1,6 @@
 # 📊 Hi, I'm Ruto | Data Science and Analytics Portfolio
 
-Welcome to my data analytics showcase. This repository is a centralized hub built to display my end-to-end capabilities across data science and analytics, from interactive executive dashboards to relational databases and machine learning.
+Welcome to my data science and analytics showcase. This repository is a centralized hub built to display my end-to-end capabilities across data science and analytics, from interactive executive dashboards to relational databases and machine learning.
 
 ---
 
@@ -26,12 +26,12 @@ Welcome to my data analytics showcase. This repository is a centralized hub buil
 
 ### 🗄️ SQL-Based Projects
 * **[SQL Database Showcase](./SQL-Based%20Projects)** *(Coming Soon)*
-  * **Tech Stack:** PostgreSQL, Joins, Window Functions, Group By Aggregations.
+  * **Tech Stack:** PostgreSQL, Joins, Window Functions, CTEs,Stored Procedures, Group By Aggregations.
 
 
 ### 🐍 Python-Based Projects
 * **[Data Science & Machine Learning Hub](./Python-Based%20Projects)** *(Coming Soon)*
-  * **Tech Stack:** Python, Jupyter Notebooks, pandas, scikit-learn.
+  * **Tech Stack:** Python, Jupyter Notebook, VS Code, pandas,Numpy,Matplolib, scikit-learn.
 
 ### 🚀 Full Stack Data Analytics Projects
 * **[End-to-End Analytics Solutions](./Full%20Stack%20Data%20Analytics%20Projects)** *(Coming Soon)*
