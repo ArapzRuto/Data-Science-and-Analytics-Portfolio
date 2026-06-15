@@ -19,13 +19,15 @@ Welcome to my data analytics showcase. This repository is a centralized hub buil
 * **[Excel Analytics Showcase](./Excel-Based%20Projects)** *(In Progress)*
   * **Tech Stack:** Power Query, Data Modeling, Pivot Charts, Slicers.
 
+### 📊 Power BI-Based Projects
+* **[Business Intelligence Showcase](./Power%20BI-Based%20Projects)** *(Coming Soon)*
+  * **Tech Stack:** DAX Formulas, Power BI Desktop, Star Schema Modeling.
+
+
 ### 🗄️ SQL-Based Projects
 * **[SQL Database Showcase](./SQL-Based%20Projects)** *(In Progress)*
   * **Tech Stack:** PostgreSQL, Joins, Window Functions, Group By Aggregations.
 
-### 📊 Power BI-Based Projects
-* **[Business Intelligence Showcase](./Power%20BI-Based%20Projects)** *(Coming Soon)*
-  * **Tech Stack:** DAX Formulas, Power BI Desktop, Star Schema Modeling.
 
 ### 🐍 Python-Based Projects
 * **[Data Science & Machine Learning Hub](./Python-Based%20Projects)** *(Coming Soon)*
