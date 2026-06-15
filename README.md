@@ -25,7 +25,7 @@ Welcome to my data analytics showcase. This repository is a centralized hub buil
 
 
 ### 🗄️ SQL-Based Projects
-* **[SQL Database Showcase](./SQL-Based%20Projects)** *(In Progress)*
+* **[SQL Database Showcase](./SQL-Based%20Projects)** *(Coming Soon)*
   * **Tech Stack:** PostgreSQL, Joins, Window Functions, Group By Aggregations.
 
 
