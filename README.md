@@ -1,43 +1,52 @@
-# 📊 Hi, I'm Ruto | Data Science & Analytics Portfolio
+# 📊 Hi, I'm Ruto | Data Science and Analytics Portfolio
 
-Welcome to my data science and analytics showcase. This repository serves as a centralized hub for my production-grade projects, demonstrating end-to-end capabilities in data engineering, exploratory data analysis (EDA), machine learning, and executive dashboard design.
+Welcome to my data analytics showcase. This repository is a centralized hub built to display my end-to-end capabilities across data science and analytics, from interactive executive dashboards to relational databases and machine learning.
 
 ---
 
 ## 🛠️ Technical Skill Stack
 
-* **Data Analysis & Modeling:** Python (pandas, NumPy, scikit-learn), Advanced Excel (Power Query, Data Modeling)
-* **Database Management:** SQL (PostgreSQL), DBeaver
-* **Data Visualization:** Interactive Business Dashboards, Data Storytelling
-* **Methodologies:** Qualitative Frameworks, Statistical Reporting
+* **Programming:** Python (pandas, NumPy, scikit-learn)
+* **Databases:** SQL (PostgreSQL, DBeaver)
+* **Business Intelligence:** Power BI, Advanced Excel (Power Query, Data Modeling)
+* **Core Competencies:** Data Storytelling, KPI Dashboard Design
 
 ---
 
 ## 📂 Project Showcase Directory
 
 ### 📈 Excel-Based Projects
-* **[Jumia Product Performance Dashboard](./Excel-Based%20Projects/Jumia-Product-Performance-Dashboard)**
-  * **Business Problem:** Streamlining cross-border e-commerce product tracking and customer communication matrices.
-  * **Tech Stack:** Advanced Excel, Power Query, Dynamic Dashboards.
-  * **Core Deliverable:** An interactive executive interface tracking key performance metrics, product margin distributions, and supply chains.
+* **[Excel Analytics Showcase](./Excel-Based%20Projects)** *(In Progress)*
+  * **Tech Stack:** Power Query, Data Modeling, Pivot Charts, Slicers.
 
-### 🗄️ SQL & Relational Databases
-* **[Retail Sales Analysis (Exploratory Data Analysis)](./SQL-Based%20Projects/Retail-Sales-Analysis)** *(Coming Soon)*
-  * **Business Problem:** Uncovering patterns in retail transaction behavior, seasonality trends, and primary customer demographic clusters.
-  * **Tech Stack:** SQL, PostgreSQL, Window Functions.
+### 🗄️ SQL-Based Projects
+* **[SQL Database Showcase](./SQL-Based%20Projects)** *(In Progress)*
+  * **Tech Stack:** PostgreSQL, Joins, Window Functions, Group By Aggregations.
+
+### 📊 Power BI-Based Projects
+* **[Business Intelligence Showcase](./Power%20BI-Based%20Projects)** *(Coming Soon)*
+  * **Tech Stack:** DAX Formulas, Power BI Desktop, Star Schema Modeling.
+
+### 🐍 Python-Based Projects
+* **[Data Science & Machine Learning Hub](./Python-Based%20Projects)** *(Coming Soon)*
+  * **Tech Stack:** Python, Jupyter Notebooks, pandas, scikit-learn.
+
+### 🚀 Full Stack Data Analytics Projects
+* **[End-to-End Analytics Solutions](./Full%20Stack%20Data%20Analytics%20Projects)** *(Coming Soon)*
+  * **Tech Stack:** Full Pipeline Integration.
 
 ---
 
-## 🚀 Repository Architecture Blueprint
+## 🏗️ Standardized Repository Architecture
 
-Every project hosted in this repository follows an enterprise-grade data management layout to ensure reproducibility and transparency:
+To keep my portfolio clean and production-ready, every project inside this repository follows a strict data engineering structure:
 
 ```text
 ├── [Category Folder]/               # e.g., Excel-Based Projects/
-│   └── [Project-Name]/              # Individual Project Hub
-│       ├── assets/                  # UI Dashboards Screenshots & Media Reports
-│       ├── data/                    # Local-only pipeline sheets (Raw & Processed)
-│       ├── documentation/           # Business Requirements & Data Dictionaries
-│       ├── insights/                # Actionable Executive Bulletins & KPI Metrics
-│       └── README.md                # Project-specific Case Study (The Pitch Page)
-└── .gitignore                       # Safeguarding raw source data leaks
+│   └── [Project-Name]/              # Individual Project Workspace
+│       ├── assets/                  # Dashboard screenshots, UI captures, and images
+│       ├── data/                    # Raw & Cleaned datasets (Kept local via .gitignore)
+│       ├── documentation/           # Business requirements & Data dictionaries
+│       ├── insights/                # Actionable business findings & executive memos
+│       └── README.md                # Project-specific case study (The main presentation)
+└── .gitignore                       # Automatically prevents raw dataset leaks
