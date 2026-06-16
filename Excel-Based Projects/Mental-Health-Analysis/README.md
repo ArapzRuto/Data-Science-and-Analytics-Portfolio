@@ -202,10 +202,16 @@ The dashboard was developed using:
 
 ---
 
-
-
-## Author
+## 👤 Author
 
 **Robert Ruto**
+*Data Analyst | Data Scientist | Researcher*
 
-Data Analytics | Business Intelligence | Excel Dashboard Development
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112
+* GitHub: https://github.com/ArapzRuto
+
+
