@@ -198,26 +198,11 @@ The dashboard was developed using:
 
 
 
-![Mental Health Analysis Dashboard](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Excel-Based%20Projects/Jumia-Product-Performance-Analysis/assets/Jumia%20product%20Dashboard.jpg)
+![Mental Health Analysis Dashboard](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Excel-Based%20Projects/Mental-Health-Analysis/assets/Project%203%20Dashboard.jpg)
 
 ---
 
-## Folder Structure
 
-```text
-Mental-Health-Analysis/
-│
-├── assets/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── documentation/
-├── insights/
-├── workbook/
-└── README.md
-```
-
----
 
 ## Author
 
