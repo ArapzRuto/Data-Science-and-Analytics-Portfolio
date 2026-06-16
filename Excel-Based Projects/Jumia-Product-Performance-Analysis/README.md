@@ -270,7 +270,7 @@ The dashboard was built using:
 
 Dashboard screenshot below:
 
-![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Jumia-Product-Performance-Analysis/blob/main/Jumia%20product%20Dashboard.jpg)
+![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Excel-Based%20Projects/Jumia-Product-Performance-Analysis/assets/Jumia%20product%20Dashboard.jpg)
 
 ---
 
