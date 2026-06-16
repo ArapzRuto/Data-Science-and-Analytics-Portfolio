@@ -196,12 +196,9 @@ The dashboard was developed using:
 
 ## Dashboard Preview
 
-Add screenshots to the `assets` folder and update the links below:
 
-```text
-assets/dashboard-overview.png
-assets/dashboard-insights.png
-```
+
+![Mental Health Analysis Dashboard](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Excel-Based%20Projects/Jumia-Product-Performance-Analysis/assets/Jumia%20product%20Dashboard.jpg)
 
 ---
 
