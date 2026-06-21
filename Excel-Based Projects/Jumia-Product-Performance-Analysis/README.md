@@ -1,6 +1,6 @@
 # 🛒 Jumia Product Performance Dashboard
 
-## 📖 Project Overview
+##  Project Overview
 
 The Jumia Product Performance Dashboard is an interactive Excel-based analytics solution developed to evaluate product performance on Jumia by analyzing pricing, discounts, customer ratings, and reviews. The dashboard transforms raw product data into actionable business insights that help identify top-performing products, understand customer behavior, and assess the effectiveness of discount strategies.
 
