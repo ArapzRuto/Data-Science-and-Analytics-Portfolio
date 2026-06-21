@@ -180,7 +180,7 @@ This project demonstrated how Power BI can transform healthcare data into meanin
 
 ### Executive Dashboard
 
-![Dashboard Overview](assets/dashboard-overview.png)
+![Dashboard Overview](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Hospital%20%26%20Pharmacy%20Data%20Analysis/assets/Hospital%20%26%20Pharmacy%20Data%20Analysis%20.jpg)
 
 
 ---
