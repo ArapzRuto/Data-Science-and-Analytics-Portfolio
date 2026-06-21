@@ -8,7 +8,7 @@ The project demonstrates the use of Microsoft Excel for data cleaning, transform
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 E-commerce platforms such as Jumia offer a wide variety of products with different pricing strategies, discount levels, and customer feedback. However, without proper analysis, it becomes difficult to determine:
 
@@ -21,7 +21,7 @@ This dashboard helps stakeholders make data-driven decisions regarding pricing, 
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 The dataset contains information about products listed on Jumia.
 
@@ -38,7 +38,7 @@ The dataset was cleaned and transformed to support meaningful analysis and repor
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 Several data-cleaning and transformation processes were performed before analysis.
 
@@ -79,7 +79,7 @@ Additional calculated fields were created, including:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 The dashboard was designed to provide interactive analysis through Pivot Tables, Charts, KPI Cards, and Slicers.
 
@@ -95,7 +95,7 @@ Users can quickly explore product performance by applying different filters.
 
 ---
 
-## 🎯 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 The dashboard tracks the following metrics:
 
@@ -110,7 +110,7 @@ These KPIs provide a high-level overview of overall product performance.
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 The dashboard includes:
 
@@ -144,7 +144,7 @@ The dashboard includes:
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 ### 1. Customer Ratings Are Relatively Low
 
@@ -212,7 +212,7 @@ These products can serve as benchmarks for:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 ### Improve Product Quality
 
@@ -240,7 +240,7 @@ Ensure that pricing strategies remain competitive while maintaining product qual
 
 ---
 
-## 🛠️ Tools and Technologies
+##  Tools 
 
 ### Microsoft Excel
 
@@ -257,7 +257,7 @@ The dashboard was built using:
 
 ---
 
-## 📦 Project Deliverables
+##  Project Deliverables
 
 * Cleaned Jumia Product Dataset
 * Interactive Excel Dashboard
@@ -266,7 +266,7 @@ The dashboard was built using:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 Dashboard screenshot below:
 
@@ -285,11 +285,5 @@ Dashboard screenshot below:
 
 * LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112
 * GitHub: https://github.com/ArapzRuto
-
----
-
-## 📄 License
-
-This project is available for educational and portfolio purposes.
 
 ---
