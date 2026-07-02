@@ -143,7 +143,7 @@ Focuses on financial performance using:
 - Profit by Fertilizer Used
 - Yield vs Profit Analysis
   
-![Profitability Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
+![Profitability Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Page%203%20%E2%80%93%20Profitability%20Analysis.jpg)
 ---
 
 ##  Page 4 – Farm Operations Analysis
