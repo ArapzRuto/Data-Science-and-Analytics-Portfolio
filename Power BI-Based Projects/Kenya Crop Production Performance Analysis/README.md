@@ -114,7 +114,7 @@ Provides a high-level summary of:
 - Profit by Crop Type
 - Revenue Trend by Season
 - 
-  ![Executive Overview](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
+  ![Executive Overview](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Page%201%20%E2%80%93%20Executive%20Overview.jpg)
 
 ---
 
