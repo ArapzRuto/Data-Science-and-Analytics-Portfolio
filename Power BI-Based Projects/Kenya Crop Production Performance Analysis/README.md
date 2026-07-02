@@ -93,7 +93,8 @@ A **Star Schema** was implemented consisting of:
 - Dim_Weather
 
 This structure improves model performance, simplifies DAX calculations, and enables efficient filtering across reports.
-![Star Schema Overview](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Hospital%20%26%20Pharmacy%20Data%20Analysis/assets/Hospital%20%26%20Pharmacy%20Data%20Analysis%20.jpg)
+## Star Schema Overview
+![Star Schema Overview](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
 
 ---
 
