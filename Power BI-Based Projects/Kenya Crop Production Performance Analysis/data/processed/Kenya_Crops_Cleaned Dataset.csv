@@ -1,0 +1,405 @@
+Farmer Name,County,Crop Type,Crop Variety,Season,Planting Date,Harvest Date,Soil Type,Irrigation Method,Fertilizer Used,Pest Control,Weather Impact,Cleaned_PlantedArea,Cleaned_Yield,Cleaned_Market_Price,Cleaned_Revenue,Cleaned_CostOfProduction,Cleaned_Profit
+Farmer 1,Kiambu,Potatoes,Organic,Long Rains,"Tuesday, 1 August 2023","Tuesday, 14 November 2023",Peaty,Drip,Unknown,Organic,Mild,15.14,1654.76,100.19,165790.4044,8977.19,156813.2144
+Farmer 2,Meru,Coffee,Local,Short Rains,"Saturday, 25 February 2023","Sunday, 25 June 2023",Silty,Sprinkler,Unknown,Organic,Mild,13.54,1957.61,168.63,330111.7743,47882.55,282229.2243
+Farmer 6,Kericho,Cassava,Organic,Short Rains,"Thursday, 31 August 2023","Friday, 29 December 2023",Loam,Drip,Unknown,Organic,Mild,4.88,1294.28,169.12,218888.6336,54319.48,164569.1536
+Farmer 15,Nairobi,Maize,Hybrid,Dry Season,"Sunday, 3 September 2023","Monday, 1 January 2024",Unknown,Unknown,Unknown,Chemical,Severe,1.72,2625.34,113.38,297661.0492,55055.36,242605.6892
+Farmer 20,Kiambu,Cassava,Hybrid,Short Rains,"Sunday, 3 September 2023","Monday, 1 January 2024",Peaty,Sprinkler,Unknown,Organic,Severe,1.71,3411.76,64.91,221457.3416,15501.14,205956.2016
+Farmer 23,Mombasa,Beans,Local,Long Rains,"Wednesday, 14 June 2023","Monday, 28 August 2023",Peaty,Flood,Unknown,Unknown,Severe,7.83,4894.6,187.89,919646.394,73420.23,846226.164
+Farmer 40,Kisumu,Cassava,Local,Unknown,"Sunday, 21 May 2023","Monday, 18 September 2023",Clay,Sprinkler,Unknown,Chemical,Mild,17.64,3511.3,124.95,438736.935,3865.87,434871.065
+Farmer 50,Machakos,Cassava,Local,Dry Season,"Tuesday, 25 April 2023","Wednesday, 23 August 2023",Sandy,Drip,Unknown,Unknown,Severe,13.36,3240.11,102.52,332176.0772,81451.6,250724.4772
+Farmer 51,Nyeri,Tea,Local,Short Rains,"Monday, 30 October 2023","Tuesday, 27 February 2024",Unknown,Sprinkler,Unknown,Unknown,Unknown,10.51,3548.31,182.38,647140.7778,66449.85,580690.9278
+Farmer 55,Eldoret,Tomatoes,Local,Long Rains,"Tuesday, 11 April 2023","Wednesday, 9 August 2023",Clay,Unknown,Unknown,Chemical,Mild,18.36,2882.11,61.19,176356.3109,58013.38,118342.9309
+Farmer 57,Machakos,Cassava,Hybrid,Short Rains,"Sunday, 23 April 2023","Monday, 21 August 2023",Peaty,Flood,Unknown,Chemical,Unknown,17.28,2231.39,99.15,221242.3185,19668.53,201573.7885
+Farmer 58,Kericho,Cassava,Hybrid,Dry Season,"Friday, 27 January 2023","Saturday, 27 May 2023",Loam,Flood,Unknown,Chemical,Unknown,0.79,4233.38,16.37,69300.4306,93685.31,-24384.8794
+Farmer 62,Kiambu,Rice,Hybrid,Short Rains,"Tuesday, 6 June 2023","Monday, 9 October 2023",Peaty,Flood,Unknown,Organic,Severe,4.36,3906.18,156.24,610301.5632,56962.27,553339.2932
+Farmer 64,Kisumu,Tea,Organic,Long Rains,"Monday, 7 August 2023","Tuesday, 5 December 2023",Silty,Unknown,Unknown,Unknown,Severe,16.87,2548.33,112.1,285667.793,95515.21,190152.583
+Farmer 74,Nairobi,Beans,Organic,Long Rains,"Monday, 9 January 2023","Saturday, 25 March 2023",Clay,Sprinkler,Unknown,Unknown,Severe,15.81,3270.66,84.12,275127.9192,54514.65,220613.2692
+Farmer 77,Nyeri,Potatoes,Hybrid,Unknown,"Monday, 6 February 2023","Monday, 22 May 2023",Clay,Flood,Unknown,Organic,Unknown,11.8,4577.4,149.04,682215.696,17018.48,665197.216
+Farmer 79,Meru,Cassava,Organic,Long Rains,"Tuesday, 17 October 2023","Wednesday, 14 February 2024",Clay,Drip,Unknown,Organic,Unknown,15.51,4533.08,70.22,318312.8776,96990.95,221321.9276
+Farmer 83,Meru,Sorghum,Organic,Short Rains,"Friday, 17 March 2023","Thursday, 20 July 2023",Silty,Sprinkler,Unknown,Unknown,Unknown,2.76,3393.27,195.29,662671.6983,40623.32,622048.3783
+Farmer 89,Kisumu,Potatoes,Hybrid,Short Rains,"Thursday, 19 January 2023","Thursday, 4 May 2023",Silty,Unknown,Unknown,Unknown,Mild,18.82,1761.97,104.85,184742.5545,52180.3,132562.2545
+Farmer 92,Kericho,Potatoes,Organic,Dry Season,"Saturday, 5 August 2023","Saturday, 18 November 2023",Unknown,Unknown,Unknown,Chemical,Mild,19.43,670.65,11.5,7712.475,73970.75,-66258.275
+Farmer 99,Kiambu,Beans,Local,Dry Season,,"Tuesday, 27 February 2024",Unknown,Unknown,Unknown,Chemical,Unknown,0.68,1183.62,135.37,160226.6394,97011.26,63215.3794
+Farmer 103,Machakos,Coffee,Hybrid,Long Rains,"Tuesday, 27 June 2023","Wednesday, 25 October 2023",Peaty,Drip,Unknown,Organic,Unknown,9.215,2187.9,62.52,136787.508,58962.22,77825.288
+Farmer 108,Machakos,Coffee,Local,Short Rains,"Monday, 4 September 2023","Tuesday, 2 January 2024",Loam,Sprinkler,Unknown,Chemical,Mild,1.86,3636.2,125.78,457361.236,16127.07,441234.166
+Farmer 114,Meru,Maize,Organic,Dry Season,"Sunday, 5 November 2023","Monday, 4 March 2024",Loam,Unknown,Unknown,Unknown,Mild,11.9,2917.9,135.24,394616.796,99682.92,294933.876
+Farmer 115,Mombasa,Wheat,Local,Dry Season,"Wednesday, 26 July 2023","Saturday, 23 December 2023",Peaty,Sprinkler,Unknown,Organic,Severe,13.13,479.87,33.47,16061.2489,35172.12,-19110.8711
+Farmer 122,Kericho,Rice,Hybrid,Long Rains,"Tuesday, 31 January 2023","Monday, 5 June 2023",Loam,Sprinkler,Unknown,Chemical,Unknown,3.4,724.93,130.95,94929.5835,58209.77,36719.8135
+Farmer 126,Nyeri,Maize,Local,Long Rains,"Tuesday, 12 December 2023","Wednesday, 10 April 2024",Silty,Sprinkler,Unknown,Unknown,Unknown,3.26,4518.04,179.82,812433.9528,33049.52,779384.4328
+Farmer 127,Nakuru,Coffee,Organic,Long Rains,"Thursday, 29 June 2023","Friday, 27 October 2023",Silty,Unknown,Unknown,Unknown,Mild,8.5,1928.3,29.7,57270.51,23065.06,34205.45
+Farmer 132,Machakos,Tomatoes,Local,Long Rains,"Sunday, 23 April 2023","Monday, 21 August 2023",Loam,Unknown,Unknown,Chemical,Unknown,13.28,1461.41,77.34,113025.4494,42836.25,70189.1994
+Farmer 136,Kiambu,Coffee,Local,Unknown,"Friday, 15 September 2023","Saturday, 13 January 2024",Peaty,Unknown,Unknown,Unknown,Unknown,13.79,816.61,192.23,156976.9403,58962.22,98014.7203
+Farmer 139,Kericho,Coffee,Unknown,Unknown,"Sunday, 4 June 2023","Monday, 2 October 2023",Loam,Flood,Unknown,Organic,Mild,14.06,149.24,146.77,21903.9548,66100.7,-44196.7452
+Farmer 144,Kericho,Potatoes,Local,Short Rains,"Tuesday, 7 February 2023","Tuesday, 23 May 2023",Clay,Flood,Unknown,Unknown,Unknown,5.02,226.31,33.97,7687.7507,51198.96,-43511.2093
+Farmer 152,Nakuru,Wheat,Local,Long Rains,"Saturday, 12 August 2023","Tuesday, 9 January 2024",Peaty,Flood,Unknown,Chemical,Mild,9.73,3424.92,41.16,140969.7072,80347.47,60622.2372
+Farmer 158,Nakuru,Cassava,Local,Dry Season,"Saturday, 18 March 2023","Sunday, 16 July 2023",Sandy,Drip,Unknown,Unknown,Severe,1.01,3505.9,194.76,682809.084,17742.97,665066.114
+Farmer 159,Kericho,Tomatoes,Organic,Short Rains,"Sunday, 10 September 2023","Monday, 8 January 2024",Peaty,Flood,Unknown,Chemical,Severe,4.06,398.24,23.88,9509.9712,51716.09,-42206.1188
+Farmer 160,Nakuru,Tomatoes,Hybrid,Long Rains,"Sunday, 21 May 2023","Monday, 18 September 2023",Sandy,Flood,Unknown,Chemical,Severe,5.02,1686.45,61.18,103177.011,32219.32,70957.691
+Farmer 165,Machakos,Maize,Hybrid,Short Rains,"Friday, 15 December 2023","Saturday, 13 April 2024",Sandy,Sprinkler,Unknown,Unknown,Unknown,9.32,3750.31,53.15,199328.9765,19078.63,180250.3465
+Farmer 174,Machakos,Cassava,Unknown,Unknown,"Saturday, 8 July 2023","Sunday, 5 November 2023",Loam,Unknown,Unknown,Chemical,Severe,2.67,1200.14,118.58,142312.6012,16160.65,126151.9512
+Farmer 179,Eldoret,Beans,Local,Short Rains,"Wednesday, 8 March 2023","Monday, 22 May 2023",Loam,Unknown,Unknown,Organic,Mild,19.02,2414.21,21.35,51543.3835,31750.58,19792.8035
+Farmer 180,Eldoret,Tomatoes,Local,Short Rains,"Wednesday, 12 July 2023","Thursday, 9 November 2023",Loam,Drip,Unknown,Organic,Unknown,15.74,2367.18,127.92,302809.6656,73608.57,229201.0956
+Farmer 187,Eldoret,Tomatoes,Local,Dry Season,"Tuesday, 11 July 2023","Wednesday, 8 November 2023",Loam,Sprinkler,Unknown,Unknown,Severe,3.37,4026,173.15,697101.9,51716.09,645385.81
+Farmer 188,Kisumu,Beans,Unknown,Short Rains,"Tuesday, 19 December 2023","Sunday, 3 March 2024",Peaty,Sprinkler,Unknown,Organic,Mild,16.81,3338.94,21.96,73323.1224,31328.42,41994.7024
+Farmer 196,Meru,Rice,Hybrid,Dry Season,"Thursday, 20 July 2023","Wednesday, 22 November 2023",Peaty,Drip,Unknown,Unknown,Mild,17.13,3326.18,89,296030.02,21895.11,274134.91
+Farmer 197,Kiambu,Beans,Organic,Long Rains,"Monday, 7 August 2023","Saturday, 21 October 2023",Sandy,Drip,Unknown,Organic,Unknown,17.88,4797.32,104.36,500648.3152,65037.46,435610.8552
+Farmer 199,Kericho,Beans,Hybrid,Unknown,"Friday, 27 January 2023","Wednesday, 12 April 2023",Peaty,Unknown,Unknown,Organic,Severe,19.99,773.38,153.42,118651.9596,10943.14,107708.8196
+Farmer 201,Eldoret,Tea,Local,Dry Season,,"Thursday, 25 May 2023",Sandy,Sprinkler,Unknown,Unknown,Severe,15.74,789.42,100.6,79415.652,26226.31,53189.342
+Farmer 203,Nakuru,Tomatoes,Organic,Long Rains,"Friday, 29 September 2023","Saturday, 27 January 2024",Peaty,Unknown,Unknown,Unknown,Mild,11.35,1124.45,80.025,89984.11125,81447.36,8536.75125
+Farmer 204,Kericho,Maize,Local,Dry Season,,"Wednesday, 6 March 2024",Clay,Unknown,Unknown,Unknown,Unknown,11.42,4305.69,59.34,255499.6446,63751.59,191748.0546
+Farmer 207,Nairobi,Wheat,Organic,Dry Season,"Saturday, 17 June 2023","Tuesday, 14 November 2023",Peaty,Drip,Unknown,Organic,Unknown,9.58,1123.79,96.4,108333.356,8607.22,99726.136
+Farmer 209,Kisumu,Wheat,Hybrid,Dry Season,"Friday, 3 February 2023","Monday, 3 July 2023",Clay,Unknown,Unknown,Chemical,Severe,10.43,2089.85,55.11,115171.6335,5701.64,109469.9935
+Farmer 214,Nairobi,Tea,Unknown,Dry Season,"Thursday, 9 November 2023","Friday, 8 March 2024",Unknown,Unknown,Unknown,Organic,Mild,2.55,2548.33,111.51,284164.2783,65188.69,218975.5883
+Farmer 221,Nyeri,Cassava,Unknown,Dry Season,"Thursday, 28 September 2023","Friday, 26 January 2024",Peaty,Sprinkler,Unknown,Chemical,Severe,15.69,3303.4,85.59,282738.006,40866.93,241871.076
+Farmer 227,Nakuru,Cassava,Organic,Long Rains,"Saturday, 13 May 2023","Sunday, 10 September 2023",Peaty,Drip,Unknown,Organic,Unknown,2.59,990.45,83.33,82534.1985,45507.92,37026.2785
+Farmer 228,Nyeri,Tea,Hybrid,Short Rains,"Thursday, 23 February 2023","Friday, 23 June 2023",Silty,Flood,Unknown,Unknown,Unknown,5.04,2528.4,156.76,396351.984,40669.76,355682.224
+Farmer 230,Kericho,Coffee,Organic,Short Rains,"Friday, 22 September 2023","Saturday, 20 January 2024",Peaty,Drip,Unknown,Chemical,Unknown,5.23,885.29,177.46,157103.5634,91161.17,65942.3934
+Farmer 234,Kiambu,Maize,Local,Dry Season,"Monday, 10 April 2023","Tuesday, 8 August 2023",Peaty,Unknown,Unknown,Organic,Severe,11.42,2917.9,27.49,80213.071,81976.55,-1763.479
+Farmer 236,Nairobi,Tomatoes,Organic,Long Rains,"Saturday, 26 August 2023","Sunday, 24 December 2023",Clay,Unknown,Unknown,Organic,Mild,11.7,2882.11,198.8,572963.468,92495.4,480468.068
+Farmer 246,Kisumu,Cassava,Organic,Short Rains,"Sunday, 13 August 2023","Monday, 11 December 2023",Unknown,Drip,Unknown,Unknown,Unknown,7.68,4538.63,41.08,186446.9204,41267.03,145179.8904
+Farmer 249,Nairobi,Wheat,Local,Dry Season,"Friday, 14 April 2023","Monday, 11 September 2023",Peaty,Unknown,Unknown,Chemical,Unknown,11.115,523.74,71,37185.54,2797.86,34387.68
+Farmer 257,Nyeri,Beans,Organic,Short Rains,"Tuesday, 6 June 2023","Sunday, 20 August 2023",Unknown,Unknown,Unknown,Chemical,Severe,10.105,1103.34,42.85,47278.119,54294.31,-7016.191
+Farmer 258,Kiambu,Tea,Organic,Dry Season,,,Peaty,Drip,Unknown,Chemical,Severe,18.64,851.78,142.68,121531.9704,74012.55,47519.4204
+Farmer 260,Nyeri,Beans,Organic,Long Rains,"Sunday, 15 October 2023","Friday, 29 December 2023",Silty,Flood,Unknown,Chemical,Unknown,17.14,2715.95,179.31,486996.9945,42882.08,444114.9145
+Farmer 263,Machakos,Sorghum,Unknown,Long Rains,"Wednesday, 7 June 2023","Tuesday, 10 October 2023",Loam,Sprinkler,Unknown,Unknown,Mild,7.28,3248.44,68,220893.92,45414.04,175479.88
+Farmer 264,Kericho,Potatoes,Local,Dry Season,"Sunday, 23 July 2023","Sunday, 5 November 2023",Loam,Unknown,Unknown,Chemical,Mild,13.92,2762.19,186.05,513905.4495,86484.22,427421.2295
+Farmer 265,Nyeri,Maize,Organic,Long Rains,"Wednesday, 8 November 2023","Thursday, 7 March 2024",Silty,Unknown,Unknown,Chemical,Unknown,18.66,4514.63,108.48,489747.0624,84020.57,405726.4924
+Farmer 269,Nairobi,Coffee,Organic,Dry Season,"Wednesday, 3 May 2023","Thursday, 31 August 2023",Unknown,Flood,Unknown,Organic,Severe,11.19,2611.99,134.49,351286.5351,2948.35,348338.1851
+Farmer 275,Kisumu,Maize,Unknown,Short Rains,"Thursday, 8 June 2023","Friday, 6 October 2023",Sandy,Unknown,Unknown,Organic,Unknown,1.55,4531.8,164.83,746976.594,63767.3,683209.294
+Farmer 276,Nairobi,Beans,Local,Dry Season,"Monday, 4 December 2023","Saturday, 17 February 2024",Clay,Drip,Unknown,Organic,Unknown,1.99,882.25,164.22,144883.095,55220.69,89662.405
+Farmer 277,Machakos,Potatoes,Organic,Dry Season,"Friday, 1 September 2023","Friday, 15 December 2023",Silty,Unknown,Unknown,Unknown,Severe,14.62,1466.93,19.68,28869.1824,21060.94,7808.2424
+Farmer 278,Nyeri,Maize,Local,Unknown,"Saturday, 27 May 2023","Sunday, 24 September 2023",Peaty,Flood,Unknown,Unknown,Severe,9.6,2834.75,179.81,509716.3975,63740.58,445975.8175
+Farmer 281,Eldoret,Coffee,Hybrid,Long Rains,"Sunday, 30 April 2023","Monday, 28 August 2023",Sandy,Flood,Unknown,Unknown,Mild,6.98,2819.5,173.34,488732.13,67510.37,421221.76
+Farmer 282,Eldoret,Rice,Local,Dry Season,"Thursday, 5 January 2023","Wednesday, 10 May 2023",Loam,Drip,Unknown,Chemical,Unknown,14.89,1372.39,29.62,40650.1918,55696.23,-15046.0382
+Farmer 283,Nairobi,Wheat,Hybrid,Short Rains,"Wednesday, 9 August 2023","Saturday, 6 January 2024",Sandy,Unknown,Unknown,Chemical,Severe,13.86,1284.16,76.46,98186.8736,39374.05,58812.8236
+Farmer 298,Kiambu,Wheat,Local,Dry Season,"Sunday, 16 April 2023","Wednesday, 13 September 2023",Silty,Drip,Unknown,Chemical,Unknown,16.11,3588.03,155.76,558871.5528,32847.9,526023.6528
+Farmer 301,Kericho,Sorghum,Hybrid,Short Rains,"Tuesday, 27 June 2023","Monday, 30 October 2023",Unknown,Flood,Unknown,Chemical,Mild,11.19,1643,68.82,113071.26,7717.3,105353.96
+Farmer 307,Kiambu,Coffee,Hybrid,Long Rains,"Thursday, 22 June 2023","Friday, 20 October 2023",Clay,Unknown,Unknown,Chemical,Unknown,16.29,3076.27,125.78,386933.2406,30616.36,356316.8806
+Farmer 308,Mombasa,Rice,Hybrid,Long Rains,"Tuesday, 4 April 2023","Monday, 7 August 2023",Clay,Drip,Unknown,Organic,Mild,4.93,3647.15,40.24,146761.316,72534.59,74226.726
+Farmer 313,Mombasa,Rice,Hybrid,Short Rains,"Wednesday, 26 July 2023","Tuesday, 28 November 2023",Unknown,Flood,Unknown,Chemical,Mild,7.28,4950.74,160.75,795831.455,49333.99,746497.465
+Farmer 325,Mombasa,Sorghum,Local,Short Rains,,"Thursday, 3 August 2023",Peaty,Unknown,Unknown,Unknown,Unknown,8.98,2268.85,78.24,177514.824,5463.24,172051.584
+Farmer 328,Nakuru,Coffee,Local,Long Rains,"Tuesday, 11 April 2023","Wednesday, 9 August 2023",Clay,Flood,Unknown,Organic,Severe,10.47,206.23,150.54,31045.8642,26482.66,4563.2042
+Farmer 329,Nyeri,Wheat,Organic,Short Rains,"Saturday, 15 July 2023","Tuesday, 12 December 2023",Sandy,Flood,Unknown,Unknown,Mild,5.76,3187.69,178.74,569767.7106,75521.07,494246.6406
+Farmer 330,Mombasa,Sorghum,Hybrid,Short Rains,"Thursday, 19 January 2023","Wednesday, 24 May 2023",Unknown,Drip,Unknown,Unknown,Unknown,7.8,3695.37,140.55,519384.2535,93208.29,426175.9635
+Farmer 331,Kisumu,Tomatoes,Hybrid,Unknown,"Thursday, 21 September 2023","Friday, 19 January 2024",Silty,Unknown,Unknown,Organic,Unknown,9.67,2741.68,86.03,235866.7304,34179.96,201686.7704
+Farmer 332,Mombasa,Sorghum,Local,Short Rains,"Sunday, 31 December 2023","Saturday, 4 May 2024",Peaty,Drip,Unknown,Chemical,Mild,18.86,2333.81,47.7,111322.737,30225.12,81097.617
+Farmer 337,Nakuru,Sorghum,Organic,Short Rains,"Wednesday, 11 January 2023","Tuesday, 16 May 2023",Silty,Unknown,Unknown,Organic,Severe,6.51,3010.63,194.12,584423.4956,53037.755,531385.7406
+Farmer 340,Nairobi,Cassava,Hybrid,Dry Season,"Sunday, 6 August 2023","Monday, 4 December 2023",Silty,Sprinkler,Unknown,Organic,Mild,6.2,4626.65,47.96,221894.134,45507.92,176386.214
+Farmer 341,Nyeri,Tea,Organic,Long Rains,"Friday, 27 October 2023","Saturday, 24 February 2024",Clay,Unknown,Unknown,Unknown,Severe,15.74,846.04,112.1,94841.084,9423.01,85418.074
+Farmer 346,Nakuru,Sorghum,Hybrid,Dry Season,"Monday, 24 April 2023","Sunday, 27 August 2023",Clay,Sprinkler,Unknown,Chemical,Unknown,19.9,3791.14,122.1,462898.194,94828.19,368070.004
+Farmer 347,Machakos,Tea,Organic,Dry Season,"Saturday, 10 June 2023","Sunday, 8 October 2023",Clay,Unknown,Unknown,Chemical,Severe,19.37,3197.38,22.69,72548.5522,57573.38,14975.1722
+Farmer 348,Nyeri,Tea,Organic,Unknown,"Friday, 19 May 2023","Saturday, 16 September 2023",Unknown,Flood,Unknown,Chemical,Unknown,17.39,3146.33,127.18,400150.2494,79299.36,320850.8894
+Farmer 350,Machakos,Cassava,Organic,Long Rains,"Saturday, 24 June 2023","Sunday, 22 October 2023",Silty,Flood,Unknown,Unknown,Mild,1.23,3819.68,174.47,666419.5696,45507.92,620911.6496
+Farmer 351,Nairobi,Wheat,Organic,Unknown,"Tuesday, 24 January 2023","Friday, 23 June 2023",Sandy,Unknown,Unknown,Organic,Mild,16.07,1759.66,126.03,221769.9498,41487.11,180282.8398
+Farmer 354,Machakos,Tea,Local,Dry Season,"Friday, 29 December 2023","Saturday, 27 April 2024",Sandy,Flood,Unknown,Chemical,Severe,1.22,3791.98,139.74,529891.2852,67450.25,462441.0352
+Farmer 356,Mombasa,Cassava,Local,Dry Season,"Saturday, 10 June 2023","Sunday, 8 October 2023",Clay,Unknown,Unknown,Unknown,Unknown,19.96,1179.66,155.43,183354.5538,69224.6,114129.9538
+Farmer 364,Meru,Rice,Local,Dry Season,"Friday, 22 December 2023","Thursday, 25 April 2024",Sandy,Flood,Unknown,Chemical,Mild,9.62,2481.32,182.73,453411.6036,71915.41,381496.1936
+Farmer 368,Mombasa,Rice,Local,Long Rains,"Friday, 13 January 2023","Thursday, 18 May 2023",Sandy,Sprinkler,Unknown,Chemical,Severe,15.8,262.63,23.14,6077.2582,92305.07,-86227.8118
+Farmer 374,Nakuru,Potatoes,Hybrid,Short Rains,"Sunday, 26 February 2023","Sunday, 11 June 2023",Sandy,Unknown,Unknown,Chemical,Severe,1.36,732.72,47.56,34848.1632,60552.65,-25704.4868
+Farmer 386,Nairobi,Sorghum,Organic,Short Rains,"Sunday, 29 January 2023","Saturday, 3 June 2023",Silty,Unknown,Unknown,Chemical,Severe,3.16,4699.49,85.07,399785.6143,36849.47,362936.1443
+Farmer 388,Kiambu,Coffee,Local,Dry Season,"Friday, 29 September 2023","Saturday, 27 January 2024",Unknown,Sprinkler,Unknown,Chemical,Mild,3.91,1364.88,123.375,168392.07,50468.53,117923.54
+Farmer 390,Nakuru,Rice,Hybrid,Long Rains,"Monday, 19 June 2023","Sunday, 22 October 2023",Silty,Sprinkler,Unknown,Unknown,Mild,5.44,1125.77,42.85,48239.2445,74836.4,-26597.1555
+Farmer 393,Kiambu,Tea,Hybrid,Dry Season,"Saturday, 7 October 2023","Sunday, 4 February 2024",Peaty,Sprinkler,Unknown,Unknown,Mild,12.89,3763.74,183.35,690081.729,94395.1,595686.629
+Farmer 397,Machakos,Potatoes,Unknown,Short Rains,"Monday, 27 March 2023","Monday, 10 July 2023",Sandy,Unknown,Unknown,Unknown,Mild,17.18,2270.095,69.96,158815.8462,45045.54,113770.3062
+Farmer 403,Machakos,Maize,Local,Unknown,"Sunday, 15 January 2023","Monday, 15 May 2023",Loam,Drip,Unknown,Chemical,Unknown,6.66,3777.23,89.49,338024.3127,35324.97,302699.3427
+Farmer 409,Machakos,Beans,Organic,Short Rains,"Monday, 17 April 2023","Saturday, 1 July 2023",Silty,Drip,Unknown,Organic,Severe,6.36,516.87,178.6,92312.982,48000.18,44312.802
+Farmer 412,Kericho,Coffee,Hybrid,Short Rains,,"Saturday, 28 October 2023",Sandy,Drip,Unknown,Unknown,Severe,9.215,774.57,140.53,108850.3221,58962.22,49888.1021
+Farmer 416,Mombasa,Sorghum,Unknown,Dry Season,"Tuesday, 28 November 2023","Monday, 1 April 2024",Silty,Sprinkler,Unknown,Unknown,Unknown,3.62,1735.84,33.75,58584.6,73511.64,-14927.04
+Farmer 420,Meru,Coffee,Organic,Long Rains,"Wednesday, 16 August 2023","Thursday, 14 December 2023",Peaty,Flood,Unknown,Unknown,Unknown,16.41,1815.34,151.4,274842.476,9966.52,264875.956
+Farmer 422,Nairobi,Sorghum,Local,Dry Season,,"Friday, 3 November 2023",Unknown,Sprinkler,Unknown,Chemical,Unknown,17.19,2934.15,93.22,273521.463,21196.74,252324.723
+Farmer 423,Machakos,Wheat,Local,Dry Season,"Wednesday, 6 December 2023","Saturday, 4 May 2024",Peaty,Drip,Unknown,Unknown,Mild,14.47,2502.89,176.21,441034.2469,20371.04,420663.2069
+Farmer 425,Nyeri,Coffee,Unknown,Long Rains,"Friday, 14 April 2023","Saturday, 12 August 2023",Silty,Drip,Unknown,Chemical,Unknown,7.82,2233.39,101.79,227336.7681,89787.75,137549.0181
+Farmer 431,Eldoret,Coffee,Organic,Unknown,,"Tuesday, 21 November 2023",Sandy,Sprinkler,Unknown,Unknown,Unknown,1.15,162.55,162.14,26355.857,66486.57,-40130.713
+Farmer 434,Nairobi,Tea,Hybrid,Dry Season,"Tuesday, 29 August 2023","Wednesday, 27 December 2023",Unknown,Drip,Unknown,Unknown,Unknown,10.51,4886.09,71.07,347254.4163,77084.87,270169.5463
+Farmer 435,Kericho,Potatoes,Local,Short Rains,"Wednesday, 6 December 2023","Wednesday, 20 March 2024",Clay,Flood,Unknown,Chemical,Unknown,19.34,2530.19,163.05,412547.4795,1979.2,410568.2795
+Farmer 439,Nakuru,Coffee,Local,Dry Season,"Sunday, 12 November 2023","Monday, 11 March 2024",Silty,Unknown,Unknown,Unknown,Severe,6.02,3526.84,165.87,584996.9508,47891.29,537105.6608
+Farmer 444,Kiambu,Sorghum,Hybrid,Short Rains,"Sunday, 29 January 2023","Saturday, 3 June 2023",Loam,Sprinkler,Unknown,Unknown,Severe,17.94,137.75,109.28,15053.32,53442.79,-38389.47
+Farmer 456,Meru,Tea,Hybrid,Dry Season,,"Monday, 24 April 2023",Sandy,Drip,Unknown,Organic,Mild,16.7,554.13,46.4,25711.632,85549.6,-59837.968
+Farmer 459,Eldoret,Cassava,Hybrid,Long Rains,"Tuesday, 21 February 2023","Wednesday, 21 June 2023",Peaty,Sprinkler,Unknown,Chemical,Unknown,11.26,1573.03,159.31,250599.4093,48805.58,201793.8293
+Farmer 468,Eldoret,Cassava,Hybrid,Short Rains,"Monday, 6 November 2023","Tuesday, 5 March 2024",Loam,Sprinkler,Unknown,Unknown,Severe,0.99,3220.96,11.18,36010.3328,13071.97,22938.3628
+Farmer 469,Nyeri,Maize,Hybrid,Short Rains,"Thursday, 6 July 2023","Friday, 3 November 2023",Peaty,Sprinkler,Unknown,Organic,Mild,5.54,134.63,136.8,18417.384,56651.74,-38234.356
+Farmer 473,Kiambu,Cassava,Hybrid,Long Rains,"Wednesday, 18 October 2023","Thursday, 15 February 2024",Clay,Sprinkler,Unknown,Unknown,Unknown,9.63,4178.12,172.39,720266.1068,86590.45,633675.6568
+Farmer 475,Meru,Wheat,Organic,Short Rains,"Wednesday, 15 March 2023","Saturday, 12 August 2023",Loam,Unknown,Unknown,Chemical,Severe,16.94,1868.56,69.81,130444.1736,59199.47,71244.7036
+Farmer 480,Nairobi,Maize,Local,Unknown,"Thursday, 2 March 2023","Friday, 30 June 2023",Loam,Unknown,Unknown,Unknown,Mild,13.64,2558.82,110.93,283849.9026,89684.01,194165.8926
+Farmer 491,Nairobi,Potatoes,Organic,Long Rains,"Tuesday, 1 August 2023","Tuesday, 14 November 2023",Sandy,Sprinkler,Unknown,Unknown,Unknown,13.5,1839.78,86.27,158717.8206,41325.89,117391.9306
+Farmer 492,Kericho,Beans,Organic,Long Rains,"Tuesday, 11 July 2023","Sunday, 24 September 2023",Peaty,Drip,Unknown,Unknown,Unknown,19.81,1802.97,87.02,156894.4494,79023.56,77870.8894
+Farmer 497,Eldoret,Beans,Hybrid,Dry Season,"Tuesday, 26 September 2023","Sunday, 10 December 2023",Clay,Flood,Unknown,Chemical,Severe,19.4,3223.27,95.21,306887.5367,68258.75,238628.7867
+Farmer 499,Kericho,Cassava,Hybrid,Dry Season,"Friday, 17 November 2023","Saturday, 16 March 2024",Loam,Sprinkler,Unknown,Chemical,Mild,6.36,4112.78,103.66,426330.7748,54915.02,371415.7548
+Farmer 4,Eldoret,Potatoes,Organic,Short Rains,"Wednesday, 22 March 2023","Wednesday, 5 July 2023",Unknown,Unknown,UREA,Chemical,Mild,1.56,420.18,125.2,52606.536,43454.15,9152.386
+Farmer 13,Meru,Potatoes,Organic,Long Rains,"Sunday, 10 December 2023","Sunday, 24 March 2024",Unknown,Sprinkler,Manure,Organic,Mild,4.17,1883.1,134.75,253747.725,33519.18,220228.545
+Farmer 11,Kiambu,Tomatoes,Local,Long Rains,"Sunday, 29 January 2023","Monday, 29 May 2023",Loam,Flood,DAP,Chemical,Mild,13.03,4861.87,20,97237.4,51716.09,45521.31
+Farmer 9,Nairobi,Cassava,Hybrid,Short Rains,"Friday, 31 March 2023","Saturday, 29 July 2023",Sandy,Sprinkler,DAP,Organic,Mild,11.03,4757.72,27.42,130456.6824,21508.58,108948.1024
+Farmer 27,Nakuru,Wheat,Unknown,Long Rains,"Friday, 22 December 2023","Monday, 20 May 2024",Silty,Flood,Manure,Organic,Mild,2.49,930.96,62.43,58119.8328,33624.63,24495.2028
+Farmer 37,Mombasa,Wheat,Unknown,Dry Season,"Tuesday, 17 October 2023","Friday, 15 March 2024",Clay,Flood,DAP,Unknown,Mild,12.48,2038.42,194.06,395575.7852,19026.09,376549.6952
+Farmer 44,Nairobi,Coffee,Local,Short Rains,"Monday, 30 October 2023","Tuesday, 27 February 2024",Loam,Flood,UREA,Chemical,Mild,1.96,4944.46,60.98,301513.1708,39185.83,262327.3408
+Farmer 47,Nakuru,Sorghum,Organic,Dry Season,"Sunday, 5 November 2023","Saturday, 9 March 2024",Loam,Drip,UREA,Organic,Mild,17.61,258.3,161.78,41787.774,71245,-29457.226
+Farmer 53,Kiambu,Potatoes,Organic,Long Rains,"Wednesday, 18 January 2023","Wednesday, 3 May 2023",Loam,Drip,DAP,Organic,Mild,3.99,3705.33,86.27,319658.8191,49942.47,269716.3491
+Farmer 54,Kiambu,Tomatoes,Organic,Long Rains,"Saturday, 16 December 2023","Sunday, 14 April 2024",Loam,Sprinkler,UREA,Organic,Mild,8.38,4833.67,82.71,399792.8457,48178.99,351613.8557
+Farmer 67,Eldoret,Tea,Hybrid,Short Rains,"Saturday, 18 March 2023","Sunday, 16 July 2023",Silty,Sprinkler,Manure,Organic,Mild,0.53,3239.03,100.16,324421.2448,56929.32,267491.9248
+Farmer 80,Nyeri,Rice,Hybrid,Long Rains,"Monday, 29 May 2023","Sunday, 1 October 2023",Sandy,Flood,Manure,Organic,Mild,10.48,4889.87,168.75,825165.5625,75855.29,749310.2725
+Farmer 81,Kericho,Cassava,Organic,Short Rains,"Tuesday, 21 March 2023","Wednesday, 19 July 2023",Peaty,Drip,DAP,Organic,Mild,9.87,1666.44,46.82,78022.7208,36889.75,41132.9708
+Farmer 87,Kisumu,Coffee,Hybrid,Dry Season,"Friday, 4 August 2023","Saturday, 2 December 2023",Silty,Drip,UREA,Unknown,Mild,16.08,698.06,173.29,120966.8174,82203.89,38762.9274
+Farmer 101,Mombasa,Rice,Local,Long Rains,"Monday, 19 June 2023","Sunday, 22 October 2023",Loam,Drip,DAP,Unknown,Mild,7.48,139.6,100.39,14014.444,45975.91,-31961.466
+Farmer 104,Meru,Cassava,Hybrid,Short Rains,"Monday, 4 December 2023","Tuesday, 2 April 2024",Unknown,Unknown,Manure,Organic,Mild,1.09,2734.26,22.1,60427.146,67813.67,-7386.524
+Farmer 105,Machakos,Cassava,Organic,Dry Season,"Saturday, 16 September 2023","Sunday, 14 January 2024",Loam,Drip,DAP,Unknown,Mild,12.29,3712.72,127.37,472889.1464,63180.24,409708.9064
+Farmer 111,Nairobi,Sorghum,Unknown,Dry Season,"Thursday, 21 December 2023","Wednesday, 24 April 2024",Peaty,Unknown,Manure,Unknown,Mild,9.16,726.52,197.57,143538.5564,89853.58,53684.9764
+Farmer 121,Kisumu,Beans,Organic,Short Rains,"Sunday, 26 February 2023","Friday, 12 May 2023",Peaty,Flood,DAP,Unknown,Mild,12.26,4109.45,20.62,84736.859,68757.33,15979.529
+Farmer 129,Eldoret,Beans,Unknown,Unknown,"Saturday, 28 October 2023","Thursday, 11 January 2024",Silty,Unknown,CAN,Unknown,Mild,6.33,3108.62,62,192734.44,47237.33,145497.11
+Farmer 130,Nairobi,Rice,Local,Dry Season,"Friday, 25 August 2023","Thursday, 28 December 2023",Unknown,Drip,DAP,Unknown,Mild,8.87,1661.09,116.58,193649.8722,29218.65,164431.2222
+Farmer 134,Kisumu,Rice,Organic,Long Rains,"Tuesday, 11 April 2023","Monday, 14 August 2023",Clay,Flood,Manure,Organic,Mild,6.96,4643.44,64.77,300755.6088,14634.16,286121.4488
+Farmer 141,Nairobi,Sorghum,Local,Dry Season,"Thursday, 9 February 2023","Wednesday, 14 June 2023",Silty,Unknown,UREA,Unknown,Mild,1.22,4700.29,134.64,632847.0456,72113.61,560733.4356
+Farmer 142,Kericho,Tea,Local,Dry Season,"Friday, 18 August 2023","Saturday, 16 December 2023",Loam,Sprinkler,Manure,Unknown,Mild,10.51,3836.8,93.79,359853.472,8889.32,350964.152
+Farmer 145,Machakos,Rice,Local,Dry Season,"Sunday, 15 January 2023","Saturday, 20 May 2023",Silty,Unknown,CAN,Chemical,Mild,10.19,982.32,113.25,111247.74,70777.06,40470.68
+Farmer 146,Nairobi,Beans,Hybrid,Dry Season,"Tuesday, 1 August 2023","Sunday, 15 October 2023",Peaty,Drip,Manure,Unknown,Mild,15.72,2038.08,16.85,34341.648,87785.54,-53443.892
+Farmer 153,Machakos,Wheat,Local,Short Rains,,"Monday, 23 October 2023",Clay,Flood,DAP,Chemical,Mild,11.115,2089.85,192.12,401501.982,2210.22,399291.762
+Farmer 162,Eldoret,Sorghum,Organic,Unknown,"Saturday, 21 January 2023","Friday, 26 May 2023",Clay,Flood,UREA,Organic,Mild,18.49,990.2,172.56,170868.912,46317.58,124551.332
+Farmer 166,Mombasa,Potatoes,Organic,Dry Season,"Sunday, 5 March 2023","Sunday, 18 June 2023",Clay,Flood,DAP,Chemical,Mild,8.32,1626.87,86.27,140350.0749,31804.9,108545.1749
+Farmer 175,Eldoret,Beans,Local,Long Rains,"Saturday, 18 November 2023","Thursday, 1 February 2024",Unknown,Unknown,DAP,Organic,Mild,14.72,2316.37,61.93,143452.7941,49181.81,94270.9841
+Farmer 184,Eldoret,Maize,Hybrid,Long Rains,"Sunday, 26 March 2023","Monday, 24 July 2023",Sandy,Flood,CAN,Chemical,Mild,11.04,523.58,130.21,68175.3518,57299.43,10875.9218
+Farmer 191,Nyeri,Potatoes,Hybrid,Long Rains,"Monday, 30 January 2023","Monday, 15 May 2023",Unknown,Sprinkler,CAN,Chemical,Mild,1.48,1222.53,156.84,191741.6052,13289.59,178452.0152
+Farmer 198,Kiambu,Sorghum,Organic,Short Rains,"Wednesday, 4 January 2023","Tuesday, 9 May 2023",Unknown,Drip,Manure,Unknown,Mild,12.48,4956.46,152.07,753728.8722,4601.57,749127.3022
+Farmer 200,Mombasa,Potatoes,Hybrid,Short Rains,"Sunday, 22 October 2023","Sunday, 4 February 2024",Clay,Flood,UREA,Unknown,Mild,14.89,2003.36,33.68,67473.1648,71395.75,-3922.5852
+Farmer 206,Kisumu,Tomatoes,Organic,Dry Season,"Saturday, 8 July 2023","Sunday, 5 November 2023",Loam,Drip,Manure,Chemical,Mild,10.56,793.35,40.13,31837.1355,94599.83,-62762.6945
+Farmer 213,Kericho,Tea,Local,Unknown,"Thursday, 12 January 2023","Friday, 12 May 2023",Silty,Drip,DAP,Chemical,Mild,16.44,2548.33,149.56,381128.2348,99595.59,281532.6448
+Farmer 215,Kisumu,Tomatoes,Organic,Dry Season,"Tuesday, 31 October 2023","Wednesday, 28 February 2024",Peaty,Sprinkler,UREA,Unknown,Mild,11.07,3773.85,153.56,579512.406,85395.68,494116.726
+Farmer 222,Kiambu,Rice,Hybrid,Dry Season,"Wednesday, 5 July 2023","Tuesday, 7 November 2023",Silty,Sprinkler,DAP,Unknown,Mild,3.01,4660.43,28.46,132635.8378,54424.29,78211.5478
+Farmer 229,Kericho,Beans,Organic,Short Rains,"Friday, 13 October 2023","Wednesday, 27 December 2023",Clay,Unknown,DAP,Chemical,Mild,2.92,1212.64,163.43,198181.7552,30572.62,167609.1352
+Farmer 242,Eldoret,Potatoes,Hybrid,Long Rains,"Thursday, 9 March 2023","Thursday, 22 June 2023",Loam,Drip,UREA,Unknown,Mild,18.22,896.32,148.92,133479.9744,70408.98,63070.9944
+Farmer 245,Nyeri,Cassava,Local,Dry Season,"Monday, 17 July 2023","Tuesday, 14 November 2023",Unknown,Sprinkler,UREA,Organic,Mild,18.08,487.49,188.58,91930.8642,40310.41,51620.4542
+Farmer 250,Mombasa,Beans,Hybrid,Long Rains,"Wednesday, 15 February 2023","Monday, 1 May 2023",Sandy,Drip,CAN,Unknown,Mild,11.12,3186.83,198.71,633254.9893,76489.01,556765.9793
+Farmer 252,Meru,Tomatoes,Local,Unknown,"Wednesday, 9 August 2023","Thursday, 7 December 2023",Peaty,Drip,CAN,Organic,Mild,1.35,149.79,67.83,10160.2557,21199.98,-11039.7243
+Farmer 256,Kisumu,Rice,Organic,Short Rains,"Sunday, 12 February 2023","Saturday, 17 June 2023",Sandy,Sprinkler,CAN,Chemical,Mild,18.14,3036.18,49.75,151049.955,17879.14,133170.815
+Farmer 262,Nyeri,Cassava,Organic,Long Rains,"Wednesday, 22 November 2023","Thursday, 21 March 2024",Clay,Flood,Manure,Chemical,Mild,9.63,1548.57,136.4,211224.948,45507.92,165717.028
+Farmer 279,Kisumu,Tea,Hybrid,Short Rains,"Sunday, 6 August 2023","Monday, 4 December 2023",Sandy,Drip,CAN,Chemical,Mild,8,3767.98,83.8,315756.724,58584.72,257172.004
+Farmer 287,Nakuru,Coffee,Organic,Dry Season,,"Wednesday, 26 April 2023",Clay,Sprinkler,UREA,Organic,Mild,0.67,1569.39,64.62,101413.9818,41581.02,59832.9618
+Farmer 288,Nairobi,Beans,Organic,Long Rains,"Tuesday, 17 January 2023","Sunday, 2 April 2023",Sandy,Sprinkler,DAP,Chemical,Mild,9,1834.54,87.97,161384.4838,46516.9,114867.5838
+Farmer 299,Meru,Potatoes,Hybrid,Short Rains,"Tuesday, 7 February 2023","Tuesday, 23 May 2023",Loam,Unknown,Manure,Chemical,Mild,12.19,1780.26,13.44,23926.6944,30330.32,-6403.6256
+Farmer 303,Nyeri,Tea,Organic,Dry Season,"Monday, 28 August 2023","Tuesday, 26 December 2023",Silty,Drip,Manure,Unknown,Mild,2.33,1140.85,180.37,205775.1145,83401.49,122373.6245
+Farmer 305,Mombasa,Coffee,Local,Short Rains,"Sunday, 16 July 2023","Monday, 13 November 2023",Sandy,Flood,Manure,Unknown,Mild,16.21,773.61,151.84,117464.9424,65244.22,52220.7224
+Farmer 306,Eldoret,Potatoes,Local,Dry Season,"Sunday, 14 May 2023","Sunday, 27 August 2023",Silty,Drip,UREA,Chemical,Mild,19.44,3453.48,193.55,668421.054,29825.84,638595.214
+Farmer 312,Machakos,Beans,Organic,Short Rains,"Monday, 20 February 2023","Saturday, 6 May 2023",Silty,Drip,CAN,Organic,Mild,6.43,2386.16,60.87,145245.5592,16994.63,128250.9292
+Farmer 326,Nakuru,Rice,Hybrid,Long Rains,"Sunday, 29 January 2023","Saturday, 3 June 2023",Peaty,Unknown,DAP,Unknown,Mild,9.27,3289.36,126.71,416794.8056,65162.16,351632.6456
+Farmer 327,Machakos,Coffee,Hybrid,Dry Season,"Sunday, 21 May 2023","Monday, 18 September 2023",Sandy,Unknown,UREA,Organic,Mild,2.12,3757.64,49.65,186566.826,71646.96,114919.866
+Farmer 333,Machakos,Rice,Unknown,Short Rains,"Thursday, 14 September 2023","Wednesday, 17 January 2024",Clay,Drip,Manure,Organic,Mild,16.57,2443.38,114.915,280781.0127,84624.85,196156.1627
+Farmer 335,Mombasa,Coffee,Local,Unknown,"Friday, 27 October 2023","Saturday, 24 February 2024",Silty,Unknown,CAN,Unknown,Mild,18.51,1809.07,67.59,122275.0413,94740.89,27534.1513
+Farmer 339,Nairobi,Maize,Organic,Long Rains,"Tuesday, 21 February 2023","Wednesday, 21 June 2023",Peaty,Unknown,UREA,Chemical,Mild,4.32,2992.42,35.2,105333.184,77406.09,27927.094
+Farmer 353,Nakuru,Beans,Local,Long Rains,"Tuesday, 23 May 2023","Sunday, 6 August 2023",Sandy,Sprinkler,CAN,Chemical,Mild,18.08,3105.05,158.96,493578.748,31504.41,462074.338
+Farmer 355,Mombasa,Rice,Local,Long Rains,"Thursday, 9 February 2023","Wednesday, 14 June 2023",Unknown,Sprinkler,Manure,Unknown,Mild,1.81,2310.23,176.01,406623.5823,70268.45,336355.1323
+Farmer 358,Kericho,Wheat,Hybrid,Short Rains,"Monday, 24 July 2023","Thursday, 21 December 2023",Clay,Drip,DAP,Unknown,Mild,3.21,2369.1,132.08,312910.728,18176.75,294733.978
+Farmer 361,Mombasa,Sorghum,Organic,Dry Season,"Sunday, 21 May 2023","Saturday, 23 September 2023",Sandy,Drip,CAN,Chemical,Mild,1.9,4781.53,149.92,716846.9776,65835.78,651011.1976
+Farmer 377,Eldoret,Maize,Local,Long Rains,"Thursday, 9 March 2023","Friday, 7 July 2023",Clay,Flood,Manure,Unknown,Mild,4.33,3976.8,53.7,213554.16,57435.63,156118.53
+Farmer 378,Kericho,Beans,Hybrid,Short Rains,"Sunday, 1 January 2023","Friday, 17 March 2023",Sandy,Flood,Manure,Chemical,Mild,16.35,4873.12,33.04,161007.8848,8368.91,152638.9748
+Farmer 382,Nairobi,Wheat,Hybrid,Long Rains,"Friday, 17 February 2023","Monday, 17 July 2023",Clay,Sprinkler,Manure,Unknown,Mild,6.86,1584.36,105.63,167355.9468,31562.31,135793.6368
+Farmer 400,Nyeri,Potatoes,Local,Long Rains,"Friday, 10 February 2023","Friday, 26 May 2023",Peaty,Unknown,UREA,Organic,Mild,15.39,2347.07,158.84,372808.5988,46322.7,326485.8988
+Farmer 401,Kisumu,Rice,Hybrid,Long Rains,"Sunday, 8 October 2023","Saturday, 10 February 2024",Clay,Flood,CAN,Unknown,Mild,10.6,4495.63,141.7,637030.771,55118.24,581912.531
+Farmer 402,Kiambu,Tomatoes,Organic,Short Rains,"Tuesday, 23 May 2023","Wednesday, 20 September 2023",Sandy,Sprinkler,CAN,Organic,Mild,7.21,4966.44,193.63,961651.7772,69434.33,892217.4472
+Farmer 414,Machakos,Sorghum,Organic,Short Rains,"Sunday, 4 June 2023","Saturday, 7 October 2023",Peaty,Flood,UREA,Unknown,Mild,13.34,4429.3,23.87,105727.391,38800.64,66926.751
+Farmer 415,Nairobi,Tomatoes,Organic,Short Rains,"Tuesday, 24 October 2023","Wednesday, 21 February 2024",Clay,Sprinkler,CAN,Unknown,Mild,8.42,2208.85,97.28,214876.928,52498.53,162378.398
+Farmer 433,Kericho,Maize,Hybrid,Long Rains,"Tuesday, 24 January 2023","Wednesday, 24 May 2023",Peaty,Unknown,Manure,Chemical,Mild,13.74,135.73,80.66,10947.9818,47997.14,-37049.1582
+Farmer 441,Nyeri,Beans,Organic,Unknown,"Monday, 31 July 2023","Saturday, 14 October 2023",Peaty,Unknown,DAP,Chemical,Mild,6.56,2822.04,108.68,306699.3072,56458.31,250240.9972
+Farmer 450,Nyeri,Rice,Hybrid,Short Rains,"Tuesday, 3 January 2023","Monday, 8 May 2023",Loam,Sprinkler,Manure,Unknown,Mild,19.21,1602.76,64.4,103217.744,18609,84608.744
+Farmer 457,Nairobi,Tea,Hybrid,Dry Season,"Tuesday, 3 October 2023","Wednesday, 31 January 2024",Unknown,Flood,DAP,Unknown,Mild,14.36,2245.98,112.04,251639.5992,32589.43,219050.1692
+Farmer 482,Machakos,Tomatoes,Local,Short Rains,"Wednesday, 2 August 2023","Thursday, 30 November 2023",Loam,Flood,UREA,Chemical,Mild,11.97,3572.89,56.11,200474.8579,35333.53,165141.3279
+Farmer 495,Kiambu,Coffee,Organic,Long Rains,,"Friday, 20 October 2023",Silty,Unknown,DAP,Chemical,Mild,12.09,2178.39,120.04,261493.9356,1070.99,260422.9456
+Farmer 496,Eldoret,Potatoes,Hybrid,Dry Season,"Wednesday, 8 November 2023","Wednesday, 21 February 2024",Unknown,Drip,DAP,Unknown,Mild,10.06,2023.1,50.35,101863.085,27940.08,73923.005
+Farmer 500,Meru,Tea,Organic,Dry Season,"Thursday, 4 May 2023","Friday, 1 September 2023",Clay,Flood,CAN,Unknown,Mild,10.74,2548.33,174.88,445651.9504,58584.72,387067.2304
+Farmer 5,Machakos,Tomatoes,Hybrid,Short Rains,"Wednesday, 1 March 2023","Thursday, 29 June 2023",Clay,Unknown,UREA,Unknown,Severe,13.93,2882.11,199.42,574750.3762,69673.69,505076.6862
+Farmer 18,Kericho,Wheat,Hybrid,Dry Season,"Monday, 23 October 2023","Thursday, 21 March 2024",Silty,Unknown,CAN,Organic,Severe,12.3,2141.28,37.3,79869.744,24932.05,54937.694
+Farmer 30,Eldoret,Sorghum,Local,Long Rains,"Sunday, 16 April 2023","Saturday, 19 August 2023",Peaty,Sprinkler,CAN,Chemical,Severe,8.6,1412.66,29.46,41616.9636,61415.92,-19798.9564
+Farmer 31,Kisumu,Rice,Hybrid,Short Rains,"Sunday, 4 June 2023","Saturday, 7 October 2023",Unknown,Flood,UREA,Unknown,Severe,14.37,2491.42,104,259107.68,5548.35,253559.33
+Farmer 35,Meru,Beans,Unknown,Unknown,"Tuesday, 25 July 2023","Sunday, 8 October 2023",Clay,Flood,DAP,Unknown,Severe,1.96,691.61,17.66,12213.8326,45767.92,-33554.0874
+Farmer 38,Kiambu,Maize,Organic,Short Rains,"Sunday, 19 February 2023","Monday, 19 June 2023",Clay,Drip,Manure,Unknown,Severe,17.75,556.21,195.14,108538.8194,30160.4,78378.4194
+Farmer 46,Nakuru,Maize,Local,Dry Season,"Tuesday, 26 December 2023","Wednesday, 24 April 2024",Peaty,Sprinkler,CAN,Unknown,Severe,14.98,2917.9,83.61,243965.619,80674.89,163290.729
+Farmer 48,Nairobi,Tea,Unknown,Dry Season,"Tuesday, 3 October 2023","Wednesday, 31 January 2024",Unknown,Sprinkler,Manure,Organic,Severe,6.7,2761.09,184.54,509531.5486,29000.07,480531.4786
+Farmer 60,Eldoret,Maize,Local,Dry Season,"Friday, 30 June 2023","Saturday, 28 October 2023",Sandy,Unknown,Manure,Chemical,Severe,12.67,4127.93,28.45,117439.6085,66095.66,51343.9485
+Farmer 61,Eldoret,Beans,Unknown,Dry Season,"Tuesday, 21 November 2023","Sunday, 4 February 2024",Unknown,Unknown,CAN,Organic,Severe,18.9,1898.71,118.12,224275.6252,87108.86,137166.7652
+Farmer 68,Eldoret,Sorghum,Local,Long Rains,"Sunday, 16 April 2023","Saturday, 19 August 2023",Loam,Flood,UREA,Unknown,Severe,3.5,1703.96,26.54,45223.0984,16592.11,28630.9884
+Farmer 78,Nakuru,Wheat,Local,Long Rains,"Saturday, 16 December 2023","Tuesday, 14 May 2024",Silty,Drip,DAP,Unknown,Severe,11.43,1926.79,163.67,315357.7193,9643.57,305714.1493
+Farmer 90,Machakos,Tea,Organic,Long Rains,"Monday, 17 April 2023","Tuesday, 15 August 2023",Loam,Unknown,CAN,Unknown,Severe,15.45,853.5,135.02,115239.57,95238.12,20001.45
+Farmer 94,Eldoret,Wheat,Local,Short Rains,"Saturday, 10 June 2023","Tuesday, 7 November 2023",Peaty,Sprinkler,Manure,Unknown,Severe,9.74,1218.09,189.31,230596.6179,30276.72,200319.8979
+Farmer 110,Mombasa,Tea,Hybrid,Dry Season,"Monday, 2 January 2023","Tuesday, 2 May 2023",Loam,Unknown,CAN,Organic,Severe,8.47,2548.33,124.57,317445.4681,32207.16,285238.3081
+Farmer 113,Meru,Tea,Organic,Short Rains,,"Thursday, 7 December 2023",Peaty,Unknown,DAP,Organic,Severe,17.07,3429.28,55.76,191216.6528,66193.37,125023.2828
+Farmer 116,Eldoret,Sorghum,Organic,Long Rains,"Friday, 31 March 2023","Thursday, 3 August 2023",Clay,Unknown,DAP,Unknown,Severe,4.96,4814.62,12.64,60856.7968,96500.09,-35643.2932
+Farmer 119,Nakuru,Potatoes,Local,Long Rains,"Wednesday, 19 July 2023","Wednesday, 1 November 2023",Clay,Sprinkler,DAP,Unknown,Severe,7.99,1039.36,95.21,98957.4656,51835.28,47122.1856
+Farmer 131,Meru,Cassava,Local,Long Rains,"Thursday, 1 June 2023","Friday, 29 September 2023",Loam,Sprinkler,DAP,Organic,Severe,4.87,2977.61,33.99,101208.9639,45231.19,55977.7739
+Farmer 133,Mombasa,Sorghum,Organic,Dry Season,"Thursday, 2 November 2023","Wednesday, 6 March 2024",Clay,Unknown,UREA,Organic,Severe,3.82,3010.63,175.91,529599.9233,2342.54,527257.3833
+Farmer 135,Mombasa,Coffee,Local,Long Rains,"Saturday, 28 January 2023","Sunday, 28 May 2023",Silty,Sprinkler,CAN,Organic,Severe,15.76,2110.27,137.32,289782.2764,33799.45,255982.8264
+Farmer 149,Kisumu,Potatoes,Organic,Dry Season,"Sunday, 2 April 2023","Sunday, 16 July 2023",Sandy,Drip,CAN,Unknown,Severe,18.23,3892.21,41.56,161760.2476,35469.87,126290.3776
+Farmer 154,Mombasa,Tomatoes,Organic,Unknown,"Thursday, 23 November 2023","Friday, 22 March 2024",Clay,Flood,DAP,Unknown,Severe,14.69,3407.48,150.35,512314.618,51716.09,460598.528
+Farmer 155,Machakos,Rice,Organic,Short Rains,"Sunday, 15 October 2023","Saturday, 17 February 2024",Peaty,Flood,Manure,Organic,Severe,11.68,3423.22,97.52,333832.4144,35290.27,298542.1444
+Farmer 164,Kiambu,Maize,Local,Long Rains,"Wednesday, 26 April 2023","Thursday, 24 August 2023",Silty,Flood,UREA,Chemical,Severe,1.41,4846.78,134.71,652909.7338,72009.54,580900.1938
+Farmer 178,Kisumu,Tomatoes,Hybrid,Long Rains,"Tuesday, 7 November 2023","Wednesday, 6 March 2024",Sandy,Unknown,CAN,Chemical,Severe,3.93,3805.8,64.23,244446.534,67729.47,176717.064
+Farmer 185,Eldoret,Coffee,Organic,Long Rains,"Friday, 6 October 2023","Saturday, 3 February 2024",Clay,Flood,Manure,Unknown,Severe,9.215,682.87,103.35,70574.6145,77208.95,-6634.3355
+Farmer 195,Mombasa,Maize,Hybrid,Long Rains,"Wednesday, 27 December 2023","Thursday, 25 April 2024",Unknown,Unknown,DAP,Chemical,Severe,11.42,1042.02,63.9,66585.078,30071.67,36513.408
+Farmer 216,Nyeri,Sorghum,Local,Unknown,"Friday, 20 January 2023","Thursday, 25 May 2023",Sandy,Unknown,CAN,Organic,Severe,14.59,2571.96,52.6,135285.096,52632.72,82652.376
+Farmer 219,Eldoret,Tea,Local,Long Rains,"Monday, 27 March 2023","Tuesday, 25 July 2023",Loam,Sprinkler,CAN,Organic,Severe,6.85,601.02,42.78,25711.6356,41782.09,-16070.4544
+Farmer 226,Nyeri,Potatoes,Organic,Short Rains,"Saturday, 5 August 2023","Saturday, 18 November 2023",Silty,Unknown,DAP,Unknown,Severe,2.13,2614.41,81.02,211819.4982,9427.68,202391.8182
+Farmer 231,Mombasa,Beans,Unknown,Short Rains,"Monday, 13 February 2023","Saturday, 29 April 2023",Loam,Sprinkler,DAP,Unknown,Severe,10.105,4745.14,18.96,89967.8544,73366.25,16601.6044
+Farmer 238,Meru,Tomatoes,Hybrid,Short Rains,"Sunday, 30 April 2023","Monday, 28 August 2023",Clay,Drip,UREA,Chemical,Severe,7.96,881.33,179,157758.07,51716.09,106041.98
+Farmer 248,Meru,Tomatoes,Organic,Dry Season,"Saturday, 6 May 2023","Sunday, 3 September 2023",Clay,Unknown,UREA,Unknown,Severe,8.98,3485.17,39.31,137002.0327,90121.6,46880.4327
+Farmer 251,Kericho,Potatoes,Local,Short Rains,"Saturday, 19 August 2023","Saturday, 2 December 2023",Silty,Sprinkler,DAP,Unknown,Severe,11.53,3141.75,63.52,199563.96,61586.68,137977.28
+Farmer 254,Kiambu,Maize,Hybrid,Long Rains,"Saturday, 13 May 2023","Sunday, 10 September 2023",Clay,Unknown,Manure,Chemical,Severe,3.27,4527.21,97.11,439637.3631,17177.25,422460.1131
+Farmer 274,Nairobi,Rice,Organic,Unknown,,"Monday, 12 February 2024",Unknown,Flood,DAP,Organic,Severe,11.71,3561.07,36.18,128839.5126,41747,87092.5126
+Farmer 280,Kisumu,Coffee,Organic,Short Rains,"Thursday, 19 January 2023","Friday, 19 May 2023",Silty,Unknown,Manure,Unknown,Severe,3.53,4334.71,123.375,534794.8463,74076.43,460718.4163
+Farmer 289,Kiambu,Cassava,Organic,Long Rains,"Sunday, 23 April 2023","Monday, 21 August 2023",Silty,Unknown,Manure,Chemical,Severe,5.7,2004.73,98.85,198167.5605,45507.92,152659.6405
+Farmer 300,Nairobi,Maize,Local,Unknown,,"Sunday, 23 April 2023",Silty,Unknown,CAN,Chemical,Severe,6.37,4203.36,21.15,88901.064,16649.88,72251.184
+Farmer 302,Nakuru,Cassava,Local,Short Rains,"Thursday, 27 July 2023","Friday, 24 November 2023",Peaty,Flood,UREA,Chemical,Severe,8.98,2977.61,156.68,466531.9348,60743.53,405788.4048
+Farmer 304,Nairobi,Sorghum,Organic,Short Rains,"Friday, 3 November 2023","Thursday, 7 March 2024",Peaty,Flood,DAP,Unknown,Severe,18.01,3010.63,88.21,265567.6723,57502.56,208065.1123
+Farmer 311,Machakos,Rice,Local,Dry Season,"Friday, 10 March 2023","Thursday, 13 July 2023",Silty,Sprinkler,CAN,Chemical,Severe,19.04,3904.58,177.67,693726.7286,56962.27,636764.4586
+Farmer 314,Kisumu,Tea,Hybrid,Long Rains,"Tuesday, 28 February 2023","Wednesday, 28 June 2023",Peaty,Flood,UREA,Organic,Severe,13.04,4305.74,139.84,602114.6816,24109.09,578005.5916
+Farmer 315,Meru,Tomatoes,Organic,Unknown,"Sunday, 12 March 2023","Monday, 10 July 2023",Unknown,Unknown,DAP,Chemical,Severe,10.95,3191.22,37.13,118489.9986,18741.38,99748.6186
+Farmer 317,Nakuru,Wheat,Local,Long Rains,"Monday, 4 December 2023","Thursday, 2 May 2024",Silty,Drip,DAP,Unknown,Severe,6.35,3626.43,198.08,718323.2544,46308.99,672014.2644
+Farmer 319,Nyeri,Potatoes,Organic,Unknown,"Saturday, 2 December 2023","Saturday, 16 March 2024",Clay,Unknown,DAP,Unknown,Severe,12.2,3830.95,23.52,90103.944,22434.5,67669.444
+Farmer 320,Mombasa,Coffee,Organic,Long Rains,"Tuesday, 19 September 2023","Wednesday, 17 January 2024",Silty,Drip,DAP,Unknown,Severe,9.97,4611.83,68.79,317247.7857,90955.26,226292.5257
+Farmer 321,Kericho,Tea,Local,Short Rains,"Wednesday, 5 April 2023","Thursday, 3 August 2023",Silty,Flood,DAP,Organic,Severe,13.44,1880.09,120.91,227321.6819,99050.48,128271.2019
+Farmer 336,Kisumu,Tea,Organic,Short Rains,"Sunday, 9 July 2023","Monday, 6 November 2023",Unknown,Flood,Manure,Chemical,Severe,14.71,154.85,179.48,27792.478,62626.2,-34833.722
+Farmer 338,Kiambu,Rice,Organic,Long Rains,"Thursday, 23 March 2023","Wednesday, 26 July 2023",Peaty,Flood,Manure,Unknown,Severe,14.55,2789.97,172.67,481744.1199,1452.97,480291.1499
+Farmer 342,Eldoret,Tea,Local,Dry Season,,"Friday, 18 August 2023",Unknown,Flood,Manure,Chemical,Severe,4.96,1530.89,34.88,53397.4432,35275.79,18121.6532
+Farmer 363,Mombasa,Rice,Local,Short Rains,"Tuesday, 20 June 2023","Monday, 23 October 2023",Loam,Flood,DAP,Unknown,Severe,11.06,4499.66,10.51,47291.4266,86000.98,-38709.5534
+Farmer 369,Nairobi,Cassava,Local,Long Rains,"Saturday, 13 May 2023","Sunday, 10 September 2023",Silty,Unknown,DAP,Organic,Severe,18.41,4665.49,103.66,483624.6934,76315.85,407308.8434
+Farmer 372,Nyeri,Tea,Hybrid,Short Rains,"Tuesday, 1 August 2023","Wednesday, 29 November 2023",Loam,Unknown,Manure,Unknown,Severe,5.29,1623.99,154.43,250792.7757,25661.54,225131.2357
+Farmer 373,Kisumu,Wheat,Organic,Long Rains,"Thursday, 5 October 2023","Sunday, 3 March 2024",Peaty,Unknown,UREA,Organic,Severe,11.07,880.13,22.7,19978.951,28301.72,-8322.769
+Farmer 376,Kiambu,Tea,Local,Short Rains,"Monday, 21 August 2023","Tuesday, 19 December 2023",Loam,Unknown,CAN,Unknown,Severe,17.64,3223.12,101.45,326985.524,15181.7,311803.824
+Farmer 381,Nairobi,Potatoes,Hybrid,Long Rains,"Wednesday, 22 February 2023","Wednesday, 7 June 2023",Peaty,Drip,DAP,Unknown,Severe,8.33,3597.96,69.68,250705.8528,13834.29,236871.5628
+Farmer 389,Nairobi,Coffee,Local,Unknown,"Monday, 27 March 2023","Tuesday, 25 July 2023",Peaty,Sprinkler,DAP,Unknown,Severe,9.63,1796.66,38.2,68632.412,85166.07,-16533.658
+Farmer 391,Meru,Rice,Unknown,Long Rains,"Wednesday, 22 November 2023","Tuesday, 26 March 2024",Clay,Flood,Manure,Chemical,Severe,8.12,589.28,87.51,51567.8928,55714.77,-4146.8772
+Farmer 395,Meru,Potatoes,Hybrid,Dry Season,"Tuesday, 16 May 2023","Tuesday, 29 August 2023",Silty,Drip,DAP,Organic,Severe,6.01,1721.97,126.35,217570.9095,98213.78,119357.1295
+Farmer 398,Kericho,Rice,Local,Long Rains,"Wednesday, 30 August 2023","Tuesday, 2 January 2024",Clay,Sprinkler,UREA,Chemical,Severe,0.57,4614.27,114.915,530248.8371,72006.3,458242.5371
+Farmer 404,Nyeri,Potatoes,Local,Dry Season,"Thursday, 7 December 2023","Thursday, 21 March 2024",Sandy,Flood,CAN,Organic,Severe,16.87,3754.38,136.05,510783.399,46814.07,463969.329
+Farmer 407,Kisumu,Wheat,Local,Long Rains,"Saturday, 27 May 2023","Tuesday, 24 October 2023",Loam,Unknown,DAP,Organic,Severe,3.3,3182.85,66.13,210481.8705,19666.73,190815.1405
+Farmer 413,Mombasa,Potatoes,Organic,Dry Season,"Wednesday, 22 February 2023","Wednesday, 7 June 2023",Sandy,Drip,UREA,Unknown,Severe,6.92,3521,97.58,343579.18,95599.42,247979.76
+Farmer 417,Kisumu,Coffee,Local,Short Rains,"Sunday, 23 April 2023","Monday, 21 August 2023",Sandy,Drip,Manure,Chemical,Severe,7.42,2536.73,120.97,306868.2281,63593.32,243274.9081
+Farmer 419,Eldoret,Tea,Local,Long Rains,"Wednesday, 25 October 2023","Thursday, 22 February 2024",Unknown,Unknown,DAP,Organic,Severe,6.14,3960.59,151.15,598643.1785,21283.89,577359.2885
+Farmer 430,Nakuru,Rice,Organic,Unknown,"Saturday, 14 October 2023","Friday, 16 February 2024",Sandy,Unknown,DAP,Organic,Severe,17.52,1943.7,150.24,292021.488,69245.4,222776.088
+Farmer 438,Nakuru,Coffee,Local,Short Rains,"Monday, 16 January 2023","Tuesday, 16 May 2023",Sandy,Drip,DAP,Organic,Severe,15.63,1513.44,72.88,110299.5072,43210.78,67088.7272
+Farmer 442,Nakuru,Cassava,Organic,Short Rains,"Thursday, 6 April 2023","Friday, 4 August 2023",Silty,Unknown,UREA,Chemical,Severe,13.21,911.48,80.05,72963.974,41475.94,31488.034
+Farmer 463,Kericho,Rice,Local,Dry Season,,"Tuesday, 20 February 2024",Sandy,Sprinkler,Manure,Chemical,Severe,7.4,1220.05,29.45,35930.4725,23909.22,12021.2525
+Farmer 467,Nairobi,Cassava,Hybrid,Short Rains,"Sunday, 16 April 2023","Monday, 14 August 2023",Unknown,Unknown,UREA,Unknown,Severe,15.83,879.27,173.88,152887.4676,77783.72,75103.7476
+Farmer 472,Kericho,Tea,Hybrid,Long Rains,,"Thursday, 11 January 2024",Sandy,Sprinkler,UREA,Chemical,Severe,3.06,547.58,66.53,36430.4974,78985.75,-42555.2526
+Farmer 476,Mombasa,Coffee,Hybrid,Long Rains,"Saturday, 2 September 2023","Sunday, 31 December 2023",Loam,Sprinkler,UREA,Unknown,Severe,8.93,4068.95,186.56,759103.312,73148.88,685954.432
+Farmer 479,Meru,Tea,Organic,Short Rains,"Thursday, 10 August 2023","Friday, 8 December 2023",Peaty,Sprinkler,DAP,Organic,Severe,1.54,654.95,31.22,20447.539,29723.21,-9275.671
+Farmer 483,Machakos,Maize,Organic,Short Rains,"Thursday, 30 March 2023","Friday, 28 July 2023",Loam,Unknown,Manure,Chemical,Severe,13.94,1488.23,41.67,62014.5441,16980.58,45033.9641
+Farmer 489,Kericho,Wheat,Hybrid,Dry Season,"Saturday, 17 June 2023","Tuesday, 14 November 2023",Clay,Flood,UREA,Organic,Severe,14.77,239.61,66.42,15914.8962,95959.19,-80044.2938
+Farmer 494,Nakuru,Cassava,Local,Short Rains,"Monday, 16 October 2023","Tuesday, 13 February 2024",Loam,Flood,CAN,Unknown,Severe,8.35,4286.15,93.93,402598.0695,17485.82,385112.2495
+Farmer 3,Nakuru,Sorghum,Unknown,Long Rains,"Saturday, 8 July 2023","Friday, 10 November 2023",Peaty,Unknown,CAN,Unknown,Unknown,19.33,4679.65,102.63,480272.4795,69370.32,410902.1595
+Farmer 10,Meru,Cassava,Organic,Unknown,"Sunday, 15 October 2023","Monday, 12 February 2024",Sandy,Unknown,DAP,Unknown,Unknown,1.93,718.34,53.41,38366.5394,31939.83,6426.7094
+Farmer 17,Meru,Rice,Hybrid,Long Rains,"Wednesday, 8 March 2023","Tuesday, 11 July 2023",Peaty,Sprinkler,UREA,Unknown,Unknown,3.87,1522.78,178.01,271070.0678,87918.06,183152.0078
+Farmer 21,Eldoret,Tea,Unknown,Short Rains,"Thursday, 27 July 2023","Friday, 24 November 2023",Silty,Sprinkler,Manure,Organic,Unknown,18.2,2147.64,113.23,243177.2772,67765.71,175411.5672
+Farmer 24,Kisumu,Sorghum,Local,Long Rains,"Wednesday, 20 September 2023","Tuesday, 23 January 2024",Unknown,Flood,CAN,Organic,Unknown,9.53,1096.35,154.72,169627.272,70673.09,98954.182
+Farmer 25,Kisumu,Coffee,Local,Short Rains,"Tuesday, 14 November 2023","Wednesday, 13 March 2024",Silty,Unknown,UREA,Organic,Unknown,3.78,3244.87,187.44,608218.4328,28199.33,580019.1028
+Farmer 28,Meru,Tomatoes,Unknown,Dry Season,"Sunday, 19 March 2023","Monday, 17 July 2023",Sandy,Drip,UREA,Chemical,Unknown,13.62,2763.86,41.6,114976.576,39722.28,75254.296
+Farmer 29,Eldoret,Rice,Unknown,Long Rains,"Tuesday, 11 July 2023","Monday, 13 November 2023",Peaty,Unknown,Manure,Unknown,Unknown,3.7,3320.81,137.43,456378.9183,81560.09,374818.8283
+Farmer 33,Mombasa,Wheat,Unknown,Unknown,"Tuesday, 8 August 2023","Friday, 5 January 2024",Peaty,Unknown,CAN,Unknown,Unknown,12.76,2973.54,21,62444.34,70448.46,-8004.12
+Farmer 42,Nakuru,Tea,Organic,Short Rains,"Wednesday, 15 February 2023","Thursday, 15 June 2023",Silty,Unknown,DAP,Unknown,Unknown,18.04,4727.07,110.67,523144.8369,78115.18,445029.6569
+Farmer 52,Nyeri,Rice,Hybrid,Long Rains,"Friday, 10 March 2023","Thursday, 13 July 2023",Clay,Unknown,DAP,Organic,Unknown,13.36,3067,181.38,556292.46,74398.01,481894.45
+Farmer 59,Mombasa,Wheat,Local,Unknown,"Saturday, 8 April 2023","Tuesday, 5 September 2023",Loam,Flood,CAN,Unknown,Unknown,3.5,3477.32,110.92,385704.3344,24639.87,361064.4644
+Farmer 65,Nairobi,Coffee,Local,Short Rains,"Tuesday, 17 October 2023","Wednesday, 14 February 2024",Loam,Drip,CAN,Chemical,Unknown,11.38,2553.22,43.99,112316.1478,58962.22,53353.9278
+Farmer 70,Nyeri,Wheat,Local,Short Rains,"Monday, 12 June 2023","Thursday, 9 November 2023",Peaty,Sprinkler,UREA,Chemical,Unknown,19.14,831.16,139.12,115630.9792,4087.29,111543.6892
+Farmer 73,Machakos,Potatoes,Organic,Dry Season,"Sunday, 2 April 2023","Sunday, 16 July 2023",Silty,Drip,CAN,Organic,Unknown,19.87,4296.56,135.49,582140.9144,7176.35,574964.5644
+Farmer 82,Nyeri,Sorghum,Local,Unknown,"Saturday, 16 September 2023","Friday, 19 January 2024",Peaty,Drip,CAN,Chemical,Unknown,2.03,3797.3,40.51,153828.623,57453.3,96375.323
+Farmer 84,Nyeri,Wheat,Organic,Long Rains,"Tuesday, 8 August 2023","Friday, 5 January 2024",Clay,Sprinkler,CAN,Unknown,Unknown,11.16,3918.97,100.42,393542.9674,5466.73,388076.2374
+Farmer 86,Kiambu,Beans,Local,Long Rains,"Wednesday, 19 July 2023","Monday, 2 October 2023",Loam,Sprinkler,CAN,Chemical,Unknown,3.42,768.51,170.12,130738.9212,93224.01,37514.9112
+Farmer 88,Machakos,Tea,Organic,Long Rains,"Saturday, 29 July 2023","Sunday, 26 November 2023",Sandy,Unknown,CAN,Unknown,Unknown,8.17,4873.23,42.32,206235.0936,78430.07,127805.0236
+Farmer 91,Kisumu,Potatoes,Hybrid,Long Rains,"Thursday, 6 April 2023","Thursday, 20 July 2023",Peaty,Drip,DAP,Unknown,Unknown,3.52,1318.4,18.57,24482.688,5480.61,19002.078
+Farmer 93,Machakos,Potatoes,Local,Dry Season,"Sunday, 13 August 2023","Sunday, 26 November 2023",Peaty,Drip,DAP,Organic,Unknown,16.1,4720.97,13.44,63449.8368,49150.16,14299.6768
+Farmer 96,Kisumu,Tea,Local,Short Rains,"Thursday, 16 November 2023","Friday, 15 March 2024",Silty,Drip,Manure,Unknown,Unknown,10.51,692.25,22.84,15810.99,76433.17,-60622.18
+Farmer 97,Kiambu,Wheat,Organic,Short Rains,"Monday, 18 September 2023","Thursday, 15 February 2024",Sandy,Unknown,DAP,Chemical,Unknown,4.51,320.42,112.94,36188.2348,21053.39,15134.8448
+Farmer 98,Meru,Tea,Local,Dry Season,"Thursday, 21 December 2023","Friday, 19 April 2024",Clay,Sprinkler,Manure,Unknown,Unknown,1.31,1821.95,199.78,363989.171,34821.35,329167.821
+Farmer 107,Nairobi,Cassava,Organic,Dry Season,"Wednesday, 16 August 2023","Thursday, 14 December 2023",Sandy,Drip,Manure,Chemical,Unknown,15.47,1727.03,13.35,23055.8505,4752.76,18303.0905
+Farmer 117,Kericho,Potatoes,Local,Dry Season,"Friday, 8 September 2023","Friday, 22 December 2023",Sandy,Unknown,Manure,Organic,Unknown,18.74,4574.23,30.65,140200.1495,14234.35,125965.7995
+Farmer 118,Nakuru,Potatoes,Local,Long Rains,"Wednesday, 19 April 2023","Wednesday, 2 August 2023",Clay,Flood,CAN,Organic,Unknown,3.47,3094.39,68.22,211099.2858,42390.02,168709.2658
+Farmer 120,Kericho,Tea,Organic,Short Rains,"Sunday, 3 September 2023","Monday, 1 January 2024",Loam,Unknown,UREA,Organic,Unknown,2.77,2548.33,112.1,285667.793,58584.72,227083.073
+Farmer 123,Nairobi,Beans,Organic,Dry Season,"Monday, 28 August 2023","Saturday, 11 November 2023",Silty,Flood,UREA,Organic,Unknown,17.47,2414.21,168.21,406094.2641,10101.72,395992.5441
+Farmer 125,Kiambu,Cassava,Local,Long Rains,"Sunday, 23 July 2023","Monday, 20 November 2023",Clay,Unknown,Manure,Chemical,Unknown,18.52,2260.06,127.92,289106.8752,85529.09,203577.7852
+Farmer 138,Machakos,Cassava,Local,Dry Season,"Tuesday, 26 December 2023","Wednesday, 24 April 2024",Clay,Drip,Manure,Chemical,Unknown,2.47,4843.76,142.53,690381.1128,49861.96,640519.1528
+Farmer 140,Mombasa,Tomatoes,Organic,Short Rains,"Saturday, 21 October 2023","Sunday, 18 February 2024",Silty,Sprinkler,DAP,Unknown,Unknown,9.35,1199.8,19.93,23912.014,39422.95,-15510.936
+Farmer 143,Meru,Potatoes,Hybrid,Long Rains,"Sunday, 29 October 2023","Sunday, 11 February 2024",Silty,Unknown,Manure,Organic,Unknown,5.64,4141.11,18.6,77024.646,59366.26,17658.386
+Farmer 147,Kiambu,Potatoes,Local,Short Rains,"Thursday, 30 November 2023","Thursday, 14 March 2024",Peaty,Drip,Manure,Chemical,Unknown,11.44,804.48,36.85,29645.088,27546.34,2098.748
+Farmer 151,Nyeri,Maize,Hybrid,Long Rains,"Wednesday, 1 March 2023","Thursday, 29 June 2023",Loam,Flood,Manure,Organic,Unknown,13.78,1396.27,190.44,265905.6588,79635.21,186270.4488
+Farmer 156,Nairobi,Rice,Local,Long Rains,"Friday, 3 November 2023","Thursday, 7 March 2024",Sandy,Sprinkler,Manure,Chemical,Unknown,19.85,3465.54,166.97,578641.2138,3875.06,574766.1538
+Farmer 157,Mombasa,Coffee,Organic,Long Rains,"Monday, 27 February 2023","Tuesday, 27 June 2023",Sandy,Sprinkler,UREA,Chemical,Unknown,9.5,3768.18,32.99,124312.2582,11258.68,113053.5782
+Farmer 167,Machakos,Wheat,Organic,Long Rains,,"Friday, 16 February 2024",Silty,Drip,UREA,Unknown,Unknown,16.93,2970.34,169.11,502314.1974,65061.76,437252.4374
+Farmer 168,Nakuru,Coffee,Hybrid,Dry Season,"Thursday, 16 March 2023","Friday, 14 July 2023",Loam,Drip,CAN,Organic,Unknown,5.63,3725.31,74.03,275784.6993,69867.97,205916.7293
+Farmer 170,Nairobi,Cassava,Hybrid,Short Rains,"Saturday, 18 February 2023","Sunday, 18 June 2023",Clay,Drip,DAP,Unknown,Unknown,13.41,3796.88,143.18,543637.2784,34986.24,508651.0384
+Farmer 171,Kiambu,Coffee,Local,Short Rains,"Sunday, 24 September 2023","Monday, 22 January 2024",Peaty,Unknown,UREA,Organic,Unknown,17,289.99,186.44,54065.7356,84516.54,-30450.8044
+Farmer 173,Nairobi,Beans,Hybrid,Long Rains,"Monday, 12 June 2023","Saturday, 26 August 2023",Sandy,Flood,CAN,Unknown,Unknown,0.7,1704.15,99.785,170048.6078,24933.43,145115.1778
+Farmer 176,Nakuru,Sorghum,Local,Dry Season,"Monday, 11 September 2023","Sunday, 14 January 2024",Loam,Flood,CAN,Organic,Unknown,17.67,3480.82,197.68,688088.4976,7820.11,680268.3876
+Farmer 177,Kisumu,Rice,Organic,Short Rains,"Monday, 19 June 2023","Sunday, 22 October 2023",Clay,Sprinkler,DAP,Unknown,Unknown,0.71,3942.19,137.64,542603.0316,80891.64,461711.3916
+Farmer 181,Nakuru,Rice,Hybrid,Long Rains,"Sunday, 29 January 2023","Saturday, 3 June 2023",Unknown,Sprinkler,DAP,Organic,Unknown,10.54,1700.39,186.12,316476.5868,40203.03,276273.5568
+Farmer 189,Eldoret,Beans,Local,Long Rains,"Saturday, 1 July 2023","Thursday, 14 September 2023",Unknown,Sprinkler,Manure,Unknown,Unknown,0.56,1401.94,62.7,87901.638,34422.98,53478.658
+Farmer 194,Nakuru,Sorghum,Organic,Dry Season,"Wednesday, 9 August 2023","Tuesday, 12 December 2023",Loam,Flood,DAP,Organic,Unknown,8.96,2999.29,142.5,427398.825,49694.22,377704.605
+Farmer 208,Nyeri,Maize,Local,Dry Season,"Thursday, 22 June 2023","Friday, 20 October 2023",Clay,Drip,UREA,Organic,Unknown,14.63,1505.5,46.99,70743.445,34183.94,36559.505
+Farmer 210,Kisumu,Rice,Organic,Dry Season,"Wednesday, 29 November 2023","Tuesday, 2 April 2024",Peaty,Flood,CAN,Unknown,Unknown,15.34,2552.15,36.85,94046.7275,61066.38,32980.3475
+Farmer 218,Machakos,Coffee,Unknown,Short Rains,"Thursday, 16 November 2023","Friday, 15 March 2024",Clay,Unknown,UREA,Unknown,Unknown,7.13,4819.17,65.61,316185.7437,53056.94,263128.8037
+Farmer 220,Kisumu,Maize,Local,Dry Season,"Wednesday, 27 December 2023","Thursday, 25 April 2024",Loam,Unknown,DAP,Chemical,Unknown,15.61,3568.8,15.33,54709.704,55866.79,-1157.086
+Farmer 223,Kericho,Wheat,Local,Short Rains,,"Saturday, 9 March 2024",Clay,Drip,DAP,Unknown,Unknown,2.93,2312.22,57.74,133507.5828,9908.09,123599.4928
+Farmer 224,Eldoret,Sorghum,Unknown,Long Rains,"Wednesday, 6 September 2023","Tuesday, 9 January 2024",Clay,Unknown,UREA,Unknown,Unknown,11.52,4037.9,184.7,745800.13,70248.25,675551.88
+Farmer 225,Nakuru,Wheat,Hybrid,Unknown,"Friday, 27 January 2023","Monday, 26 June 2023",Clay,Unknown,DAP,Unknown,Unknown,1.24,1972.88,167.87,331187.3656,58703.53,272483.8356
+Farmer 235,Meru,Cassava,Hybrid,Long Rains,"Saturday, 1 April 2023","Sunday, 30 July 2023",Sandy,Drip,CAN,Chemical,Unknown,17.99,3829.16,23.84,91287.1744,19302.94,71984.2344
+Farmer 240,Kisumu,Tomatoes,Unknown,Long Rains,"Tuesday, 24 January 2023","Wednesday, 24 May 2023",Peaty,Unknown,UREA,Unknown,Unknown,9.84,2882.11,130.25,375394.8275,33771.97,341622.8575
+Farmer 241,Nakuru,Cassava,Organic,Dry Season,"Monday, 10 July 2023","Tuesday, 7 November 2023",Unknown,Unknown,Manure,Unknown,Unknown,17.28,2977.61,169.95,506044.8195,1423.32,504621.4995
+Farmer 243,Nairobi,Potatoes,Local,Long Rains,"Friday, 21 July 2023","Friday, 3 November 2023",Sandy,Flood,DAP,Chemical,Unknown,11.9,3947.28,102.5,404596.2,40006.12,364590.08
+Farmer 247,Nairobi,Coffee,Organic,Short Rains,"Thursday, 24 August 2023","Friday, 22 December 2023",Silty,Drip,UREA,Organic,Unknown,4.37,1013.79,179.79,182269.3041,69427.8,112841.5041
+Farmer 253,Meru,Coffee,Hybrid,Long Rains,"Wednesday, 24 May 2023","Thursday, 21 September 2023",Sandy,Sprinkler,UREA,Organic,Unknown,8.43,3929.01,153.12,601610.0112,83636.8,517973.2112
+Farmer 255,Nairobi,Tomatoes,Local,Dry Season,"Monday, 12 June 2023","Tuesday, 10 October 2023",Loam,Unknown,CAN,Unknown,Unknown,15.75,2584.95,196.07,506831.1465,63298.67,443532.4765
+Farmer 261,Eldoret,Cassava,Organic,Long Rains,,"Friday, 7 April 2023",Unknown,Unknown,Manure,Unknown,Unknown,0.69,2043.87,181.33,370614.9471,55555.46,315059.4871
+Farmer 266,Mombasa,Beans,Hybrid,Unknown,"Thursday, 4 May 2023","Tuesday, 18 July 2023",Unknown,Unknown,CAN,Organic,Unknown,1.08,4590.53,185.68,852369.6104,54307.64,798061.9704
+Farmer 267,Meru,Maize,Hybrid,Long Rains,"Wednesday, 29 November 2023","Thursday, 28 March 2024",Loam,Drip,CAN,Unknown,Unknown,18.16,3131.54,130.25,407883.085,49129.75,358753.335
+Farmer 268,Nakuru,Coffee,Organic,Long Rains,"Monday, 21 August 2023","Tuesday, 19 December 2023",Sandy,Drip,Manure,Unknown,Unknown,2.93,2168.88,123.375,267585.57,76760.82,190824.75
+Farmer 270,Kisumu,Potatoes,Hybrid,Short Rains,"Saturday, 8 April 2023","Saturday, 22 July 2023",Loam,Drip,Manure,Unknown,Unknown,2.44,1974.6,158.02,312026.292,3573.69,308452.602
+Farmer 272,Kisumu,Rice,Organic,Long Rains,"Sunday, 21 May 2023","Saturday, 23 September 2023",Clay,Sprinkler,Manure,Unknown,Unknown,19.98,2604.74,86.7,225830.958,50912.8,174918.158
+Farmer 284,Eldoret,Tomatoes,Local,Short Rains,"Saturday, 14 October 2023","Sunday, 11 February 2024",Loam,Sprinkler,UREA,Organic,Unknown,7.59,3015.61,42.93,129460.1373,89848.75,39611.3873
+Farmer 285,Meru,Coffee,Local,Short Rains,"Friday, 28 April 2023","Saturday, 26 August 2023",Peaty,Flood,CAN,Unknown,Unknown,12.22,2981.19,24.44,72860.2836,25935.58,46924.7036
+Farmer 290,Kisumu,Wheat,Local,Long Rains,"Friday, 3 March 2023","Monday, 31 July 2023",Loam,Unknown,CAN,Unknown,Unknown,13.75,4423.11,116.8,516619.248,31562.31,485056.938
+Farmer 291,Nakuru,Maize,Hybrid,Short Rains,"Tuesday, 26 December 2023","Wednesday, 24 April 2024",Loam,Unknown,DAP,Chemical,Unknown,10.32,4234.83,113.56,480907.2948,81823.71,399083.5848
+Farmer 292,Nyeri,Coffee,Hybrid,Short Rains,"Wednesday, 10 May 2023","Thursday, 7 September 2023",Loam,Drip,UREA,Organic,Unknown,19.8,1902.54,135.15,257128.281,64874.78,192253.501
+Farmer 295,Nairobi,Tea,Local,Long Rains,"Thursday, 26 January 2023","Friday, 26 May 2023",Silty,Drip,CAN,Unknown,Unknown,7.22,4761.61,80.71,384309.5431,58584.72,325724.8231
+Farmer 297,Nakuru,Wheat,Unknown,Short Rains,"Friday, 22 December 2023","Monday, 20 May 2024",Peaty,Drip,Manure,Chemical,Unknown,3.36,2626.62,95.23,250133.0226,77961.82,172171.2026
+Farmer 309,Nairobi,Tea,Local,Short Rains,"Monday, 9 October 2023","Tuesday, 6 February 2024",Silty,Drip,DAP,Chemical,Unknown,3.84,3225.04,112.1,361526.984,56224.81,305302.174
+Farmer 316,Machakos,Tomatoes,Hybrid,Long Rains,"Wednesday, 22 November 2023","Thursday, 21 March 2024",Loam,Flood,Manure,Chemical,Unknown,2.36,4266.65,168.16,717479.864,27494.65,689985.214
+Farmer 318,Meru,Wheat,Local,Dry Season,"Friday, 27 October 2023","Monday, 25 March 2024",Sandy,Unknown,CAN,Unknown,Unknown,18.95,4167.48,64.24,267718.9152,83994.53,183724.3852
+Farmer 323,Eldoret,Maize,Organic,Unknown,"Monday, 26 June 2023","Tuesday, 24 October 2023",Sandy,Drip,CAN,Unknown,Unknown,6.35,3243.64,153.64,498352.8496,93185.14,405167.7096
+Farmer 324,Nakuru,Tomatoes,Organic,Long Rains,"Sunday, 23 July 2023","Monday, 20 November 2023",Sandy,Drip,Manure,Chemical,Unknown,1.45,1052.81,80.025,84251.12025,51716.09,32535.03025
+Farmer 334,Kisumu,Coffee,Hybrid,Short Rains,"Wednesday, 15 February 2023","Thursday, 15 June 2023",Peaty,Unknown,DAP,Unknown,Unknown,6.99,4518.04,13.32,60180.2928,20616.6,39563.6928
+Farmer 344,Kericho,Sorghum,Local,Long Rains,"Sunday, 19 February 2023","Saturday, 24 June 2023",Clay,Flood,DAP,Unknown,Unknown,16.31,2134.84,170.75,364523.93,73024.6,291499.33
+Farmer 345,Kisumu,Tomatoes,Local,Long Rains,"Wednesday, 27 September 2023","Thursday, 25 January 2024",Peaty,Flood,Manure,Organic,Unknown,15.7,3481.47,27.9,97133.013,45188.65,51944.363
+Farmer 349,Kisumu,Maize,Organic,Long Rains,"Tuesday, 6 June 2023","Wednesday, 4 October 2023",Loam,Unknown,UREA,Organic,Unknown,16.86,1665.67,123.99,206526.4233,57299.43,149226.9933
+Farmer 352,Machakos,Cassava,Hybrid,Long Rains,"Saturday, 6 May 2023","Sunday, 3 September 2023",Unknown,Flood,Manure,Unknown,Unknown,11.67,1949.13,133.22,259663.0986,59918.21,199744.8886
+Farmer 360,Kisumu,Tomatoes,Organic,Long Rains,"Saturday, 30 December 2023","Sunday, 28 April 2024",Peaty,Unknown,Manure,Organic,Unknown,15.52,1302.8,13.51,17600.828,48019.44,-30418.612
+Farmer 362,Nakuru,Rice,Hybrid,Dry Season,"Wednesday, 20 September 2023","Tuesday, 23 January 2024",Unknown,Drip,CAN,Unknown,Unknown,10.54,3514.14,171.46,602534.4444,91504.4,511030.0444
+Farmer 366,Kericho,Maize,Organic,Unknown,"Tuesday, 16 May 2023","Wednesday, 13 September 2023",Sandy,Sprinkler,CAN,Organic,Unknown,16.95,434.72,29.7,12911.184,57193.27,-44282.086
+Farmer 370,Machakos,Cassava,Hybrid,Short Rains,"Tuesday, 17 October 2023","Wednesday, 14 February 2024",Peaty,Flood,DAP,Unknown,Unknown,5.65,2250.07,188.47,424070.6929,45507.92,378562.7729
+Farmer 371,Nairobi,Beans,Organic,Dry Season,"Thursday, 12 January 2023","Tuesday, 28 March 2023",Silty,Flood,DAP,Chemical,Unknown,9.09,2535.31,99.785,252985.9084,23951,229034.9084
+Farmer 375,Nyeri,Cassava,Hybrid,Dry Season,"Sunday, 14 May 2023","Monday, 11 September 2023",Peaty,Drip,CAN,Unknown,Unknown,7.18,2527.5,168.63,426212.325,57194.79,369017.535
+Farmer 379,Machakos,Beans,Unknown,Unknown,"Monday, 20 November 2023","Saturday, 3 February 2024",Sandy,Unknown,DAP,Organic,Unknown,3.4,2662.71,135.56,360956.9676,2191.12,358765.8476
+Farmer 380,Nyeri,Rice,Local,Short Rains,"Thursday, 25 May 2023","Wednesday, 27 September 2023",Clay,Drip,CAN,Chemical,Unknown,18.9,4476.76,49.81,222987.4156,38474.29,184513.1256
+Farmer 383,Nairobi,Wheat,Hybrid,Dry Season,"Saturday, 18 November 2023","Tuesday, 16 April 2024",Peaty,Sprinkler,UREA,Unknown,Unknown,18.91,3749.72,105.63,396082.9236,60364.71,335718.2136
+Farmer 385,Nyeri,Rice,Hybrid,Dry Season,"Monday, 20 March 2023","Sunday, 23 July 2023",Peaty,Drip,DAP,Organic,Unknown,14.18,2969.77,126.55,375824.3935,92980.35,282844.0435
+Farmer 394,Kericho,Sorghum,Organic,Long Rains,"Friday, 22 December 2023","Thursday, 25 April 2024",Clay,Unknown,Manure,Unknown,Unknown,18.16,4606.06,158.74,731165.9644,51230.93,679935.0344
+Farmer 408,Mombasa,Potatoes,Organic,Unknown,"Thursday, 26 January 2023","Thursday, 11 May 2023",Clay,Unknown,CAN,Organic,Unknown,0.66,2417.66,155.76,376574.7216,86070.47,290504.2516
+Farmer 410,Nyeri,Coffee,Unknown,Short Rains,"Tuesday, 14 March 2023","Wednesday, 12 July 2023",Sandy,Drip,DAP,Chemical,Unknown,18.32,4346.57,103.27,448870.2839,15071.92,433798.3639
+Farmer 411,Meru,Coffee,Local,Dry Season,"Friday, 22 September 2023","Saturday, 20 January 2024",Clay,Flood,CAN,Chemical,Unknown,1.13,4724.28,17.09,80737.9452,54362.48,26375.4652
+Farmer 421,Kisumu,Potatoes,Hybrid,Short Rains,,"Saturday, 23 December 2023",Loam,Sprinkler,Manure,Unknown,Unknown,13.88,2193.12,149.58,328046.8896,72975.43,255071.4596
+Farmer 427,Nakuru,Cassava,Local,Long Rains,"Friday, 21 April 2023","Saturday, 19 August 2023",Peaty,Flood,UREA,Organic,Unknown,10.69,2977.61,57.84,172224.9624,54493.23,117731.7324
+Farmer 428,Kericho,Wheat,Unknown,Unknown,"Monday, 30 October 2023","Thursday, 28 March 2024",Silty,Sprinkler,Manure,Unknown,Unknown,18.67,573.75,150.39,86286.2625,63062.99,23223.2725
+Farmer 429,Nakuru,Maize,Local,Unknown,"Tuesday, 4 July 2023","Wednesday, 1 November 2023",Clay,Unknown,Manure,Unknown,Unknown,8.23,1183.78,120.4,142527.112,26897.32,115629.792
+Farmer 432,Nakuru,Cassava,Hybrid,Long Rains,"Tuesday, 16 May 2023","Wednesday, 13 September 2023",Silty,Flood,CAN,Unknown,Unknown,9.6,2158.49,75.89,163807.8061,20875.69,142932.1161
+Farmer 436,Nyeri,Coffee,Organic,Unknown,"Saturday, 30 September 2023","Sunday, 28 January 2024",Silty,Sprinkler,DAP,Organic,Unknown,17.81,4801.03,62.28,299008.1484,17171.89,281836.2584
+Farmer 437,Kericho,Coffee,Local,Long Rains,"Wednesday, 20 September 2023","Thursday, 18 January 2024",Sandy,Sprinkler,CAN,Chemical,Unknown,17.76,776.61,182,141343.02,58962.22,82380.8
+Farmer 440,Meru,Wheat,Unknown,Short Rains,"Tuesday, 28 November 2023","Friday, 26 April 2024",Silty,Unknown,Manure,Unknown,Unknown,1.45,3217.78,63.83,205390.8974,54824.08,150566.8174
+Farmer 448,Kericho,Potatoes,Organic,Dry Season,"Friday, 13 October 2023","Friday, 26 January 2024",Peaty,Flood,UREA,Organic,Unknown,7,2886.13,51.18,147712.1334,24306.75,123405.3834
+Farmer 449,Nakuru,Maize,Organic,Dry Season,"Friday, 16 June 2023","Saturday, 14 October 2023",Loam,Flood,DAP,Unknown,Unknown,16.96,1313.41,149.28,196065.8448,57299.43,138766.4148
+Farmer 451,Machakos,Tomatoes,Hybrid,Unknown,"Friday, 27 October 2023","Saturday, 24 February 2024",Sandy,Flood,CAN,Organic,Unknown,7.47,303.87,108.4,32939.508,61649.8,-28710.292
+Farmer 452,Nyeri,Wheat,Hybrid,Short Rains,"Monday, 1 May 2023","Thursday, 28 September 2023",Clay,Sprinkler,CAN,Chemical,Unknown,1.34,2015.92,183.5,369921.32,14602.01,355319.31
+Farmer 453,Kericho,Tomatoes,Hybrid,Long Rains,"Monday, 17 April 2023","Tuesday, 15 August 2023",Silty,Sprinkler,CAN,Organic,Unknown,18.71,3533.92,13.55,47884.616,7408.42,40476.196
+Farmer 454,Kisumu,Tea,Local,Long Rains,"Monday, 3 July 2023","Tuesday, 31 October 2023",Sandy,Sprinkler,CAN,Chemical,Unknown,13.18,3050.22,181.45,553462.419,50952.31,502510.109
+Farmer 455,Kiambu,Coffee,Local,Dry Season,"Friday, 3 March 2023","Saturday, 1 July 2023",Sandy,Unknown,Manure,Organic,Unknown,4.97,797.58,98.56,78609.4848,65730.27,12879.2148
+Farmer 458,Nyeri,Tomatoes,Hybrid,Dry Season,"Friday, 24 February 2023","Saturday, 24 June 2023",Silty,Drip,DAP,Unknown,Unknown,6.46,4492.39,188.02,844659.1678,46147.22,798511.9478
+Farmer 461,Nyeri,Potatoes,Organic,Dry Season,"Monday, 3 July 2023","Monday, 16 October 2023",Silty,Flood,CAN,Chemical,Unknown,10.83,1054.78,86.27,90995.8706,59005.02,31990.8506
+Farmer 464,Eldoret,Tea,Organic,Dry Season,"Friday, 22 September 2023","Saturday, 20 January 2024",Silty,Flood,DAP,Chemical,Unknown,7.22,1975.02,100.52,198529.0104,21749.66,176779.3504
+Farmer 471,Nyeri,Tomatoes,Local,Unknown,"Friday, 7 April 2023","Saturday, 5 August 2023",Clay,Drip,CAN,Unknown,Unknown,18.92,3000.36,109.79,329409.5244,81857.72,247551.8044
+Farmer 477,Eldoret,Rice,Hybrid,Dry Season,"Saturday, 4 March 2023","Friday, 7 July 2023",Silty,Sprinkler,UREA,Chemical,Unknown,6.32,2614.69,187.68,490725.0192,23725.24,466999.7792
+Farmer 484,Nakuru,Maize,Unknown,Long Rains,"Monday, 25 December 2023","Tuesday, 23 April 2024",Silty,Unknown,CAN,Organic,Unknown,18,1329.87,188.56,250760.2872,81393.02,169367.2672
+Farmer 487,Machakos,Rice,Organic,Long Rains,"Monday, 24 April 2023","Sunday, 27 August 2023",Loam,Unknown,UREA,Unknown,Unknown,14.68,3782.42,20.02,75724.0484,94193.14,-18469.0916
+Farmer 490,Kiambu,Potatoes,Local,Long Rains,"Monday, 30 January 2023","Monday, 15 May 2023",Silty,Drip,Manure,Unknown,Unknown,1.81,4377.81,86.27,377673.6687,95352.47,282321.1987
+Farmer 493,Meru,Cassava,Organic,Short Rains,"Sunday, 17 December 2023","Monday, 15 April 2024",Peaty,Drip,Manure,Chemical,Unknown,15.18,4231.04,105.48,446290.0992,48535.98,397754.1192
