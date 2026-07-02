@@ -113,6 +113,8 @@ Provides a high-level summary of:
 - Revenue by County
 - Profit by Crop Type
 - Revenue Trend by Season
+- 
+  ![Executive Overview](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
 
 ---
 
@@ -126,7 +128,8 @@ Analyzes production efficiency through:
 - Yield per Acre
 - Harvest Duration
 - Production Summary Matrix
-
+  
+![Production Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
 ---
 
 ##  Page 3 – Profitability Analysis
@@ -139,7 +142,8 @@ Focuses on financial performance using:
 - Profit by Irrigation Method
 - Profit by Fertilizer Used
 - Yield vs Profit Analysis
-
+  
+![Profitability Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
 ---
 
 ##  Page 4 – Farm Operations Analysis
@@ -151,6 +155,7 @@ Examines operational efficiency through:
 - Profit per Acre
 - Farmer-Level Operational Summary
 
+![Farm Operations Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
 ---
 
 #  Business Questions and Findings
