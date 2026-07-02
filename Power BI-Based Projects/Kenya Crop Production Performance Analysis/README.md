@@ -317,4 +317,8 @@ Based on the analysis, the following recommendations are proposed:
 - Facilitate knowledge sharing from consistently high-performing farmers to improve sector-wide productivity.
 
 ---
+## Author
 
+**Robert Ruto**
+
+*Data Analytics |Data Science | Business Intelligence | Machine Learning*
