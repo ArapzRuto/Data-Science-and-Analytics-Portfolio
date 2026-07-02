@@ -155,7 +155,7 @@ Examines operational efficiency through:
 - Profit per Acre
 - Farmer-Level Operational Summary
 
-![Farm Operations Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
+![Farm Operations Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Page%204%20%E2%80%93%20Farm%20Operations%20Dashboard.jpg)
 ---
 
 #  Business Questions and Findings
