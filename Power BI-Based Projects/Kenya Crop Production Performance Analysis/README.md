@@ -129,7 +129,7 @@ Analyzes production efficiency through:
 - Harvest Duration
 - Production Summary Matrix
   
-![Production Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Data%20Modelling.jpg)
+![Production Analysis](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Kenya%20Crop%20Production%20Performance%20Analysis/assets/Kenya_Crops_Analysis%20Page%202%20%E2%80%93%20Production%20Analysis.jpg)
 ---
 
 ##  Page 3 – Profitability Analysis
