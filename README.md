@@ -20,7 +20,7 @@ Welcome to my data science and analytics showcase. This repository is a centrali
   * **Tech Stack:** Power Query, Data Modeling, Pivot Charts, Slicers.
 
 ### 📊 Power BI-Based Projects
-* **[Business Intelligence Showcase](./Power%20BI-Based%20Projects)** *(Coming Soon)*
+* **[Business Intelligence Showcase](./Power%20BI-Based%20Projects)** *(In Progress)*
   * **Tech Stack:** DAX Formulas, Power BI Desktop, Star Schema Modeling.
 
 
