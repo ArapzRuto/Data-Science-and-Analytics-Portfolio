@@ -35,7 +35,7 @@ The objectives of this project were to:
 The dataset contains transactional sales, logistics, and customer information including:
 
 
-|-------------------|----------------------|---------------------|-----------------------|
+
 | Order ID | Customer Name | Car Make | Delivery Date |
 | Order Date | Customer Type | Car Model | Delivery Fee |
 | Revenue Recorded | Customer Age | Vehicle Type | Logistics Cost |
