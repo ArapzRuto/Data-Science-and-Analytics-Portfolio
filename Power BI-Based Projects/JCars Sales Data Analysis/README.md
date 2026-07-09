@@ -63,7 +63,7 @@ The following transformations were performed using **Power Query**:
 
 ---
 
-## ⭐Data Modeling
+## Data Modeling
 
 A **Star Schema** was implemented consisting of:
 
