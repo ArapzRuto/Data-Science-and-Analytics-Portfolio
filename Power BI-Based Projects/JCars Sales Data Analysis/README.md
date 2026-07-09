@@ -92,7 +92,8 @@ The Power BI dashboard provides a high-level overview of:
 - Regional Sales
 - Delivery Performance
 - Payment Analysis
-
+  
+![JCars Sales Performance Dashboard](https://raw.githubusercontent.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/main/Power%20BI-Based%20Projects/JCars%20Sales%20Data%20Analysis/assets/Jcars%20Dashboard.jpg)
 ---
 
 # Business Questions and Findings
