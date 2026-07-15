@@ -146,3 +146,19 @@ Performed validation checks to ensure:
 ## Project Outcome
 
 By completing this project, the dataset was transformed into a clean, standardized, and analysis-ready format. The project demonstrates practical SQL data cleaning techniques commonly used in real-world data analytics and ETL workflows.
+
+---
+
+## 👤 Author
+
+**Robert Ruto**
+*Data Analyst | Data Scientist | Researcher*
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112
+* GitHub: https://github.com/ArapzRuto
+
+---
