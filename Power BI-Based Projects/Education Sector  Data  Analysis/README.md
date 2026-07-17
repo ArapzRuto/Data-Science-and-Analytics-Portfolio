@@ -180,7 +180,7 @@ Contains:
 
 This model reduces redundancy, improves performance, and supports interactive reporting across all educational dimensions.
 
-![Data Modelling](https://raw.githubusercontent.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/main/Power%20BI-Based%20Projects/JCars%20Sales%20Data%20Analysis/assets/Jcars%20Dashboard.jpg)
+![Data Modelling](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Education%20Sector%20%20Data%20%20Analysis/assets/Edu%20star%20schema.jpg)
 ---
 
 ## Dashboard Pages
