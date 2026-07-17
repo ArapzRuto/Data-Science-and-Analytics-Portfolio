@@ -249,6 +249,8 @@ Provides analysis on:
 - Subject Failure Rate
 - Students Below Pass Mark
 
+
+![Academic Performance analysis dashboard](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Education%20Sector%20%20Data%20%20Analysis/assets/Edu%20teacher%20analysis%20dashboard.jpg)
 ---
 
 ## Insights From The Dashboards
