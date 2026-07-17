@@ -200,6 +200,8 @@ Provides insights into:
 - Enrollment by School
 - School Pass and Failure Rates
 
+  
+![Student analysis dashboard](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Power%20BI-Based%20Projects/Education%20Sector%20%20Data%20%20Analysis/assets/Edu%20star%20schema.jpg)
 ---
 
 ### 2. School Analysis Dashboard
