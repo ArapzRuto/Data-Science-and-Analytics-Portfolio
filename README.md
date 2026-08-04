@@ -25,7 +25,7 @@ Welcome to my data science and analytics showcase. This repository is a centrali
 
 
 ### 🗄️ SQL-Based Projects
-* **[SQL Database Showcase](./SQL-Based%20Projects)** *(Coming Soon)*
+* **[SQL Database Showcase](./SQL-Based%20Projects)** *(In Progress)*
   * **Tech Stack:** PostgreSQL, Joins, Window Functions, CTEs,Stored Procedures, Group By Aggregations.
 
 
