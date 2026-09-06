@@ -12,4 +12,4 @@ Supply chain and logistics managers struggle to detect operational bottlenecks, 
 
 2. Time-Series Financial Intelligence: Calculates 3-day, 7-day, 30-day, MTD, and 12-month rolling revenue, operating expense, and net profit margins.
 
-2. Route & Corridor Optimization: Identifies peak revenue windows, trade corridor profitability, and gap-based sequence resets.
+3. Route & Corridor Optimization: Identifies peak revenue windows, trade corridor profitability, and gap-based sequence resets.
