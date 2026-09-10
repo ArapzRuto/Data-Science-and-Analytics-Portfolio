@@ -30,11 +30,11 @@ Welcome to my data science and analytics showcase. This repository is a centrali
 
 
 ### 🐍 Python-Based Projects
-* **[Data Science & Machine Learning Hub](./Python-Based%20Projects)** *(Coming Soon)*
+* **[Data Science & Machine Learning Hub](./Python-Based%20Projects)** *(Work In Progress)*
   * **Tech Stack:** Python, Jupyter Notebook, VS Code, pandas,Numpy,Matplolib, scikit-learn.
 
 ### 🚀 Full Stack Data Analytics Projects
-* **[End-to-End Analytics Solutions](./Full%20Stack%20Data%20Analytics%20Projects)** *(Coming Soon)*
+* **[End-to-End Analytics Solutions](./Full%20Stack%20Data%20Analytics%20Projects)** *(Work In Progress)*
   * **Tech Stack:** Full Pipeline Integration.
 
 ---
