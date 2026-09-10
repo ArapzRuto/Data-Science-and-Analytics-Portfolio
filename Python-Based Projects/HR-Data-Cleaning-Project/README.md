@@ -64,3 +64,6 @@ Exported the cleaned dataset to a clean Excel spreadsheet named HR_Cleaned_Data.
 * GitHub: https://github.com/ArapzRuto
 
 ---
+## Article Link
+
+[Link to your published article](https://your-article-link.com)
