@@ -1,0 +1,877 @@
+Employee ID,First Name,Last Name,Department,Salary,Hire Date,Age,Gender,Performance Score,Full-Time,Bonus,Marital Status,Education Level,Work Experience (Years),Employee Type,Office Location,Project Count,Last Promotion Year,Remote Work Status,Annual Training Hours,Manager Feedback Score
+10001,Winnie,Kamau,HR,74291,2002-09-14 00:00:00,48,Female,9,Yes,5324.53,Widowed,PhD,13,Intern,Nairob,4,2022,On-Site,150,2.2
+10002,Chebet,Mugambi,H.R,93350,2008-11-12 00:00:00,53,Male,N/A,Yes,5037.68,Married,high school,39,Contract,Nairobi,14,2019,On-Site,140,1.2
+10003,Chebet,Naliaka,IT,112020,2017-07-13 00:00:00,33,Male,7,Yes,1087.86,Widowed,High School,20,Permanent,Berlin,11,2012,Hybrid,159,4.7
+10004,Timothy,Kilonzo,Sales,34646,2014-07-27 00:00:00,26,Female,8,No,4817.13,Single,Associate's,32,Intern,Tokyo,16,2020,Fully Remote,18,1.9
+10005,Kennedy,Mburu,Operations,69713,2010-07-12 00:00:00,28,Femle,4,No,3231.82,Single,Associate's,10,Permanent,San Francisco,4,2017,Hybrid,150,2.5
+10006,Beatrice,Were,Info Tech,97936,2014-07-10 00:00:00,43,Male,6,Yes,3108.36,Widowed,Bachelor's,26,Contract,San Francisco,18,2017,On-Site,69,3.1
+10007,Fiona,Wafula,Finance,74331,2017-04-02 00:00:00,48,Female,5,No,2612.63,Widowed,Bachelor,19,Contract,Tokyo,9,2021,On-Site,163,4.9
+10008,Mercy,Kamau,HR,52185,2010-02-10 00:00:00,36,Female,1,No,3659.02,Single,Bachelor's,29,Intern,Berlin,11,2016,Hybrid,24,
+10009,Joy,Juma,IT,114263,2000-04-08 00:00:00,60,Male,9,No,3854.76,Divorced,High Sch,13,Temporary,London,1,2017,On-Site,74,2.8
+10010,Cynthia,Mboya,Marketing,82107,2006-04-07 00:00:00,56,Female,2,No,3433.37,Divorced,Associate's,34,Inten,New York,16,2010,On-Site,49,3.3
+10011,Harun,Kiptoo,Finance,96554,2004-02-23 00:00:00,47,Male,6,Yes,9798.15,Divorced,High School,20,Intern,Berlin,4,2012,Fully Remote,5,4.9
+10012,Lilian,Ndegwa,HR,47563,2011-10-07 00:00:00,44,Male,8,Yes,9360.95,Widowed,Bachelor's,18,Intern,Tokyo,14,2015,N/A,151,4.3
+10013,Baraka,Njoki,Sales,100729,2001-09-25 00:00:00,34,Male,3,No,5957.85,N/A,Associate's,34,Intern,Nairobi,19,2021,Remote,43,1.7
+10013,Baraka,Njoki,Sales,100729,2001-09-25 00:00:00,34,Male,3,No,5957.85,N/A,Associate's,34,Intern,Nairobi,19,2021,Remote,43,1.7
+10015,Hope,Naliaka,IT,99072,2013-04-03 00:00:00,24,Female,7,Yes,9916.38,Married,Bachelor's,16,Contract,Tokyo,19,2016,Hybrid,159,4.4
+10016,Abdi,Achieng,HR,78217,2012-07-21 00:00:00,50,Female,4,Yes,3881.43,Divorced,Bachelor's,23,Permanent,Nairobi,10,2020,Hybrid,60,3.8
+10016,Mercy,Musyoka,Sale,74610,2001-08-01 00:00:00,23,Male,5,Yes,4729.28,Divorced,High School,32,Permanent,Tokyo,17,2015,On-Site,148,3.6
+10018,Lilian,kilonzo,Marketing,114422,2010-11-03 00:00:00,49,Female,1,No,9611.09,Divorced,High School,13,Intern,San Francisco,8,2022,Fully Remote,11,2.8
+10019,Esther,Kiptoo,HR,80131,2018-04-06 00:00:00,44,Male,4,No,6281.95,Single,PhD,26,Contract,London,15,2021,Fully Remote,24,3.6
+10020,Zipporah,Kariuki,IT,59410,2000-09-29 00:00:00,57,Male,7,No,2522.83,Married,Bachelor's,38,Permanent,San Francisco,14,2021,Hybrid,163,4
+10021,Dennis,Korir,Finanace,88715,2014-08-13 00:00:00,27,Female,,Yes,7049.12,Married,PhD,1,Intern,NAIROBI,3,Never,Fully Remote,88,1.5
+10022,Yusuf,Nyambura,Operations,68665,2013-05-13 00:00:00,32,Female,4,No,2454.59,Married,Associate's,2,Permanent,San Francisco,11,2020,Fully Remote,83,2
+10023,Grace,Achieng,IT,45957,2010-10-29 00:00:00,59,Male,6,No,3723.9,,High School,39,Intern,San Fransisco,12,2013,Hybrid,157,1.8
+10024,Timothy,Mwangi,Sales,78127,2010-10-02 00:00:00,55,M,5,No,2661.82,Widowed,Master's,13,Contract,Berlin,8,2014,Hybrid,114,4.4
+10025,Wanjiku,Nyambura,IT,93589,2001-03-28 00:00:00,38,Male,1,No,2827.31,Divorced,Masters,27,Contract,New York,14,2018,Fully Remote,5,3.7
+10026,Grace,Muli,IT,76008,2003-03-21 00:00:00,24,Female,8,Yes,544.23,Married,Bachelor's,4,Intern,New York,17,2010,Hybrid,149,2.8
+10027,Yvonne,Awino,Operations,91920,2017-10-08 00:00:00,55,Female,7,No,8866.73,Single,PhD,20,Permanent,London,19,2011,On-Site,84,
+10028,Hassan,barasa,Marketing,62875,2013-06-12 00:00:00,35.5,Male,5,Yes,3311.91,Married,High School,3,Permanent,London,6,2014,Hybrid,31,3.9
+10029,Wairimu,Wambui,Finanace,31626,2001-02-17 00:00:00,50,Female,7,Yes,1320.56,Divorced,PhD,-1,Contract,San Fransisco,11,2014,On-Site,123,4.7
+10030,caleb,Koech,HR,93822,2004-03-30 00:00:00,50,female,3,No,1326.38,Widowed,Bachelor's,2,Permanent,New York,9,2021,On-Site,127,1.3
+10031,Oscar,Mugambi,Operations,101765,05-07-20,26,Male,8,Yes,5782.17,Married,High School,16,Intern,Londn,6,2016,On-Site,28,3
+10032,zachary,Wafula,HR,102413,2017-11-09 00:00:00,31,Male,Excellent,Yes,9932.75,Divorced,Bachelor's,5 years,Intern,Tokyo,13,2017,Hybrid,194,3.8
+10033,Gilbert,Njoroge,Operations,63642,2019-07-21 00:00:00,31,Male,2,No,KES 1877.71,Married,High School,28,Intern,London,14,2019,Hybrid,56,1.8
+10034,Amina,Makori,HR,68311,2013-08-30 00:00:00,30,Male,2,YES,1446.41,Widowed,Bachelor's,18,Contract,Tokyo,3,2015,Hybrid,55,2.3
+10035,Irene,Achieng,Finance,62356,2017-12-28 00:00:00,42,Male,N/A,No,4663.89,Widowed,Master's,2,Contract,London,7,2015,On-Site,198,2.7
+10036,Stella,Mburu,IT,33809,2005-04-30 00:00:00,34,Male,7,No,5851.65,Married,PhD,14,Contract,New York,18,2014,Hybrid,61,
+10037,James,Mboya,IT,73371,2014-03-31 00:00:00,31,,4,No,3296.61,Single,High School,20,Intern,Tokyo,18,2014,Fully Remote,59,3
+10038,Peter,Makori,Sale,64875,2000-07-10 00:00:00,59,Male,9,Yes,3373.96,Divorced,PhD,23,Contract,San Francisco,4,2022,Fully Remote,57,3
+10039,Kevin,Mboya,Marketing,39465,2000-02-10 00:00:00,32,Male,2,No,4532.53,Divorced,High School,7,Intern,Nairob,2,2021,Hybrid,93,2.7
+10040,Daisy,Odhiambo,Human Resources,96095,2016-05-19 00:00:00,25,Male,6,Yes,3484.38,Married,High School,14,Permanent,London,9,,On-Site,23,1.9
+10041,Peter,Mboya,Finance,103844,2005-02-02 00:00:00,52,Female,4,Yes,9195.65,Widowed,High School,37,Contract,San Francisco,14,2014,Hybrid,113,4.7
+10042,Xavier,KARIUKI,Sales,95250,2016-02-18 00:00:00,55,Male,6,No,898.57,Divorced,Bachelor's,8,Permanent,London,1,2015,Fully Remote,145,2.3
+10043,YUSUF,Odhiambo,Operations,116889,2003-08-25 00:00:00,63,Male,9,Y,2728.42,Widowed,Associate's,5,Permanent,San Francisco,9,2012,On-Site,33,3.3
+10044,Stella,Korir,Marketing,45250,2009-06-11 00:00:00,56,Female,9,Yes,8181.25,Single,Bachelor's,23,Contract,New York,15,2023,Hybrid,138,
+10045,Noah,Juma,Humna Resources,76023,2000-05-15 00:00:00,60,Female,9,No,8422.6,Married,high school,10,Contract,New York,2,2014,Hybrid,124,2.7
+10046,Hassan,Kilonzo,Finance,76624,2016-03-06 00:00:00,60,male,9,No,1559.77,Single,Bachelor's,27,Permanent,Berlin,6,2023,On-Site,133,4.6
+10047,Irene  Ann,Bett,HR,46427,2011-07-03 00:00:00,54,Female,3,Yes,N/A,Widowed,Associate's,35,Permanent,Berlin,18,2018,On-Site,156,5
+10048,Irene,Makori,Operations,63276,2012-08-19 00:00:00,29,Female,9,Yes,7086.87,Widowed,High School,1,Permanent,Berlin,14,2012,Fully Remote,78,2.4
+10049,Edwin,Odhiambo,Human Resource,101643,2005-04-25 00:00:00,53,Male,3,Yes,3089.63,Married,High School,7,Intern,Tokyo,11,2017,Hybrid,103,1.6
+10050,Lucy,Juma,Marketing,109012,2019-01-18 00:00:00,54,Male,Excellent,Yes,4832.36,Widowed,Associate's,8,Permanent,London,1,2020,Fully Remote,10,2.3
+10051,Noah,Koech,Sales,33439,2004-04-14 00:00:00,29,Male,5,Yes,3322.82,Widowed,Associate's,,Intern,Tokyo,12,,Fully Remote,180,2.3
+10052,Valerie,Karanja,Sales,115848,2011-07-23 00:00:00,35,Female,6,No,1925.21,Married,PhD,5 years,Contract,Berlin,19,2013,On-Site,152,3.6
+10053,Akoth,Koech,Finance,117331,2017-11-30 00:00:00,55,Male,9,No,3266.19,Single,High School,28,Permanent,London,18,2014,Hybrid,80,3
+10054,Victor,Musyoka,Marketing,108672,2017-01-13 00:00:00,29,Female,1,No,6010.87,Divorced,Bachelor's,34,Perm,Tokyo,6,2017,Fully Remote,71,4.1
+10055,Nancy,Koech,Finance,109703,not available,63,Male,8,No,8346.71,Divorced,PhD,20,Permanent,New York,2,2019,Fully Remote,187,3.8
+10056,Rose,Kilonzo,Marketing,47300,2004-04-07 00:00:00,28,Female,4,Yes,3953.53,Widowed,Associate's,28,Contract,London,5,2016,On-Site,22,2
+10057,BRIAN,Achieng,Sales,90289,2015-12-08 00:00:00,34,Male,7,No,KES 3805.06,Divorced,Bachelor's,37,Permanent,Berlin,0,2019,Remote,25,4.1
+10058,Yusuf,Atieno,IT,47182,2005-10-22 00:00:00,42,Female,6,No,4946.01,Widowed,Master's,3,Intern,,1,2019,Hybrid,196,4.4
+10059,Wairimu,Kariuki,HR,100507,2002-10-25 00:00:00,53,Male,6,Yes,6623.28,Divorced,,9,Contract,London,0,2011,Fully Remote,169,3.4
+10060,Irene,Moraa,IT,80912,2016-07-13 00:00:00,32,Male,7,Yes,KES 7640.35,Single,Master's,22,Contract,Tokio,3,2017,on-site,23,4.7
+10061,Winnie,Muthoni,HR,56909,2009-09-04 00:00:00,35,Male,4,yes,3604.6,Divorced,Bachelor's,25,Permanent,San Francisco,4,2017,Hybrid,60,4.1
+10062,Peter.,Muthoni,Sales,49659,2000-03-22 00:00:00,32,Female,6,No,6070.35,Widowed,Bachelors,2,Intern,Nairobi,1,2018,Fully Remote,194,3.4
+10063,Zachary,Wambui,IT,61403,2015-06-27 00:00:00,23,Female,3,No,4198.93,Widowed,Bachelor's,23,Intern,Berlin,15,2011,Fully Remote,22,4.6
+10064,Yara,Kiprotich,IT,63586,2002-02-14 00:00:00,55,Male,5,Yes,KES 7305.8,Widwowed,PhD,17,Intern,Tokyo,7,2023,Hybrid,162,3.4
+10065,Rose,Kiprotich,Humman Res.,40360,2008-04-26 00:00:00,38,Male,2,Yes,2064.41,Married,PhD,25,Permanent,New York,14,2013,Hybrid,188,3.1
+10066,Vincent,Kimani,Operations,51424,2011-12-22 00:00:00,35,Male,3,No,2940.79,Single,Master's,12,Contract,New York,10,2011,Hybrid,110,
+10067,Xavier,Onyango,Sales,78791,2007-11-27 00:00:00,46,Female,9,Yes,4547.57,N/A,Associate's,27,Permanent,New York,9,2013,Hybrid,174,4.5
+10068,Ruth,Bett,Marketing,33065,2005-02-21 00:00:00,48,Male,6,Yes,8949.44,Divorced,PhD,20,Intern,London,2,2012,On site,57,1.5
+10069,Hope,Muli,Sales,98795,2006-03-21 00:00:00,29,,3,Yes,5946.59,Married,High School,9,Intern,Berlin,10,2016,Hybrid,90,2.9
+10070,Njeri,Moraa,human resources,42300,2004-05-26 00:00:00,38,Female,0,No,9671.26,Divorced,High School,23,Contract,Nairobi,16,2023,Hybrid,54,3.1
+10071,Omari,Musyoka,Marketing,63370,2008-08-05 00:00:00,,Female,5,No,N/A,Widowed,Master's,36,intern,New York,9,2014,On-Site,131,3.2
+10072,Daisy,Achieng,HR,99831,2001-08-28 00:00:00,33,Female,5,No,4871.67,Married,Master's,28,Permanent,Tokyo,16,2016,Fully Remote,8,3.6
+10073,Oscar,Awino,Marketing,57209,2016-11-14 00:00:00,59,Female,1,Yes,4481.25,Single,Master's,29,intern,Berlin,13,2011,Hybrid,67,3
+10074,Hope,Odhiambo,Marketing,50927,2012-12-18 00:00:00,39,Male,3,Yes,6201.96,Married,PhD,32,Contract,Nairobi,0,2013,On-Site,199,2
+10075,Dennis.,Naliaka,Finance,64579,2009-05-07 00:00:00,47,Female,7,No,KES 8213.66,Widowed,Associate's,12,Contract,Tokyo,8,2015,Fully Remote,117,4.4
+10076,Baraka,Makori,IT,39032,,52,Female,,Yes,8493.76,Widowed,Master's,30,Intern,Tokyo,14,2021,Hybrid,60,3.6
+10077,James,Barasa,Sales,108413,2016-02-11 00:00:00,58,Female,0,Yes,6866.85,Divorced,Bachelor's,11,Permanent,New York,3,2014,On-Site,181,4.4
+10078,Valerie,Muthama,Sales,70731,,27,Female,4,No,6594.6,Married,Master's,37,Permanent,Berlin,19,2020,Fully Remote,154,2.1
+10079,Kevin,Wekesa,Marketing,83767,2020/13/05,62,Male,3,Yes,9515.78,Widowed,PhD,20,Contract,San Francisco,2,2011,Hybrid,144,3.5
+10080,Rahab,Muli,Operations,102302,2005-11-14 00:00:00,36,Female,9,Yes,4145.03,Widowed,Associate's,11,Temporary,London,19,2021,On-Site,181,3.9
+EMP-10081,Vincent,Kamau,Sales,79954,2019-02-30,63,Female,7,Yes,8411.44,Married,Master's,38,Intern,San Francisco,6,2016,Remote,17,N/A
+10082,Grace,Nyambura,Hr,118365,2011-09-10 00:00:00,47,Male,7,Yes,9254.29,Married,High School,16,Contract,London,2,2011,On-Site,109,4.2
+10083,Hope,Maina,HR,115757,2010-04-23 00:00:00,33,Male,8,No,5169.62,Divorced,Master's,35,Permanent,Berlin,14,2023,On-Site,37,1
+10084,Yvonne.,Langat,Markting,55102,2003-10-08 00:00:00,62,Female,1,Yes,7426.47,Married,Master's,1,Permanent,Nairobi,9,2018,Hybrid,179,3.4
+10085,Cynthia,Muthoni,HR,64433,not available,35,Male,4,No,4081.69,Widowed,Associate's,25,Temporary,New York,15,2016,Onsite,68,3.5
+10086,Ruth,Otieno,Marketing,45932,2019-12-09 00:00:00,22,Female,5,No,2009.35,Single,Bachelor's,27,Intern,Berlin,16,2021,Hybird,87,3.1
+10087,Amina,Sang,Finance,55714,2000-12-13 00:00:00,38,Female,5,No,6071.79,Widowed,High School,32,Permanent,San Francisco,18,2012,Hybrid,109,3.5
+10088,Lucy,Ochieng,Humman Res.,87803,2022-06-01,54,Male,1,No,2366.48,Widowed,Master's,6,Permanent,Tokyo,0,2015,On-Site,149,
+10089,Zipporah,Abdi,Marketing,69743,2000-03-03 00:00:00,50,Female,3,Yes,4847.19,Widowed,PhD,36,Intern,London,0,2014,hybrid,38,3.7
+10090,Miriam,Muli,Finance,32552,2004-11-18 00:00:00,52,Male,2,N,8792.35,Married,Associate's,39,Contract,London,13,2021,On-Site,72,2.3
+10091,Oscar,Abdi,Finance,86627,2010-06-11 00:00:00,29,Male,7,No,1317.17,Single,PhD,23,Permanent,San Francisco,1,2018,On-Site,43,2.8
+10091,Oscar,Abdi,Finance,86627,2010-06-11 00:00:00,29,Male,7,No,1317.17,Single,PhD,23,Permanent,San Francisco,1,2018,On-Site,43,2.8
+10093,Kennedy,Otieno,Marketing,109810,2017-12-23 00:00:00,34,Female,3,No,6261.54,Married,Master's,5 years,Intern,,19,2012,Hybrid,137,2.9
+10094,Pauline,Karanja,Marketing,75380,2002-11-08 00:00:00,37,Male,8,No,3645.08,Single,High School,22,contractor,San Francisco,9,2011,On-Site,44,3.5
+10095,James,Mutua,Finance,59250,2016-11-26 00:00:00,23,Female,1,Yes,4470.41,Single,PhD,11,Intern,Berlin,14,2011,Fully Remote,67,4.4
+10096,harun,Musyoka,Finance,98344,2002-04-24 00:00:00,39,Male,1,No,4354.25,Single,high school,26,Contract,New York,14,2013,On-Site,133,2.9
+10097,Stella,Njoroge,Finance,94686,2007-05-04 00:00:00,56,Male,6,No,1322.89,,Master's,23,Contract,Tokyo,6,2022,Fully Remote,167,2.3
+10098,Pauline,Juma,Sales,75028,2011-04-12 00:00:00,40,Male,1,no,533.88,Divorced,Associates,3,Perm,Berlin,7,2010,Hybrid,149,3
+,George,Langat,Marketing,45295,2019-02-10 00:00:00,34,Male,4,No,9035.02,Widowed,High School,6,Intern,New York,10,2018,On-Site,98,3.8
+10100,Joy,Mwangi,Finance,85248,2019-07-06 00:00:00,25,female,6,Yes,2569.09,Divorced,Bachelor's,7,Permanent,San Francisco,15,2012,Fully Remote,103,2.4
+10101,Mercy,Wafula,HR,110205,,40,Female,1,Yes,4547.75,Single,Associate's,39,Permanent,Nairobi,6,2021,Fully Remote,None,2.7
+10102,Janet,Muriuki,Information Tech,40523,2005-06-07 00:00:00,46,Female,9,Yes,9733.3,Married,High School,22,Permanent,Tokyo,19,2022,Hybrid,133,3.3
+10103,Hope,Makori,Sales,75530,2011-08-27 00:00:00,59,Female,4,No,8354.24,Divorced,Associate's,33,Permanent,SF,8,2014,On-Site,136,2.2
+10104,Rose,Kamau,HR,43769,2003-07-02 00:00:00,52,Female,N/A,Yes,1525.34,Widowed,Master's,3,Intern,Tokyo,18,2011,On-Site,141,1.8
+10105,Gilbert,Njoki,,93042,2004-05-13 00:00:00,57,Female,9,No,5330.93,,Bachelor's,30,Temporary,London,0,2017,Hybrid,49,1.6
+10106,Timothy,Bett,Marketing,74645,2017-02-17 00:00:00,25,Male,6,No,7435.75,Divorced,Associate's,24,Perm,Nairobi,17,2020,Hybrid,164,2.4
+10107,Zipporah,Moraa,Operatons,92142,2006-12-26 00:00:00,60,Female,7,No,7134.73,Married,high school,3,Permanent,New York,7,2020,Hybrid,73,1.2
+10108,Hope,Maina,Finance,55557,2005-05-06 00:00:00,28,Male,N/A,No,7728,Married,Associate's,2,Permanent,Berlin,7,2023,Fully Remote,18,3.3
+10109,Abdi,Moraa,Sales,109782,2004-08-22 00:00:00,37,Male,5,No,4845.82,Single,Associate's,19,Contract,San Francisco,7,2012,Fully Remote,183,1.7
+10110,Hope,Mboya,Finance,"108,382",2002-08-12 00:00:00,26,Male,3,Yes,2171.27,Married,PhD,24,Permanent,Tokyo,13,2014,Hybrid,155,2.5
+10111,Harun,Moraa,,67085,2009-01-04 00:00:00,44,Female,11,No,4916.29,Divorced,Bachelor's,20,Contract,Tokyo,1,2016,On-Site,178,2.1
+10112,Stella,Njoki,Operations,$80708,2000-12-22 00:00:00,57,female,4,Yes,6654.93,Widowed,Associate's,31,Intern,Tokyo,2,2011,Fully Remote,159,3.5
+10113,Irene,njoki,Finance,81357,2017-04-13 00:00:00,53,Female,9,Yes,6281.62,Single,PhD,31,Contract,New York,6,2012,Hybrid,93,4.4
+10113,Irene,njoki,Finance,81357,2017-04-13 00:00:00,53,Female,9,Yes,6281.62,Single,PhD,31,Contract,New York,6,2012,Hybrid,93,4.4
+10115,Nancy,Mugambi,Sales,108712,2002-08-26 00:00:00,46,Female,4,No,KES 1117.05,Divorced,Bachelor's,29,Intern,New York,14,2019,Fully Remote,36,3.2
+10116,Isaac,Kariuki,Finance,KES 109082,2000-08-29 00:00:00,49,Female,6,No,9669.95,Divorced,Master's,4,Contract,San Francisco,10,2023,Hybrid,77,3.7
+10117,Dennis,Wambui,Marketing,36805,2009-06-08 00:00:00,99,,2,No,1942.15,Single,Bachelor's,10,Permanent,Berlin,1,2017,On-Site,198,1.1
+10118,Faith,Makori,Sales,112324,2011-08-05 00:00:00,28,male,3,Yes,3297.39,Single,Associate's,36,Intern,London,17,2012,On-Site,174,1.5
+10119,Moses,Njoki,Sales,92028,2005-11-14 00:00:00,62,Female,7,No,7792.53,Married,Master's,35,Intern,San Francisco,13,2022,,54,1.4
+10120,Akoth,Kiprotich,Finance,80772,2000-05-26 00:00:00,38,Male,4,Yes,KES 4391.93,Married,Bachelor's,21,Contract,Nairobi,17,2019,On-Site,61,1.4
+10121,Brian,Koech,Operations,82104,2014-03-04 00:00:00,23,Female,7,NO,2223.92,Widowed,Bachelor's,1,Permanent,New York,1,2021,On-Site,121,2
+10122,Oscar,Mboya,Finance,103616,2014-02-17 00:00:00,37,Female,9,No,4938.71,Single,Bachelor's,12,Contract,New York,3,2016,Hybrid,196,3.1
+10123,Noah,Mboya,IT,119300,2019-03-11 00:00:00,60,Male,5,No,5905.02,Single,Bachelor's,24,Intern,New York,13,2023,Hybird,178,1.5
+10124,Miriam,Njoroge,IT,36630,2001-06-26 00:00:00,39,Female,1,No,4801.28,Divorced,Master's,2,contractor,London,6,2020,Hybrid,115,
+10125,Hope,Ochieng,HR,45701,2001-11-22 00:00:00,60,Female,5,Yes,9229.99,Widowed,Associate's,20,Permanent,San Francisco,14,2022,On-Site,93,4.4
+10126,Hope,Wafula,Sales,44859,2002-10-22 00:00:00,22,Female,6,Yes,3204.64,Married,PhD,16,Intern,San Francisco,5,2011,On-Site,108,4.9
+10127,Zachary,Cherono,Finance,51183,2011-02-02 00:00:00,24,Female,2,Yes,6782.66,Widowed,Bachelor's,34,Permanent,San Francisco,4,2018,Hybrid,58,1.2
+10128,daisy,Awino,Operatons,70438,2010-12-19 00:00:00,42,Female,8,No,1566.8,Widowed,PhD,13,Contract,San Francisco,19,2022,On-Site,57,4.4
+10129,Pauline,Njoroge,IT,72244,2009-03-13 00:00:00,51,Male,2,No,4226.71,Divorced,PhD,18,Intern,Tokyo,17,2022,Hybrid,161,4.2
+10130,Samuel,Mburu,Operations,104312,2014-05-24 00:00:00,32,Female,9,No,7539.44,Single,PhD,29,Intern,Tokyo,10,2017,Onsite,169,0
+10131,Dennis,Odhiambo,Marketing,45021,2015-09-15 00:00:00,43,Male,2,No,2635.76,Single,Bachelor's,14,Permanent,Nairobi,7,2018,Fully Remote,73,3.1
+10132,Nancy,Sang,Operations,99863,2008-01-30 00:00:00,46,Female,3,No,6102.82,Married,Bachelor's,30,Permanent,New York,11,2018,On-Site,18,4.2
+10133,Grace.,Barasa,HR,85565,2001-12-30 00:00:00,24,Male,8,No,1957.65,Married,Bachelor's,35,Contract,Tokyo,17,2016,On-Site,159,1.2
+10134,Caleb,Ochieng,Operations,78043,2017-09-22 00:00:00,51,Male,6,No,1475.67,Widowed,Bachelor's,9,Permanent,NAIROBI,14,2013,On-Site,9,1.3
+10135,Wanjiku,Kimani,Finance,103150,2018-07-05 00:00:00,45,Male,1,Yes,5470.71,Widowed,High School,37,Intern,San Francisco,7,2021,On-Site,122,1.5
+10136,Victor,Ndegwa,Marketing,94361,2012-04-26 00:00:00,57,Female,4,Yes,-,Widowed,Associate's,39,Temporary,Tokyo,3,2021,Fully Remote,176,4.7
+10137,Queen,Ndegwa,Sales,31245,2006-12-30 00:00:00,44,Female,5,Yes,1576.99,Single,High School,12,Contrct,Berlin,14,2014,Hybrid,147,1.2
+10138,Dennis,Karanja,HR,KES 71011,2016-07-10 00:00:00,29,Male,3,Yes,9218.87,Widowed,Master's,21,Contract,Nairobi,10,2016,Fully Remote,71,1.4
+10139,Daisy,Naliaka,Markting,40355,2003-02-24 00:00:00,25,Female,1,Y,2644.84,Married,High School,18,Permanent,New York,0,2022,Hybrid,5,4.7
+10140,Moses,Muthama,Sales,78692,2004-10-01 00:00:00,99,Female,3,No,1639.77,Single,High School,11,Permanent,London,1,2014,On-Site,156,1.4
+10141,Eunice,wambui,finance,79004,2002-11-04 00:00:00,64,Male,9,No,2425.64,Married,High School,27,Contrct,Nairobi,7,2021,hybrid,113,4.5
+10142,Hope,Muriuki,Operations,59714,2017-06-09 00:00:00,52,Female,2,Yes,2110.94,Single,Associate's,24,Contract,New York,15,2019,Hybrid,66,4.2
+10143,Wairimu,Kiptoo,Info Tech,47198,2019-07-07 00:00:00,50,Male,1,NO,1361.41,Married,PhD,34,Contract,New York,0,2017,Hybrid,82,1.2
+10144,Purity,ODHIAMBO,HR,96951,,57,Female,7,Yes,8079.47,Widwowed,,20,Contract,New York,,2014,Hybrid,61,1.1
+10145,Baraka,Mutua,IT,31652,2019-11-29 00:00:00,34,Male,7,Yes,5207.61,Married,Master's,13,Intern,Nairobi,17,2014,Fully Remote,24,3.1
+10146,Caleb,Ochieng,Operations,73625,2013-04-02 00:00:00,62,Female,5,Yes,4190.93,Widowed,Masters,8,Permanent,Nairobi,15,2014,On-Site,190,5
+10147,Esther,Odhiambo,IT,115982,2006-12-15 00:00:00,30,Female,2,No,9530.97,Married,High School,37,permanent,Tokyo,19,2013,On-Site,18,4.5
+10147,BARAKA,Chebet,IT,48740,2012-02-01 00:00:00,42,Male,1,No,4024.58,Divorced,PhD,5,Permanent,New York,19,2030,Hybrid,185,2.2
+10149,Rahab,Chebet,Sales,33810,2003-05-27 00:00:00,24,Male,5,Yes,2086.24,Married,Bachelor's,7,Permanent,San Francisco,12,2021,On-Site,39,2.5
+10150,Fiona,Wafula,Finance,46569,2002-02-11 00:00:00,46,Female,4,Yes,3103.41,Married,Associate's,12,Permanent,New York,19,2020,Fully Remote,194,2.6
+10151,Yara,Cherono,IT,109120,2005-03-31 00:00:00,46,Male,9,No,2770.18,Married,PhD,4,Permanent,San Francisco,3,2021,Hybrid,193,Good
+10152,James,WAMBUI,IT,56783,2009-05-05 00:00:00,33,Male,5,Yes,5238.04,single,Associate's,19,Permanent,,3,2016,On-Site,151,2.4
+,Oscar,Juma-Jr,IT,108047,2006-11-04 00:00:00,50,Male,2,No,3269.3,Single,Associate's,1,Intern,Tokyo,ten,2011,On-Site,88,1.6
+10154,Winnie,Njoki,Finanace,39471,2009-06-02 00:00:00,32,Male,4,Yes,-,Widowed,Bachelor's,13,Permanent,,12,2019,Hybrid,46,4
+10155,Dennis,Were,HR,36163,2013-10-18 00:00:00,32,Male,9,No,6858.29,Widowed,phd,25,Contract,Nairobi,12,2022,Fully Remote,176,5.5
+10156,Valerie,Mwangi,Operations,93087,2019-02-21 00:00:00,47,Female,8,Yes,7884.34,Widowed,High School,34,Contract,San Francisco,19,2013,Hybrid,102,1.3
+10157,STELLA,Kamau,Sales,92071,2019-08-09 00:00:00,35,Male,3,No,7246.5,Single,PhD,35,Contract,San Francisco,6,2020,On-Site,,4.2
+10158,Zipporah.,Ochieng,IT,46065,not available,37,Male,8,Yes,2453.11,Married,PhD,17,Intern,San Francisco,6,2012,On-Site,72,3.3
+10159,Lucy,Achieng,Marketing,113456,2009-09-15 00:00:00,31,Male,2,No,1601.05,Married,High School,26,Permanent,San Francisco,16,2019,On-Site,108,3
+10160,Dennis,Kiptoo,HR,78348,2003-04-28 00:00:00,52,Male,3,Yes,5653.28,Widowed,Bachelor's,21,Contract,London,9,2022,Hybird,82,3.7
+10161,Abdi,Njoroge,Operations,49154,2008-01-10 00:00:00,52,Female,5,No,2389.66,Divorced,PhD,12,Contract,Tokyo,11,2017,Hybrid,178,3
+10162,PURITY,Chebet,Marketing,50229,2001-02-22 00:00:00,57,Male,8,Yes,1306.87,Married,High School,16,Contract,San Francisco,15,2016,On-Site,55,3.6
+10163,Purity,Koech,Sales,82587,2010-05-09 00:00:00,31,Female,1,Yes,5507.4,Married,Associate's,20,Permanent,London,1,2012,Hybrid,36,4.5
+10164,Edwin,Musyoka,Sales,79713,2013-07-31 00:00:00,47,F,4,Yes,3604.54,Married,Associate's,10,Contract,Berlin,8,2013,Fully Remote,104,3.5
+10165,Kiptoo,Ndegwa,Operations,56997,2002-02-27 00:00:00,41,Male,N/A,Yes,7683.42,Single,High School,23,Permanent,Tokyo,11,2022,Hybrid,151,3.6
+10166,Tony,Odhiambo,IT,51101,2005-02-14 00:00:00,30,Male,1,Yes,3484.82,Married,Associate's,30,Contract,Berlin,16,2023,Fully Remote,43,3.5
+10167,Linda,mwangi,Sales,"70,391",not available,36,Female,Excellent,Yes,9797.81,Widowed,PhD,,Contract,New York,15,2013,Hybrid,146,3.1
+10168,Fiona,Karanja,HR,105863,2014-02-14 00:00:00,30,Female,6,No,7705.97,Married,High School,-1,Permanent,Tokyo,4,2021,On-Site,161,1.7
+10169,Xavier,Onyango,Marketing,102723,2017-04-06 00:00:00,28,F,1,No,,Widowed,PhD,12,Permanent,Berlin,18,2019,Hybrid,46,2.3
+10170,Akoth,Njoroge,HR,89405,2005-07-18 00:00:00,47,Male,6,N,5334.29,Divorced,Master's,14,Perm,Nairobi,16,2016,On-Site,18,3.8
+10171,Grace,Ochieng,IT,64948,2017-02-24 00:00:00,45,Female,5,No,5844.89,Single,Bachelor's,12,Permanent,New York,2,2017,Fully Remote,120,2.7
+10172,Felix,Wanjala,HR,83031,2006-09-12 00:00:00,33,Male,4,Yes,7105.38,Divorced,Bachelor's,24,Contract,New York,16,2013,On-Site,143,
+10173,Eunice,Cherono,HR,67921,2016-08-25 00:00:00,41,Female,5,Yes,5229.07,Married,Bachelor's,17,Intern,New York,14,2017,On-Site,79,4
+10174,Harun,Muriuki,Finance,102571,2013-03-16 00:00:00,35,Female,8,No,5092.71,Divorced,High School,1,Intern,London,18,2010,On-Site,51,1
+10175,Quincy,Mutua,HR,107007,2001-07-14 00:00:00,43,Male,Poor,Yes,3995.42,Married,Master's,37,Permanent,San Francisco,14,2022,On-Site,108,
+10176,queen,Omondi,Operations,58460,2007-04-05 00:00:00,37,Male,2,Yes,3078.88,Widowed,Bachelor's,11,Contract,New York,17,2018,Hybrid,28,3
+10177,Edwin,Moraa,Marketing,51071,2014-05-15 00:00:00,50,Female,6,No,9488.9,Married,PhD,6,Permanent,San Francisco,11,2030,Fully Remote,154,2.5
+10178,Purity,Njoki,Finance,96118,2010-09-09 00:00:00,53,Male,3,Yes,3517.17,Single,Bachelor's,15,Intern,NAIROBI,11,2013,On-Site,181,Good
+10179,Miriam,Sang,Marketing,78282,2001-06-23 00:00:00,40,,2,Yes,1102.5,Married,Master's,23,Intern,London,2,2017,On-Site,187,1.7
+10180,Pauline,Langat,IT,"88,445",2017-10-17 00:00:00,56,Female,1,No,2089.21,Married,PhD,23,Permanent,San Francisco,10,2021,Onsite,59,2.3
+10181,Cynthia,Wafula,IT,$111067,2013-01-07 00:00:00,64,Male,4,No,8644.13,Widowed,PhD,38,Permanent,Berlin,9,2019,On-Site,74,2.6
+10182,Tony,Omondi,IT,112208,2018-01-01 00:00:00,thirty,Male,8,Yes,6073.02,Divorced,High School,-1,Contract,Nairob,14,2011,Hybrid,82,2.7
+10183,Omari,Moraa,Finance,84816,2016-04-25 00:00:00,41,Female,3,Yes,7898.42,Single,High School,12,Intern,Berlin,10,2023,On-Site,77,3.7
+10184,Njeri,Achieng,Sales,115779,2008-08-02 00:00:00,61,Female,5,Yes,8183.42,Married,Associate's,7,Permanent,New York,0,2017,Fully Remote,167,2.8
+10185,Noah,Muli,IT,33060,2009-01-02 00:00:00,35.5,Male,5,Yes,-,Single,Master's,37,Intern,Berlin,19,2019,On-Site,48,4.2
+10186,Kiptoo,Njoroge,IT,43731,2007-02-23 00:00:00,29,Male,5,Yes,5730.83,Widowed,PhD,16,Permanent,Berlin,3,2015,On-Site,168,3.6
+10187,Yvonne,Sang,Humman Res.,107830,2015-03-09 00:00:00,56,Male,9,Yes,2182.65,Divorced,Master's,38,Contract,London,7,2016,Hybrid,93,1.8
+10188,Xavier,Atieno,Marketing,50719,2013-06-13 00:00:00,63,Female,8,Yes,1908.21,Divorced,Bachelor's,35,Intern,Nairobi,19,2016,On-Site,19,2.1
+10189,Edwin,Njoroge,Finance,77042,2005-04-28 00:00:00,34,MALE,8,No,5952.85,Divorced,Bachelor's,29,Contract,Berlin,N/A,2011,Hybrid,49,1.3
+10190,Kiptoo,Ndegwa,Marketing,79116,2008-08-11 00:00:00,62,Male,1,Yes,3981.89,Widowed,Associate's,39,Contract,London,16,2023,Fully Remote,126,4.8
+10191,George,Wambui,Operations,56325,not available,27,MALE,1,Yes,5801.46,Married,PhD,17,Intern,Nairobi,14,2020,On-Site,66,4.5
+10192,Edwin,Kariuki,finance,52597,2014-07-17 00:00:00,37,M,2,No,5235.54,Married,PhD,26,Permanent,New York,0,2011,Hybrid,96,1.3
+10193,Lucy,Wafula,Operations,97439,2008-12-04 00:00:00,26,Female,8,Yes,6220.88,Married,Associate's,20,Contract,,2,2013,Fully Remote,182,3.3
+10194,Queen,Njoki,HR,44551,2011-03-31 00:00:00,55,Female,1,Yes,805.06,Single,Bachelor's,25,Contract,London,16,2015,Fully Remote,17,4.8
+10195,Rose,Kiprotich,HR,54278,2017-06-22 00:00:00,27,Male,4,No,811.95,Widowed,PhD,38,Intern,,3,2013,Hybrid,109,4
+10196,Janet,Nyambura,H.R,45141,2005-03-10 00:00:00,54,Male,9,Yes,7355.15,Divorced,Master's,39,Intern,Berlin,7,2015,Hybrid,163,3
+10197,Chebet,Wanjala,Operations,97913,2006-11-05 00:00:00,36,Male,2,No,2334.71,Widowed,PhD,37,Intern,New York,14,2014,On-Site,9,2
+10198,Timothy,Achieng,Marketing,KES 63615,2017-11-13 00:00:00,36,Male,3,No,6695.89,Widowed,Bachelor's,19,Contract,London,7,2015,Fully Remote,87,
+10199,Wanjiku,Muthama,Operations,92751,2007-09-30 00:00:00,35,Female,6,No,5692.47,Widowed,PhD,21,Permanent,New York,13,2018,Fully Remote,140,3.9
+10200,Moses,Mwangi,Finance,57452,2010-08-09 00:00:00,60,Male,3,No,9827.05,Divorced,PhD,32,Permanent,London,5,2015,Hybrid,145,4.1
+10201,Queen,Nyambura,HR,52725,2000-02-17 00:00:00,26,Male,4,No,8436.36,Divorced,Bachelor,28,Intern,San Francisco,14,2015,Fully Remote,,3.1
+10202,SHARON,Kiptoo,HR,80391,2006-06-22 00:00:00,47,MALE,9,No,4424.78,Single,PhD,39,Contract,Tokyo,19,2020,Hybrid,21,1.5
+10203,Zipporah,Wekesa,Sales,105060,2006-03-06 00:00:00,38,MALE,9,No,6355.92,Married,Associate's,12,Contract,New York,8,2020,On-Site,36,4.7
+10204,Rahab,Kamau,Operations,41698,2015-07-07 00:00:00,64,Male,5,Yes,1614.25,Married,Associate's,N/A,Contract,Berlin,4,2017,Hybrid,9,4.4
+10205,Edwin,Sang,Human Resource,116711,2019-12-13 00:00:00,35.5,Male,7,No,4170.67,Single,Master's,28,Intern,New York,12,2014,On-Site,130,1.6
+10206,David,Ochieng,IT,107850,2012-10-16 00:00:00,56,Male,9,No,7471.93,Divorced,Associates,21,Contract,London,6,2014,Hybrid,141,1.2
+10207,Baraka,Onyango,Info Tech,32365,2017-09-06 00:00:00,59,Male,8,Yes,6415.38,Divorced,Master's,16,Contract,Londn,16,2019,On-Site,111,3.1
+10208,Joy,Langat,Finance,73372,2002-01-23 00:00:00,44,Male,7,Yes,,Single,Bachelor's,23,Permanent,San Francisco,7,2022,Fully Remote,166,2.1
+10209,Abdi,Ndegwa,IT,74134,2014-02-11 00:00:00,34,Female,8,No,2177.03,Married,Bachelor's,26,Intern,London,4,2020,Fully Remote,5,2.1
+10210,Brian,Barasa,Sales,67823,2019-04-29 00:00:00,54,Male,5,No,8129.89,Widowed,High School,15,Intern,Nairobi,6,2010,Hybrid,172,1.3
+10211,Edwin,Mugambi,Operations,101158,2007-09-03 00:00:00,50,F,5,No,3095.08,Widowed,MSc,37,Intern,Berlin,7,2015,Hybrid,186,4.8
+10212,Abdi,Moraa,Finance,31949,2012-09-23 00:00:00,55,Female,5,NO,8294.55,Married,PhD,12,Contract,Berlin,6,2010,On-Site,130,4.3
+10212,Victor,Achieng,Finance,79396,2009-12-31 00:00:00,55,Female,1,Yes,6310.29,Widowed,PhD,4,Contract,London,11,2020,Hybrid,36,1.5
+10214,Victor,Ndegwa,Marketing,61912,2001-02-06 00:00:00,48,Female,6,Yes,4040.95,Divorced,Master's,35,Permanent,Nairobi,5,2017,Hybrid,130,4.5
+10215,Samuel,Otieno,Finance,86947,2014-04-23 00:00:00,36,Male,5,N,885.75,Single,Master's,31,Intern,San Francisco,3,2019,Fully Remote,103,3.7
+10216,Chebet,Makori,IT,74387,2005-09-17 00:00:00,30,Male,8,Yes,2707.98,Married,PhD,27,Contract,New York,2,2018,Hybrid,117,2.3
+10217,Pauline,Wambui,IT,93965,2018-05-30 00:00:00,47,Male,8,Yes,8946.17,Single,PhD,32,Permanent,Tokyo,4,2015,Hybrid,182,4.5
+10218,David,Mwangi,Operations,46508,2006-02-05 00:00:00,24,Male,2,Yes,8270.76,Widowed,High School,33,Contract,Berlin,18,2023,Hybrid,191,3.4
+10219,Yara,Wafula,Operations,75592,2016-11-07 00:00:00,57,Female,6,Yes,5961.11,Widowed,High School,13,Inten,San Francisco,7,2018,Hybrid,194,4.4
+10220,Cynthia,Moraa,Finance,31919,2009-05-03 00:00:00,26,Femle,6,No,4930.06,Divorced,High School,37,Intern,San Francisco,4,2011,Fully Remote,15,2.9
+10221,Daisy,Odhiambo,Information Tech,72595,2008-03-09 00:00:00,41,Female,3,Yes,6647.86,Divorced,PhD,2,Intern,San Francisco,12,2018,Hybrid,27,3
+10222,Amina,Naliaka,HR,39617,2012-09-17 00:00:00,41,Male,1,Yes,4929.36,Widowed,Master's,38,Contract,New York,9,2013,Hybrid,123,2.2
+10223,Wanjiku,Kiptoo,Marketing,105268,2003-02-23 00:00:00,26,Female,7,No,6620.9,Widowed,Associate's,37,Contract,San Francisco,5,2012,Fully Remote,30,2.6
+10224,Amina,Barasa,HR,63298,2000-03-03 00:00:00,31,Male,5,Part-time,,Divorced,Associate's,5,Contract,San Francisco,0,2010,On-Site,67,3.3
+10225,Kevin,Onyango,Finance,36929,2013-07-10 00:00:00,37,Female,5,No,8465.72,Divorced,Master's,18,Contract,Nairob,10,2010,On-Site,178,4.8
+10226,Zachary,Atieno,Finance,44456,2008-08-19 00:00:00,46,Male,8,No,7168.22,Married,Master's,17,Contract,London,19,2017,Fully Remote,73,3.4
+10227,Noah,Onyango,HR,116676,2002-10-05 00:00:00,46,Female,5,Yes,3634.77,Divorced,Master's,2,Intern,San Francisco,N/A,2011,Fully Remote,N/A,1.6
+10228,Uma,,Marketing,113721,2016-04-04 00:00:00,51,Female,5,Yes,8391.33,Divorced,High School,35,Intern,San Francisco,15,2010,On-Site,138,1
+10229,Hope,Korir,HR,67924,2005-07-24 00:00:00,35,Male,1,No,5129.75,Married,Bachelor's,14,Contract,London,14,2011,Hybrid,55,4.4
+10230,Janet,Wekesa,Marketing,54240,2003-08-15 00:00:00,43,Female,2,Yes,2159.07,Single,PhD,12,Contract,New York,4,2012,On-Site,47,2.5
+10231,ABDI,Mburu,IT,117381,2005-09-12 00:00:00,64,Female,0,No,1238.27,Divorced,High School,33,Intern,London,ten,2013,Hybrid,174,2.3
+10232,Joy,Kilonzo,Sales,"39,228",2002-01-21 00:00:00,49,Male,7,No,7146.25,Married,Associate's,7,Permanent,London,0,2022,Fully Remote,145,4.2
+10233,Akoth,Otieno,Operations,51686,2011-05-07 00:00:00,51,Female,3,Yes,8718.65,Single,PhD,39,Intern,London,14,2020,Fully Remote,29,
+10234,Faith,MURIUKI,IT,41920,05-07-20,40,Female,1,No,8170.7,Single,Master's,9,Intern,London,3,,Fully Remote,134,4
+10235,Rose,Wekesa,Sales,37432,2004-07-18 00:00:00,59,Female,2,No,6728.68,Divorced,Associate's,5,Intern,Tokyo,15,2016,On-Site,18,1.7
+10236,David,Karanja,Sales,93575,2001-12-01 00:00:00,63,Female,3,Yes,1843.06,Divorced,Master's,4,Intern,Berlin,6,2021,Fully Remote,N/A,2.6
+10237,Winnie,Cherono,Sales,101725,2002-12-16 00:00:00,41,Male,9,Yes,1393.42,Single,Master's,32,Permanent,New York,7,2014,On-Site,109,4
+10238,Lucy,Ochieng,Finance,63910,05-07-20,56,Prefer not say,8,No,3777.78,Married,High Sch,5,Contract,Nairobi,1,2014,Hybrid,108,4.6
+10239,Abdi,Bett,Sales,KES 60226,2004-03-20 00:00:00,43,Female,4,Yes,8621.65,Divorced,Bachelors,8,Contract,San Fransisco,11,2023,Hybrid,172,5
+10240,Samuel,Sang,Marketing,103150,2008-04-20 00:00:00,36,Male,8,No,9636.49,Single,Associate's,13,Contrct,San Francisco,,2015,Hybrid,43,3
+10241,Zachary,Bett,HR,89099,2016-11-19 00:00:00,32,Female,9,Yes,2792.93,Single,Associate's,4,Intern,Tokyo,13,2010,Fully Remote,157,4.3
+10242,Felix,Mutua,human resources,116760,2017-06-04 00:00:00,55,Male,3,No,7739.91,Married,Master's,11,Intern,San Francisco,18,2015,Hybrid,52,
+10243,Moses,Bett,HR,48013,2005-06-06 00:00:00,45,Female,6,YES,5951.76,Widowed,High School,15,Intern,London,19,2022,Fully Remote,119,2.1
+10244,Wanjiku,Maina,Operatons,51446,2000-11-10 00:00:00,27,Female,8,Yes,802.17,Married,Associate's,18,Contract,New York,5,Never,On-Site,53,2.5
+10245,Queen,Njoki,Operations,100375,2017-08-16 00:00:00,38,Male,7,Yes,5657.71,Single,High School,20,Intern,Nairobi,18,2020,on-site,165,4.9
+10246,Wairimu,Muli,HR,$92509,2008-06-08 00:00:00,49,Female,9,Yes,8156.43,Married,PhD,1,Permanent,Nairobi,16,2015,Hybrid,31,1
+,Peter,Kiprotich,Marketing,30557,31/04/2021,52,Female,7,Yes,3123.17,Divorced,,1,Contract,San Francisco,ten,2023,Fully Remote,49,2.2
+10248,Baraka,Kiptoo,Operatons,60666,2019-08-12 00:00:00,57,Female,1,No,9024.94,Single,High School,N/A,Permanent,Berlin,19,2020,Fully Remote,35,4.7
+10249,Winnie,Sang-Jr,Sales,67389,2013-12-31 00:00:00,30,Female,9,No,2744.47,Married,PHD,29,Permanent,San Francisco,9,2014,On-Site,67,2.2
+10250,Zachary,Njoki,Finance,77700,2012-12-16 00:00:00,31,,5,Yes,1226.49,Married,High School,29,Contract,Berlin,12,2019,Fully Remote,116,1.9
+10251,ESTHER,Musyoka,Operations,54578,2006-05-03 00:00:00,42,Male,6,No,2019.42,Married,Master's,24,Permanent,Berlin,19,2018,On-Site,170,3.9
+10252,Daisy,Mboya,Finance,104779,2005-11-05 00:00:00,55,Male,2,Yes,8451.53,Married,Associates,20,Permanent,London,17,2019,Fully Remote,,4
+10253,Tony,Abdi,Sales,39596,,52,Male,2,No,4464.41,Single,High School,30,Intern,New York,18,2019,Fully Remote,172,2.9
+10254,Timothy,Wafula,Sales,87500,2004-07-07 00:00:00,50,Female,4,YES,8070.98,Married,High School,38,Permanent,San Francisco,16,2014,Hybrid,190,4.8
+10255,Njeri,Kamau,Operations,102534,2008-10-24 00:00:00,64,Female,4,No,5546.71,Single,Bachelor's,5,Intern,New York,7,2018,Fully Remote,69,1.8
+10256,Lucy,Ochieng,Operations,40129,2018-11-22 00:00:00,64,Female,0,Yes,5065.31,Single,Master's,10,Permanent,London,17,2019,On-Site,15,4.7
+10257,James,Abdi,Sales,93394,2010-05-28 00:00:00,32,Female,7,Yes,8165.67,Widowed,Bachelor's,6,Intern,Berlin,6,2016,Hybrid,147,4
+10258,Lucy,Muli,IT,96046,2006-10-14 00:00:00,54,Male,1,No,4523.13,Widowed,PhD,4,Contract,London,10,2012,Hybrid,101,2.5
+10259,Daisy,Musyoka,Finance,41596,2011-02-19 00:00:00,22,Male,4,No,8119.31,Divorced,PhD,4,Contract,Tokyo,2,2020,Fully Remote,189,4.2
+10260,Tony,Musyoka,Humna Resources,95355,2004-11-10 00:00:00,42,Male,9,No,1456.29,Widowed,Master's,7,Contract,London,1,2018,On-Site,116,1.5
+10261,Peter,Awino,IT,42974,2005-05-20 00:00:00,44,Female,8,No,-,Single,Bachelor's,33,Intern,Nairobi,18,2019,On-Site,157,1.5
+10262,Gilbert,Mutua,Marketing,96673,2019-04-25 00:00:00,30,Female,3,Yes,7174.58,Single,Master's,9,Permanent,Nairobi,10,2016,Hybrid,171,4.7
+10263,Omari,Koech,Operations,100202,2016-08-03 00:00:00,22,Female,6,Yes,9041.43,Divorced,Bachelor's,26,Permanent,London,7,2013,Hybrid,37,1.4
+10264,Janet,Cherono,HR,104442,2004-11-02 00:00:00,42,Female,9,No,2631.08,Divorced,Associate's,21,Contract,London,10,2023,Fully Remote,,1
+10265,Baraka,Langat,Sales,51818,2010-06-12 00:00:00,43,Male,8,Yes,6240.09,Single,Master's,55,Intern,Tokyo,1,2021,Hybrid,190,2.6
+10266,Timothy,Langat,Sales,,2000-08-29 00:00:00,25,Male,7,No,4615.94,N/A,PhD,33,Intern,New York,11,2018,Fully Remote,15,1.4
+10267,Caleb,Barasa,IT,85598,2013-02-18 00:00:00,22,Male,7,Yes,4136.33,Widowed,Bachelor's,33,Contract,London,8,2015,Fully Remote,145,4.5
+10268,Olive,Muli,Finance,32654,2008-01-28 00:00:00,31,,1,No,1513.78,Single,Associate's,5,Permanent,New York,5,2018,Fully Remote,73,4.7
+10269,Zipporah,Mburu,Marketing,63758,2013-03-29 00:00:00,36,Femle,5,Yes,1775.22,Single,PhD,21,Contract,Nairobi,11,2013,On-Site,25,2.9
+10270,Caleb,Musyoka,Finance,54204,2016-12-31 00:00:00,57,Female,7,Full time,8451.39,Married,Bachelor's,27,Permanent,San Francisco,17,2019,On-Site,7,2.7
+10271,Esther,Mutua,Sales,64928,2019-06-25 00:00:00,50,Male,2,Yes,7622.66,Married,Associate's,1,Contract,Berlin,4,1900,Hybrid,158,3.2
+10272,Njeri.,Bett,Operations,83609,2017-11-08 00:00:00,26,Male,6,No,4132.24,Widowed,PhD,16,Permanent,San Francisco,16,2022,On-Site,165,1.9
+10273,Yusuf,Makori,HR,60552,2017-11-18 00:00:00,50,Female,2,Yes,8370.62,Divorced,PhD,35,Intern,Londn,15,2023,Fully Remote,98,2.2
+010274,Terry,Cherono,IT,40336,2016-03-07 00:00:00,48,Female,3,yes,1267.28,Single,Associate's,36,Contract,Tokyo,11,2018,Fully Remote,26,1.4
+10275,Irene,Mboya,Operations,77037,2022-06-01,46,Female,1,No,6435.35,Widowed,PhD,32,Permanent,New York,1,2019,On-Site,66,2.8
+10276,Wairimu,Njoroge,Marketing,46206,2006-03-06 00:00:00,37,Male,3,Yes,8747.67,Married,Bachelor's,29,Permanent,New York,15,1900,Hybrid,9,3.4
+10277,Xavier,Mboya,Operations,64831,2011-04-04 00:00:00,37,Male,7,Yes,8469.21,Divorced,Bachelor's,39,Permanent,London,0,2023,Fully Remote,151,4.7
+10278,Abdi,Awino,Operations,73563,2009-03-22 00:00:00,57,Male,5,Yes,4041.44,Widowed,PhD,23,Permanent,San Francisco,19,2013,Hybrid,13,4
+10279,Valerie,Ndegwa,Marketing,48361,2013-11-29 00:00:00,46,Male,4,No,7579.72,Divorced,High School,15,Intern,New York,1,2020,On-Site,62,3.9
+10280,David,Kilonzo,Info Tech,$71335,2020/13/05,62,Female,8,No,4560.95,Widowed,Associate's,26,Permanent,Nairobi,12,2011,Hybrid,28,2.2
+10281,Omari,Moraa,IT,104469,2007-09-28 00:00:00,22,Male,8,No,8481.31,Divorced,High School,5 years,Intern,New York,15,2016,Fully Remote,171,4.6
+10282,YUSUF,Muthoni,Sales,55816,2003-06-06 00:00:00,26,Female,1,Yes,5542.24,Divorced,Bachelor's,25,Permanent,Nairobi,0,2016,On-Site,65,4.8
+10283,Noah,Kariuki,Finance,45619,2006-10-23 00:00:00,62,Male,9,No,7766.14,Single,PhD,2,Intern,New York,18,2021,Fully Remote,131,4.7
+10284,Sharon,Mutua,Operations,56819,2013-02-06 00:00:00,41,Female,9,yes,1246.43,Divorced,Master's,12,Intern,Berlin,3,2014,Fully Remote,52,
+10285,Amina,Muthoni,IT,41741,2009-11-12 00:00:00,26,Female,2,No,6105.25,Married,Master's,19,Permanent,New York,19,2017,Hybrid,182,3.4
+10286,Nancy,Odhiambo,Finance,38798,2009-08-22 00:00:00,57,Femle,2,No,5727.7,Single,High School,32,Intern,Berlin,2,2015,Hybrid,66,3.6
+10287,Timothy,Onyango,Finance,55143,2014-02-11 00:00:00,50,Male,8,No,6294.78,Divorced,Associates,23,Contract,Tokyo,1,2010,On-Site,185,2.2
+10288,Rose,Karanja,Operations,79695,2013-07-13 00:00:00,thirty,Female,6,NO,7108.6,Married,High School,5,Permanent,Berlin,11,Never,Fully Remote,153,5
+10289,Vincent,Wekesa,IT,62747,2012-05-14 00:00:00,39,Male,3,No,9222.04,Married,Bachelor's,25,Contract,San Francisco,12,2023,Fully Remote,42,2.2
+10290,Grace,Langat,Sales,,2004-07-01 00:00:00,23,Female,2,No,7963.98,Widowed,Bachelor's,35,Intern,New York,17,2021,Fully Remote,122,1.9
+10291,sharon,Omondi,Operations,39415,2003-04-27 00:00:00,37,Male,5,Yes,2586.56,Single,PhD,29,Intern,Berlin,4,2013,On-Site,63,2.9
+10292,Pauline,Mboya,Marketing,KES 41085,2012-11-16 00:00:00,50,Male,8,No,8346.01,Single,Bachelor's,55,Contract,New York,11,2010,On-Site,101,2.3
+10293,Baraka,Kimani,Human Resource,KES 45008,2014-11-17 00:00:00,54,Male,6,Yes,1659.76,Widowed,PhD,20,Permanent,New York,18,2014,On-Site,175,4.7
+10294,Moses,Njoki,H.R,117638,2000-01-20 00:00:00,37,Male,3,No,N/A,Widowed,PhD,36,Contract,Berlin,0,2014,Remote,21,2.8
+10295,Sharon,Mutua,Finance,KES 48452,2001-11-06 00:00:00,56,Male,9,No,8886.16,Widowed,High School,7,Intern,New York,8,2013,Hybrid,73,2.6
+10296,Gilbert,Muli,Marketing,94075,2012-04-04 00:00:00,64,Female,8,Yes,1460.66,Single,Master's,22,Permanent,San Francisco,0,2018,Fully Remote,176,3.5
+10297,George,Achieng,HR,38120,2001-08-31 00:00:00,63,Male,6,Yes,8572.08,Married,High School,18,Contract,Nairobi,N/A,2017,Hybrid,195,1.3
+10298,Zipporah,Nyambura,Operations,94385,2017-03-18 00:00:00,38,Female,1,Yes,8086.9,Married,Bachelor's,21,Contract,Nairobi,2,2023,Fully Remote,27,4
+10299,Mercy,Wambui,IT,103356,2000-03-02 00:00:00,,Female,2,Yes,5285.87,Divorced,Master's,22,Permanent,Nairobi,5,2019,Fully Remote,107,4.1
+10300,Noah,Chebet,Operations,48170,2003-06-19 00:00:00,25,Female,4,N,3434.53,Single,Bachelor's,39,Contract,Nairobi,3,2023,Hybrid,158,2.9
+10301,Esther,Moraa,IT,46259,2006-04-04 00:00:00,46,Male,2,No,4351.66,Single,Master's,12,Permanent,Tokyo,11,2012,On-Site,98,4.8
+10302,Omari,Mwangi,IT,52099,2003-02-28 00:00:00,54,Female,,No,9702.25,Widowed,Bachelor's,11,Permanent,London,11,2014,Fully Remote,180,3.3
+10303,Kennedy,Ochieng,Marketing,39649,05-07-20,35,Female,8,No,2416.13,Single,Master's,12,Contract,,4,2015,On-Site,179,3.8
+10304,Kiptoo,Kariuki,Sales,89258,2004-06-14 00:00:00,45,Female,9,No,6006.24,Single,Associate's,26,Permanent,Berlin,12,2014,Hybrid,50,4.7
+10305,Mercy,Njoroge,IT,71037,2010-03-05 00:00:00,32,Female,6,,1290.79,Married,Associate's,30,Permanent,San Francisco,11,2017,Fully Remote,33,3.7
+10306,Stella,Odhiambo,Operations,41805,2014-05-09 00:00:00,46,Female,4,Yes,2569.98,Single,PhD,15,Intern,,3,2014,On-Site,38,2.7
+10307,Winnie,JUMA,Marketing,73147,,49,Female,2,Yes,7751.51,Single,Bachelor's,8,Contrct,Tokyo,5,2017,Hybrid,14,
+EMP-10308,,Muriuki,IT,104280,2013-10-01 00:00:00,4,,7,Yes,3374.69,Married,PhD,18,Intern,Tokyo,,2021,Fully Remote,24,3.9
+10309,Kennedy,Korir,human resources,76053,2017-10-03 00:00:00,57,Female,7,Yes,9864.78,Single,High School,10,Contract,Berlin,5,2019,Hybrid,38,4.9
+10310,Hassan.,Ndegwa,Sales,106215,2003-12-13 00:00:00,31,Female,9,No,5257.76,Married,High School,8,Contract,New York,,2023,On-Site,105,2.9
+10311,faith,Achieng,Finance,40985,2004-07-11 00:00:00,57,Male,5,Yes,5407.12,Widowed,High School,38,Contract,Nairobi,10,,Fully Remote,145,2.4
+10312,fiona,Maina,IT,42391,2006-11-07 00:00:00,52,Female,4,Yes,844.99,Married,PhD,35,Contract,New York,13,2014,Fully Remote,91,3.1
+10313,Samuel,Muthoni,IT,34861,2008-12-13 00:00:00,40,Male,6,No,9587,Single,High School,20,Temporary,New York,2,2013,Fully Remote,142,3.9
+10314,Beatrice,Wambui,HR,93582,2000-10-08 00:00:00,39,Male,2,No,2155.22,Widowed,Bachelor's,12,Permanent,Tokyo,7,2022,Hybrid,49,1
+10315,Miriam,Kiprotich,Operations,81928,2013-08-21 00:00:00,27,Female,2,No,5614.24,Widowed,Master's,3,Intern,New York,3,2020,Hybrid,132,4.5
+10316,Oscar,Wekesa,Sales,64364,2002-10-21 00:00:00,49,Female,9,No,4258.91,Single,PhD,20,Permanent,Nairobi,15,2015,Hybrid,93,4.5
+10317,Olive,Langat,Sales,112399,2013-03-11 00:00:00,28,Male,7,Yes,4448.05,Divorced,Master's,12,Contract,Nairobi,17,2012,On site,86,3.2
+10318,Felix,Kiptoo,H.R,72923,2016-02-20 00:00:00,59,Male,7,No,6611.35,Married,High School,24,Permanent,New York,6,2021,on-site,123,1.5
+10319,Gilbert,Wafula,IT,37919,2009-04-26 00:00:00,33,Male,5,Yes,6789.84,Married,Associate's,16,Intern,New York,10,Never,Hybrid,96,3.7
+10320,Isaac,Omondi,Marketing,85896,2003-05-20 00:00:00,62,Male,7,No,1965.74,Divorced,Master's,10,Contract,Nairobi,7,2013,Hybrid,140,1.6
+10321,WANJIKU,Kiprotich,IT,115818,2011-06-14 00:00:00,55,male,9,No,5246.07,Widowed,Master's,19,Inten,Nairobi,19,2020,Hybrid,9,3
+10322,Janet,Kilonzo,Finance,77396,2013-01-12 00:00:00,35.5,Male,5,Yes,8009.54,Divorced,Bachelor's,14,Intern,Berlin,5,2013,On-Site,24,1.4
+10322,Queen,Makori,IT,64840,2013-07-28 00:00:00,38,Male,9,Yes,4711.22,Single,Master's,14,Permanent,Tokyo,15,2014,On-Site,125,3.4
+10324,Dennis,Muthama,H.R,72255,2015-12-06 00:00:00,54,Male,1,No,2075.14,Divorced,Associate's,22,Intern,London,4,2020,Fully Remote,176,2.3
+10325,Peter,Kiptoo,IT,101160,2016-12-26 00:00:00,44,Female,3,Yes,3475.56,Widowed,PhD,4,Intern,Berlin,5,2015,Hybrid,62,4.3
+10326,Quincy,Maina,IT,38176,2019-01-01 00:00:00,30,Male,7,No,2517.61,Single,Master's,34,Intern,San Fransisco,5,2011,Fully Remote,152,4.2
+10327,STELLA,Naliaka-Jr,H.R,63529,2017-01-29 00:00:00,27,Female,Excellent,No,1695.27,Single,Bachelor's,18,Contract,Remote,1,2019,Fully Remote,93,5
+10328,,Mboya,HR,86406,2002-02-24 00:00:00,23,Female,2,Yes,4087.02,Single,High School,34,Permanent,London,6,2021,On-Site,,2
+10329,Brian,Muriuki,HR,$42941,2015-07-13 00:00:00,17,Female,3,Yes,5638.89,Married,Associate's,18,Permanent,San Francisco,ten,2017,On-Site,119,1.2
+10330,Pauline,Juma,IT,31669,2009-01-30 00:00:00,30,Male,7,Yes,1191.14,Married,High School,31,Contract,London,14,2013,Fully Remote,78,2.8
+10331,Daisy,Sang,Sales,115782,2004-07-25 00:00:00,24,Male,8,No,6236.32,Single,Master's,20,Contract,Berlin,13,2016,Fully Remote,172,1.3
+10332,Peter,Kariuki,Marketing,74859,2008-03-27 00:00:00,37,Male,9,YES,9933.73,Divorced,PhD,36,Permanent,San Francisco,12,2016,Hybrid,20,1.7
+10333,,Were,IT,85786,2017-08-19 00:00:00,46,Female,6,Yes,9659.19,Married,Bachelor's,10,Contract,Berlin,4,2021,On-Site,8,3.4
+10334,Ruth,Barasa,IT,81083,2008-09-29 00:00:00,thirty,Female,9,No,8377.15,Widowed,Associate's,3,Contract,Tokyo,16,2023,On-Site,14,3.4
+10335,Zipporah,Chebet,Finance,70076,05-07-20,50,Male,4,Yes,3030.24,Married,PhD,21,Permanent,Tokyo,4,2022,N/A,183,1.2
+10336,Rose,Barasa-Jr,Finance,50323,2010-05-03 00:00:00,61,Male,5,Yes,712.87,Divorced,Associate's,36,Intern,Nairobi,2,2019,On-Site,52,2.8
+10337,Winnie,Kamau,Sales,36021,2006-09-12 00:00:00,47,Male,1,Yes,8418.65,Married,Bachelor's,10,Contract,Tokyo,8,2020,Fully Remote,24,3.1
+10338,Hope,Kiprotich,Marketing,69807,2010-05-18 00:00:00,59,Female,9,Yes,1029.34,Divorced,Bachelor's,7,Permanent,San Francisco,8,2020,Fully Remote,N/A,2.1
+10339,Janet,Kamau,Operations,$80355,2019-05-30 00:00:00,56,MALE,9,No,2453.47,Divorced,Master's,22,Permanent,London,3,2011,On-Site,198,4.5
+10340,Joy,juma,Info Tech,74732,31/04/2021,44,Male,9,Yes,5672.31,Married,Associate's,23,Permanent,Nairobi,19,,Hybrid,64,1.6
+10341,Noah,Omondi,Sales,38711,2001-06-17 00:00:00,25,Female,3,No,2194.59,Divorced,Master's,12,Contract,Berlin,10,2016,On-Site,15,2
+10342,Stella,ODHIAMBO,HR,93079,2001-02-05 00:00:00,63,Male,8,No,8420.99,Divorced,Associate's,39,Intern,Tokyo,16,2021,Fully Remote,24,1.6
+10343,Oscar,Nyambura,Finance,37904,2010-01-11 00:00:00,35,Female,3,Yes,7883.02,Widowed,Associate's,13,Intern,Nairobi,13,2010,Fully Remote,27,1.5
+10344,Caleb,Kilonzo,human resources,$94033,2000-05-09 00:00:00,60,Female,6,No,7679.81,Single,PhD,13,Permanent,San Francisco,9,2021,Hybrid,131,4.5
+10345,Yvonne,Juma-Jr,,116478,2006-05-28 00:00:00,28,Male,5,Yes,8253.21,Single,Master's,33,Contract,San Francisco,4,2023,Fully Remote,81,2.1
+10346,Yvonne,Muthoni,Sales,119787,2011-12-20 00:00:00,29,Female,8,No,2587.17,Married,Associate's,31,Contract,New York,16,2030,Hybrid,None,3.9
+10347,Hope,Ochieng,Ops,85096,2008-02-07 00:00:00,63,Female,Excellent,Yes,7424.48,Divorced,Associate's,28,Intern,San Francisco,15,2014,On-Site,149,2.7
+10348,Beatrice,Korir,Sale,33093,2005-02-01 00:00:00,40,Male,1,No,3875.17,Married,Bachelor's,19,Intern,Tokyo,0,2017,Hybrid,14,3.5
+10349,Grace,Onyango,Finance,54918,31/04/2021,23,Female,9,No,6835.03,Married,High School,21,Contract,San Francisco,9,2021,Fully Remote,42,4.7
+10350,Olive,Muli,Marketing,102743,2011-05-13 00:00:00,22,Female,9,No,1659.21,Single,Bachelor's,32,Intern,London,11,2016,Fully Remote,87,4.4
+10351,David,Atieno,Marketing,92636,2009-12-28 00:00:00,63,Male,0,No,7203.07,Divorced,Master's,26,Permanent,Tokyo,17,2012,Hybrid,36,1.3
+10352,Rose,Awino,Sales,88806,2007-08-18 00:00:00,59,,2,No,9735.02,Married,Master's,13,Contract,London,0,2022,On-Site,58,4.4
+10353,Brian,Mugambi,Operations,39394,2008-06-24 00:00:00,34,Male,4,No,914.2,Married,Associate's,N/A,Contract,San Francisco,11,,Hybrid,61,2.8
+10354,Wairimu,Nyambura,human resources,43280,2009-08-13 00:00:00,63,Male,8,Yes,1391.37,Single,PhD,7,Permanent,New York,19,2018,Fully Remote,111,2.4
+10355,vincent,Muli,Sales,66303,31/04/2021,45,Male,6,No,1674.55,Single,high school,26,Contract,Nairobi,5,2021,On-Site,29,3.7
+10356,Hope,Mutua,HR,57453,2003-05-05 00:00:00,53,Female,1,Yes,4590.36,Single,Master's,6,Intern,Berlin,7,2022,On site,146,4.8
+10357,Hassan,Njoroge,IT,90695,2001-10-03 00:00:00,51,,8,No,3262.41,Married,Associate's,32,Intern,Tokyo,13,2014,Hybrid,49,1.4
+10358,Ruth,Maina,Finance,98449,2009-01-27 00:00:00,27,Female,5,Yes,8165.74,Divorced,Associate's,36,Permanent,San Francisco,4,2012,Hybrid,176,4.1
+10359,Kevin,Njoroge,Operations,55765,2016-04-09 00:00:00,59,Female,6,No,5000.98,Single,Bachelor's,N/A,Permanent,Tokyo,3,2016,Fully Remote,122,1.8
+10360,Baraka,Wambui,Sales,32340,2001-12-24 00:00:00,54,Female,5,Full time,5103.1,Single,Associate's,11,Contract,London,15,2013,Fully Remote,42,2.5
+10361,Rose,Moraa,Finance,68057,2014-07-15 00:00:00,44,Male,5,No,7311.86,Divorced,High School,21,Permanent,Remote,5,2010,Fully Remote,129,4.5
+10362,Njeri,Korir,Human Resource,30597,2013-05-29 00:00:00,31,Male,3,No,3938.71,Married,PhD,19,Intern,Berlin,2,2014,On-Site,40,3.2
+,Esther,Odhiambo,Operations,87988,2002-01-07 00:00:00,36,Male,4,No,3855.47,Married,Bachelor's,34,Contract,London,3,2020,On-Site,92,1.3
+10364,Oscar,Onyango,Operations,45025,2013-04-15 00:00:00,44,Male,5,No,7690.8,Divorced,Bachelor's,35,Intern,San Francisco,7,2017,On-Site,128,3
+10365,Stella,Onyango,Finance,37145,,57,Female,2,No,7910.4,Married,Bachelor's,31,Intern,Nairobi,13,2021,Fully Remote,171,4.2
+10366,Sharon,Njoki,H.R,85797,2018-05-16 00:00:00,22,Male,6,No,636.79,Widowed,Associate's,29,Permanent,Nairobi,6,2013,On-Site,171,3.1
+10367,Kevin,Barasa,Marketing,71723,2003-07-23 00:00:00,29,Male,2,Yes,1866.01,Divorced,Associate's,6,Permanent,Londn,3,2016,On-Site,17,1.7
+10368,Irene,Langat,Finance,,2016-04-03 00:00:00,24,Female,4,Yes,2524.43,Widowed,Bachelor's,36,Contract,San Fransisco,18,2017,Hybrid,198,2.8
+10369,Olive,Barasa,Operations,34830,2009-07-12 00:00:00,35,Female,1,No,3840.2,Married,Bachelor's,31,Contract,London,10,2018,Fully Remote,166,4.7
+10370,Stella,Korir,HR,53930,2000-12-05 00:00:00,38,Male,4,Yes,3268.76,Married,High School,N/A,permanent,Berlin,14,2020,Hybrid,128,3.6
+10371,Felix,Wanjala,IT,53752,2000-06-01 00:00:00,55,Female,7,No,6850.94,Widowed,Master's,20,Contract,San Francisco,15,2018,Fully Remote,19,3.9
+10372,Irene,Abdi,HR,106025,2015-07-25 00:00:00,27,Female,8,Yes,8367.28,Single,High School,22,Permanent,London,5,2014,Fully Remote,62,4.1
+10373,Janet,Maina,Operations,111304,2003-11-22 00:00:00,26,Male,2,No,2324.83,Widowed,Bachelor's,3,Permanent,Nairobi,11,2015,On-Site,116,1.4
+10374,Stella,Kimani,IT,92040,2015-03-26 00:00:00,4,Female,3,Yes,5848.31,Single,Associate's,8,Permanent,New York,7,2016,Hybrid,63,3.3
+10375,Rahab,Maina,Marketing,97696,2008-05-09 00:00:00,61,Prefer not say,1,Yes,3994.25,Divorced,Associate's,19,Intern,Tokyo,9,2019,Hybrid,198,2.5
+10376,Uma,Moraa,Operations,94648,2001-03-02 00:00:00,50,Female,7,yes,5304.89,Married,Bachelor's,31,Contract,Nairobi,10,2011,On-Site,56,1.6
+10377,Kiptoo,Kimani,Marketing,85030,2019-07-26 00:00:00,56,Female,4,Yes,6397.2,Married,Master's,32,Permanent,New York,8,2018,Hybrid,73,1.8
+10378,Peter,Juma-Jr,Operations,86815,2009-09-28 00:00:00,39,Female,8,No,8989.2,Widowed,PHD,-1,Intern,Berlin,16,2010,Hybrid,107,4.1
+10379,Olive,Kariuki,Finance,115669,2017-05-18 00:00:00,61,Female,5,No,2326.78,Divorced,PhD,39,Intern,San Francisco,13,2023,Fully Remote,9,1.6
+10380,Linda,Ochieng,Sales,65690,2003-02-09 00:00:00,51,Male,9,Yes,1326.56,Widowed,High School,31,Intern,Tokyo,2,2015,Hybrid,,2.2
+10381,Ruth,Ndegwa,IT,118406,2006-06-30 00:00:00,36,Female,6,No,6458.51,Widowed,Master's,3,,San Francisco,8,2015,Remote,12,2.1
+10382,Grace,Makori,Sales,87923,2009-02-11 00:00:00,36,Male,2,Yes,4244.24,N/A,phd,5 years,Contract,Berlin,19,N/A,Fully Remote,82,1.2
+EMP-10383,Moses,Muli,Markting,66572,2002-08-07 00:00:00,37,Male,1,Yes,2047.58,Single,Master's,10,Contract,San Francisco,17,2016,On-Site,97,2.8
+10384,Victor,Muthama,IT,84030,2019-06-04 00:00:00,54,,1,Yes,1612.33,Married,Associate's,28,Intern,London,16,2011,Fully Remote,67,4.1
+10385,Kiptoo,Musyoka,Sales,97904,2022-06-01,31,Female,9,Yes,5809.64,Married,Associate's,27,Intern,London,4,2022,On-Site,167,1.1
+10386,Tony,Ndegwa,IT,59203,2016-10-09 00:00:00,,Male,1,Yes,3354.47,Widowed,High Sch,31,Contract,Nairobi,ten,2015,On-Site,36,1.5
+10387,Nancy,Wekesa,Sales,107088,2019-05-23 00:00:00,58,Female,3,Yes,9975.55,Single,Bachelor's,34,Permanent,Nairobi,5,2015,Fully Remote,101,3.9
+10388,Isaac,Muriuki,Sales,35608,2002-08-14 00:00:00,24,Female,0,No,4356.06,Married,PhD,5,Contract,Nairobi,2,2018,Fully Remote,122,3.4
+10389,Felix,Moraa,HR,75667,2004-08-28 00:00:00,57,Male,4,Yes,2516.72,Single,PhD,11,Intern,Nairobi,15,2023,On-Site,28,3.9
+10390,Queen,OTIENO,IT,85547,Jan 5 2021,25,Female,1,Yes,6474.07,Divorced,Associate's,7,Intern,Berlin,14,2017,Fully Remote,54,1.9
+10391,Pauline,Abdi,HR,52485,2006-10-18 00:00:00,32,Male,1,Yes,2820.42,Single,High School,8,Intern,San Francisco,7,2014,Fully Remote,122,4.2
+10392,Yusuf,Mugambi,Operations,39862,2003-07-27 00:00:00,62,Female,4,No,N/A,Single,PhD,17,permanent,Nairobi,8,2016,Hybrid,191,2.9
+10393,Caleb,Koech,Sales,105948,2001-01-05 00:00:00,54,Female,4,No,5084.47,Divorced,Associate's,39,Perm,Berlin,3,1900,Fully Remote,197,3.4
+10394,Miriam,Naliaka,Operations,116890,2020/13/05,49,Female,7,No,4808.8,Married,Associate's,14,Intern,Tokyo,12,2014,Fully Remote,132,1.4
+10395,Timothy,Wambui,IT,101880,2006-04-15 00:00:00,53,Female,8,Yes,8062.81,Married,Master's,24,Contract,Nairobi,2,2016,Hybrid,116,1.8
+10396,Olive,Kimani,Markting,87560,2019-04-05 00:00:00,37,Female,Excellent,Yes,2557.82,Single,Master's,N/A,Intern,San Francisco,6,2012,On-Site,42,4.1
+10397,Chebet,Atieno,Finance,113529,2017-04-25 00:00:00,30,Female,8,Yes,9090.92,Single,Master's,15,Intern,London,15,2016,On-Site,170,Good
+10398,Zipporah,Kimani,,58415,2013-02-19 00:00:00,32,Prefer not say,9,No,8017.73,Divorced,High School,4,Intern,Nairobi,16,2022,Fully Remote,153,1.4
+10399,Baraka,Bett,Finance,94523,2022-06-01,27,Prefer not say,1,No,3664.66,Divorced,PhD,13,Intern,London,16,2015,Fully Remote,155,3.4
+10400,Zipporah,Korir,Finanace,49323,2015-10-19 00:00:00,48,Female,9,No,2215.72,Married,High School,5,Intern,San Francisco,18,2021,On-Site,178,3.2
+10401,Moses,Atieno,Finance,83214,2005-10-26 00:00:00,33,Female,8,Yes,3155.58,Married,High School,31,Permanent,San Francisco,19,2015,,162,3.4
+10402,Vincent,Kamau,HR,47997,2008-02-14 00:00:00,43,Male,1,Yes,3660.04,Divorced,Master's,12,Contract,San Francisco,16,2011,On-Site,172,3.5
+10403,Irene,Musyoka,Operations,87003,2019-03-30 00:00:00,61,Male,7,No,5790.87,Single,Associate's,30,Contract,San Francisco,1,2011,On-Site,86,3
+10404,Chebet,Moraa,HR,33679,2017-09-27 00:00:00,58,Male,9,Yes,940.5,Divorced,Bachelor's,10,Permanent,Nairobi,4,2016,Hybrid,74,3
+10405,Peter,Bett,Sales,70308,2011-05-08 00:00:00,42,Female,4,No,9186.41,Married,Associate's,30,Permanent,Tokyo,15,2010,Hybrid,73,Good
+10406,Purity,Wekesa,Finance,105024,2017-01-19 00:00:00,54,Male,9,No,1437.41,,Associate's,26,permanent,New York,10,1900,Fully Remote,174,3.1
+10407,Kennedy,Mboya,Finance,69842,2020/13/05,38,Female,1,No,3153.1,Widowed,Associate's,6,Contract,Nairobi,5,2012,Fully Remote,150,3.5
+10407,Yusuf,Bett,I.T,95408,2016-10-30 00:00:00,thirty,Male,9,Yes,1538.23,Widowed,Associate's,27,Contract,London,10,2015,Onsite,191,2.1
+10409,Yusuf.,Mwangi,Sales,99532,2013-12-06 00:00:00,61,Male,6,No,2938.39,Divorced,High School,20,Permanent,Tokyo,0,2012,Fully Remote,17,4.5
+10410,Harun,Korir,Human Resource,83938,2011-01-04 00:00:00,31,Female,4,No,8457.9,Married,Master's,28,Contract,Berlin,18,2021,Hybrid,123,1.1
+10411,Linda,Bett,Marketing,35695,2006-06-22 00:00:00,39,Male,5,Yes,6344.17,maried,Master's,20,Contract,San Francisco,2,2018,On-Site,106,3.2
+10412,Irene,Musyoka-Jr,Operations,88499,2014-04-27 00:00:00,34,Female,7,Yes,2659.57,Widowed,Associate's,12,Intern,London,7,Never,N/A,25,2.5
+10413,Kiptoo,Makori,Sales,53382,2014-12-06 00:00:00,48,Female,4,No,8781.71,Single,Bachelor's,21,Intern,Berlin,17,,Fully Remote,81,3.4
+10414,Abdi,,Operations,44235,2016-05-06 00:00:00,31,Male,8,Yes,8106.76,Single,PhD,30,Intern,New York,12,2016,On-Site,86,2.4
+10415,,Wambui,Sales,92223,2002-02-01 00:00:00,53,Femle,3,Yes,7659.67,maried,Associate's,10,Contract,London,0,2010,On-Site,81,3.9
+,QUEEN,Kiprotich,HR,32366,2018-06-30 00:00:00,62,Male,2,Yes,8552.51,Single,Associate's,5,Contract,Tokyo,19,2013,On-Site,193,1.1
+10417,James,Chebet,Operations,57467,2011-02-14 00:00:00,24,Male,1,Yes,6386.67,Divorced,Bachelor's,37,Intern,Nairobi,16,2023,Hybrid,103,2.6
+10418,Eunice,Mutua,Sales,89316,2002-10-01 00:00:00,43,Female,6,No,5263.65,Single,High School,8,Intern,Berlin,4,2014,On-Site,170,4.3
+10419,Mercy,Wanjala,Marketing,36764,2019-04-28 00:00:00,48,Female,2,Yes,-,Widowed,Associate's,30,Contract,London,,2016,Hybrid,172,2
+10420,Brian,Bett,Sales,91836,2010-04-13 00:00:00,24,Male,8,No,2625.76,Widowed,Bachelor,17,Contract,Nairobi,10,2016,On-Site,159,1.2
+10421,Valerie,Chebet,Sales,61923,2007-10-17 00:00:00,54,Female,4,Yes,5795.41,Divorced,High School,3,Permanent,Nairobi,17,,Fully Remote,190,3
+10422,Kennedy,Achieng,Operations,46292,2017-02-22 00:00:00,23,Male,9,No,8950.18,Widowed,High School,21,Intern,Nairobi,7,2021,Fully Remote,198,4.9
+10423,Lucy,Karanja,HR,31614,2000-12-15 00:00:00,32,Female,4,No,6142.83,Single,Bachelors,16,Intern,Tokyo,12,2010,On-Site,47,1.3
+10424,Baraka,Muthoni,HR,"50,939",2008-02-12 00:00:00,31,Male,N/A,Yes,9236.27,Widowed,High School,32,Intern,San Francisco,,2014,Fully Remote,126,0
+10425,Yara,Kiprotich,HR,48800,2001-11-17 00:00:00,60,Male,8,Yes,3890.72,Married,Associate's,27,Contract,London,15,2014,Hybrid,128,3.4
+10426,Terry  Ann,Kamau,HR,86440,2012-09-11 00:00:00,54,Female,8,No,KES 7103.81,Single,Associate's,6,Contract,Nairobi,11,2013,Fully Remote,24,2
+10427,YUSUF,karanja,I.T,53246,2008-07-23 00:00:00,28,Female,5,No,6662.32,Divorced,Master's,16,Permanent,San Francisco,7,2022,Hybrid,167,2.6
+10428,Yusuf,Juma,Operations,$82805,2012-03-14 00:00:00,36,Male,3,No,6869.12,Married,PhD,3,Permanent,Nairobi,3,2015,On-Site,None,4.3
+10429,David,Naliaka,,79648,2007-07-18 00:00:00,47,Male,2,Yes,6627.9,Widowed,PhD,20,Intern,Berlin,13,2017,Hybrid,78,0
+10430,Joy,Naliaka,Operatons,86851,2009-08-25 00:00:00,32,Male,9,Yes,2605.72,Married,Bachelor's,7,Permanent,Berlin,8,2019,Fully Remote,76,3.9
+10431,Mercy,Naliaka,IT,61688,2009-12-03 00:00:00,59,Male,9,Yes,KES 1864.11,Widowed,Associate's,11,Contract,Berlin,10,2014,Hybrid,172,3
+10432,Daisy,Cherono,HR,59764,2007-06-25 00:00:00,48,Female,5,No,9796.97,Widowed,Bachelor's,29,Permanent,San Francisco,15,2023,Hybrid,50,4.6
+10433,Janet,Koech,IT,62470,2017-09-21 00:00:00,60,Female,8,Yes,930.3,Widowed,High School,3,,San Francisco,5,2017,Fully Remote,83,4.9
+10434,Queen,Otieno,Ops,68501,2017-06-02 00:00:00,28,Female,7,No,,Divorced,Master's,21,Contract,Nairobi,11,2021,,174,2.9
+10435,Esther,Karanja,Marketing,87207,2017-05-22 00:00:00,22,Male,3,No,4538.26,Married,Master's,32,Intern,Tokyo,18,2014,On-Site,150,3.3
+10436,Caleb,Makori,Operations,92157,2004-08-20 00:00:00,31,Female,5,,3920.18,Divorced,Master's,30,Intern,London,15,2022,On-Site,19,4
+10437,Quincy,Juma,Operations,33216,2007-12-02 00:00:00,42,Prefer not say,9,No,7928.85,Widowed,Master's,39,Permanent,Tokyo,12,2012,Hybrid,103,2.3
+10438,Wanjiku,Barasa,Finance,52072,2010-06-08 00:00:00,36,Male,4,No,7580.83,Single,PhD,11,Contract,San Francisco,ten,2017,On-Site,70,1.9
+10439,Terry,Sang,Finance,67132,2011-06-12 00:00:00,51,Female,3,Y,9099.64,Single,Associate's,17,Contract,London,11,2021,Hybrid,145,4.9
+10440,Akoth,Wafula,Info Tech,47861,2001-11-15 00:00:00,51,Prefer not say,7,No,4257.13,Divorced,Master's,25,permanent,Berlin,3,2013,On-Site,113,2.7
+10441,Pauline,Mugambi,HR,94186,2011-11-19 00:00:00,29,Male,8,No,5859.71,Single,Master's,25,Intern,Tokyo,16,2023,Fully Remote,61,1
+10442,George,Wekesa,IT,34960,2007-12-29 00:00:00,45,Male,5,No,8976.92,Married,Master's,9,Intern,Tokyo,13,2012,Fully Remote,141,4.4
+10443,Fiona,Moraa,Finance,48781,31/04/2021,40,,8,No,9941.56,Single,Bachelor's,29,Intern,Tokyo,16,2012,Fully Remote,125,3.4
+10444,Victor.,Chebet,Sales,61126,2010-04-14 00:00:00,24,Male,5,Yes,9708.3,Single,Bachelor's,15,Contract,San Francisco,0,2015,Fully Remote,103,1.7
+10445,Daisy,Ochieng,Finance,52578,2014-12-07 00:00:00,36,Female,9,Yes,7319.52,Widowed,High School,19,Contract,London,19,2017,,70,1.1
+10446,Joy,Muli,HR,47883,2008-12-27 00:00:00,57,Female,7,Yes,1860.66,Married,Associate's,15,Contract,Berlin,0,2019,Fully Remote,148,2.2
+10447,Linda,Langat,HR,59782,2012-11-04 00:00:00,27,Male,5,No,720.27,Married,Master's,39,Intern,San Francisco,1,2014,Fully Remote,114,4.7
+10448,Omari,Wanjala,IT,86387,2019-02-30,63,Male,9,Yes,8339.57,Single,High School,35,Permanent,Berlin,16,2010,Hybrid,134,4.7
+10449,Kennedy,Naliaka,IT,46979,2011-01-09 00:00:00,39,female,Excellent,Yes,8488.95,Widowed,High School,13,Contract,New York,0,2010,Fully Remote,148,2.2
+10450,Hope,Juma,HR,63746,2003-03-02 00:00:00,59,Male,8,N,7590.43,Single,Associate's,16,Contract,New York,11,2012,On-Site,76,4.3
+10451,Fiona.,Nyambura,Sales,96266,2008-05-19 00:00:00,40,Male,4,No,3159.27,Single,Bachelor's,3,contractor,Berlin,12,2021,Hybrid,5,2.8
+10452,Lucy,Mutua,Finance,30056,2019-08-06 00:00:00,51,Female,9,N,6578.27,Divorced,Associate's,31,Intern,New York,13,2021,Hybrid,109,3.6
+10453,Hope,Cherono,Marketing,61457,2016-03-16 00:00:00,34,Female,6,No,N/A,Widowed,High School,1,Contract,London,9,2015,On-Site,158,2.3
+10454,Yvonne,Kiptoo,HR,32243,2016-02-19 00:00:00,60,Female,6,No,4781.16,Divorced,Associate's,35,Intern,London,11,2011,On-Site,176,3.1
+10455,Caleb,Bett,Sales,85031,2012-03-03 00:00:00,33,Female,3,Yes,4133.13,Widowed,Bachelor's,16,Contract,San Francisco,17,2010,Hybrid,137,2.2
+10456,Mercy,Achieng,Operations,31701,2006-05-18 00:00:00,55,Male,3,Yes,9179.58,Single,High School,1,Contract,Berlin,6,2016,Hybrid,25,1.2
+10457,Valerie,Mugambi,IT,86381,2017-08-15 00:00:00,33,Female,4,Yes,2724.49,Widowed,Associate's,5 years,Permanent,San Francisco,18,2023,On-Site,39,1.6
+10458,Peter,Wambui,Sales,80438,2003-07-16 00:00:00,45,Male,1,Yes,5987.3,Married,Master's,7,Permanent,London,14,2023,Fully Remote,108,2.2
+10459,Lilian,Mugambi,Operations,103839,2005-02-27 00:00:00,25,Male,6,Yes,3929.32,Single,Master's,23,Permanent,London,6,2021,Hybrid,58,4.9
+10460,Rose,Koech,Info Tech,110636,2004-04-09 00:00:00,57,Male,1,No,6799.18,Single,Associate's,35,Permanent,London,13,2011,On-Site,128,4.9
+10461,Valerie,Sang,Sales,96483,2002-09-10 00:00:00,35,M,4,no,5863.35,Divorced,Associate's,29,Intern,Tokyo,8,2017,Fully Remote,182,4.3
+10462,Xavier,Atieno,Operations,50505,2020/13/05,38,Male,7,Yes,9277.79,Divorced,Bachelor's,22,Intern,New York,4,2011,Fully Remote,112,1.9
+10463,Quincy,Otieno,Finance,36553,2018-11-24 00:00:00,24,Female,6,Yes,1465.32,Widowed,High School,16,Intern,San Francisco,0,2020,On-Site,48,2.8
+10464,Oscar,Abdi,Finance,63525,2005-02-06 00:00:00,59,MALE,8,Yes,2596.09,Divorced,Associate's,29,Permanent,San Francisco,15,2010,Hybrid,89,2.8
+10465,amina,Juma,Finance,110402,2005-06-02 00:00:00,44,Male,4,Yes,-,Married,High School,6,Contract,London,4,2019,N/A,8,2.5
+10466,Wairimu,Moraa,Finance,74348,2004-10-02 00:00:00,34,Female,9,No,4003.47,Single,Master's,18,Intern,Tokyo,7,2011,Fully Remote,127,1.2
+10467,Omari,Cherono,Finance,101187,2006-09-18 00:00:00,30,Female,8,No,2074.95,Divorced,High School,29,Permanent,San Francisco,18,2011,On-Site,46,3.1
+10468,Pauline,Bett-Jr,Marketing,37273,2014-05-01 00:00:00,42,Female,5,Yes,N/A,Married,MSc,5 years,Permanent,Nairobi,19,2016,Fully Remote,173,1.3
+10469,Grace,Muli,H.R,94236,2005-04-02 00:00:00,62,Femle,6,No,6695.35,Single,Bachelor's,2,Permanent,San Francisco,11,2010,Fully Remote,168,4.2
+10470,James,Kilonzo,Operations,$105569,2001-12-01 00:00:00,29,Male,5,Yes,925.85,Single,phd,32,Intern,Tokyo,7,2012,Fully Remote,28,3.8
+010471,Hope,Wafula,Marketing,33535,2019-07-03 00:00:00,38,Male,6,Yes,3270.41,Married,High School,36,Contract,London,7,2014,On-Site,137,2.4
+10472,Yvonne,Mwangi,Marketing,48677,2011-01-29 00:00:00,37,Male,1,No,8189.51,Single,Bachelor's,32,Intern,Tokyo,5,2021,Hybrid,189,3.6
+10473,Njeri,Odhiambo,HR,113024,2005-09-04 00:00:00,4,Female,4,No,5442.32,Married,High School,20,Permanent,New York,19,2016,Fully Remote,71,1.9
+10474,Timothy,Wafula,HR,30908,2012-10-05 00:00:00,49,MALE,9,No,836.1,,High School,37,Permanent,San Francisco,8,2023,Hybrid,15,2.1
+10475,Sharon,Muthama,HR,100153,2010-04-11 00:00:00,37,Female,4,Yes,3178.53,Divorced,Master's,38,Permanent,New York,1,2015,Hybrid,177,2.3
+10476,Njeri,Kiprotich,Humman Res.,118989,2001-01-29 00:00:00,35,Female,2,Yes,6571.84,Widowed,High Sch,55,Intern,San Francisco,17,2017,On-Site,100,4.2
+10477,Pauline,Langat,HR,65079,2005-05-10 00:00:00,59,Female,6,Yes,2393.91,Married,Bachelor's,5,Contract,New York,0,2010,Hybrid,26,1.8
+10478,Eunice,Nyambura,Operations,111556,2008-05-06 00:00:00,41,Female,2,No,8360.22,Divorced,PhD,6,Intern,San Francisco,10,2016,Hybrid,143,3.3
+10479,Irene,Ochieng,Marketing,79323,2009-06-14 00:00:00,62,Male,3,No,6927.47,Single,Associate's,22,Permanent,Nairobi,14,2018,Fully Remote,170,1.8
+10480,David,Juma,Operations,75320,2001-06-06 00:00:00,55,Male,7,Yes,4978.1,Divorced,Bachelor's,21,Permanent,London,11,2016,On-Site,191,2.1
+10481,Linda,Muriuki,human resources,119909,2004-04-11 00:00:00,50,Female,4,No,9198.43,Married,PhD,19,Permanent,Nairobi,2,2015,On-Site,,1.9
+10482,Baraka,Mburu,Info Tech,76105,2007-12-19 00:00:00,24,Female,1,No,4222.11,Divorced,Bachelor's,15,Intern,Berlin,18,2018,Fully Remote,136,3.6
+10483,Felix,Juma,IT,60164,2014-03-30 00:00:00,31,Female,9,Yes,2733.2,Widowed,PhD,34,Intern,Tokyo,19,2022,Fully Remote,199,3.1
+10484,Stella,Njoki,Operatons,31885,2007-10-20 00:00:00,41,Female,6,No,6783.33,Single,Bachelor's,7,Intern,Londn,18,2013,Hybrid,142,3.9
+10485,Fiona,Mugambi,Marketing,87819,2001-07-03 00:00:00,23,Male,9,No,5946.3,Divorced,Associate's,17,Permanent,Tokyo,,2021,Hybrid,23,1.9
+10486,Queen,WANJALA,Sales,31049,2004-01-08 00:00:00,48,Male,3,Yes,3684.86,Single,Master's,,Intern,San Francisco,15,2019,On-Site,86,1
+10487,Gilbert,NDEGWA,Marketing,83281,2017-01-21 00:00:00,53,Male,5,Yes,3764.81,Married,Master's,39,Contract,Berlin,5,2015,On-Site,160,Good
+10488,Janet,,Operations,73271,2002-04-12 00:00:00,31,male,9,Yes,4283,Widowed,Associate's,2,Contract,London,8,2015,Hybrid,99,1.5
+10489,Olive,Makori,Finance,"96,697",2012-04-09 00:00:00,61,Female,6,No,3265.82,Widowed,Bachelor's,27,Temporary,London,7,2023,Fully Remote,21,2
+10490,Oscar,Onyango,Operations,96351,2013-11-06 00:00:00,38,Female,2,Yes,7247.29,Divorced,PhD,24,Contract,San Fransisco,15,2019,On-Site,28,2.2
+10491,Oscar,Kariuki,Humna Resources,66534,2018-08-25 00:00:00,35.5,Male,Excellent,No,6687.9,Single,High School,28,Permanent,Nairobi,7,2023,Fully Remote,133,4
+10492,Peter,kimani,Finance,88097,2003-11-22 00:00:00,27,Male,9,Yes,4687.39,Single,Bachelor's,1,Permanent,Berlin,17,2012,Hybrid,9,3.5
+10493,Valerie,Mugambi,IT,83813,2000-10-12 00:00:00,60,Male,1,Yes,4279.62,Divorced,Associate's,21,Permanent,Tokyo,4,2016,On-Site,164,1.7
+10494,Pauline,Njoroge,Marketing,,2007-07-08 00:00:00,39,Female,5,Yes,3967.99,Divorced,Master's,28,Permanent,London,19,2010,On-Site,57,3.4
+10495,Baraka,Muriuki,Marketing,66007,2010-04-23 00:00:00,30,F,Excellent,No,3192.95,Divorced,Master's,3,Permanent,New York,11,2020,Hybrid,85,3.8
+10496,Uma.,Koech,IT,109478,2019-06-18 00:00:00,29,Male,5,Yes,1314.12,Divorced,Bachelor's,30,Intern,Tokyo,5,2017,Hybrid,189,2.6
+10497,George,Muriuki,HR,57278,2012-03-22 00:00:00,46,Female,5,Yes,3047.94,Widowed,PhD,1,Contract,San Francisco,1,2017,Fully Remote,175,2
+10498,Daisy,Ochieng,IT,38272,2018-08-12 00:00:00,52,Male,7,No,3551.41,Divorced,Associate's,18,Intern,London,3,2030,Fully Remote,90,3.7
+10499,Nancy,Bett,Sales,87183,2003-12-16 00:00:00,63,Female,7,No,5703,Single,Associate's,33,Permanent,San Francisco,15,2018,Hybrid,107,3.4
+10500,Victor,Mburu,HR,68294,2015-12-25 00:00:00,25,Female,1,Yes,7850.99,Married,PhD,15,Intern,Berlin,13,2013,Hybrid,171,1.3
+10501,Rahab,Naliaka,Finance,103277,2018-08-11 00:00:00,41,Female,9,Yes,,Single,PhD,,Intern,Nairobi,16,2015,Hybrid,,3.7
+10502,Chebet,langat,IT,92509,2018-09-23 00:00:00,49,Prefer not say,1,Yes,9475.19,Divorced,Bachelor's,36,Intern,Nairobi,18,2020,On-Site,84,3
+10503,Kiptoo,Muthoni,HR,34694,,99,Male,5,No,8359.82,Widowed,Bachelor's,34,Permanent,Tokio,3,2021,Hybrid,9,4
+10504,Vincent,Omondi,Finance,88150,2004-11-11 00:00:00,22,Female,7,No,9855.62,Divorced,Masters,26,Permanent,London,17,2021,On-Site,22,1.8
+10505,Yvonne,Ochieng,IT,97470,2015-06-10 00:00:00,61,Male,,Yes,8823.93,Married,Master's,22,Permanent,SF,11,2011,Hybrid,136,2
+10506,Caleb,Muthoni,Marketing,"51,556",2019-08-16 00:00:00,44,Female,2,Yes,6358.9,Divorced,Bachelors,16,Intern,Tokyo,1,2015,On-Site,113,3.2
+10507,Noah,Moraa,IT,94471,2010-01-03 00:00:00,34,Male,1,Yes,6185.55,Married,High School,16,Intern,Nairobi,5,2017,Fully Remote,95,2.9
+10508,Omari,Mugambi,Operations,79855,2002-07-03 00:00:00,37,Female,4,Yes,1730.5,Divorced,High School,5,Contract,Nairobi,5,2013,Fully Remote,74,2.5
+10509,Mercy,Kariuki,IT,79086,2000-10-14 00:00:00,47,Female,4,No,7362.79,Widowed,High School,6,Contract,Tokyo,2,2014,on-site,143,4
+10510,WAIRIMU,Odhiambo,Operations,,2011-06-22 00:00:00,52,Male,6,No,6201.97,Single,Associate's,24,Permanent,San Francisco,7,2017,Fully Remote,N/A,3.3
+10511,Winnie,Kariuki,Finance,101695,2018-08-26 00:00:00,22,Female,1,No,5315.85,Married,Bachelor's,30,Contract,Tokyo,11,2012,Fully Remote,85,3.8
+10512,Eunice,Wekesa,IT,78487,2005-09-19 00:00:00,38,Female,1,Yes,7086.23,Single,PhD,37,Permanent,New York,2,2015,On-Site,N/A,1.6
+10513,Felix,Bett,Finance,59158,31/04/2021,37,Female,3,Yes,4718.45,Divorced,Master's,32,Permanent,London,1,2023,Hybrid,17,3.9
+10514,Victor,Kariuki,Finance,50293,2016-03-29 00:00:00,58,Female,5,No,5476.67,Single,High School,19,Intern,Nairobi,0,2010,hybrid,27,2.8
+10515,Samuel,Korir,HR,75761,2004-12-09 00:00:00,31,Female,6,Yes,4284.35,Widowed,Master's,28,Contract,Berlin,17,2013,On-Site,69,5.5
+10516,Daisy,Muriuki,Finance,63387,2003-03-24 00:00:00,59,Male,5,No,7315.02,Widowed,Bachelor's,8,Permanent,London,N/A,2023,Fully Remote,34,1.9
+10517,Njeri,Mburu,Finance,70750,2006-12-26 00:00:00,52,Male,5,Yes,8827.8,Single,PhD,1,Permanent,Nairobi,7,2015,Hybrid,163,1.1
+10518,Uma,Omondi,IT,98602,2011-12-19 00:00:00,31,Female,9,Yes,-,Single,High School,,Contract,San Francisco,13,2012,Hybrid,51,2.8
+10519,Wairimu,Mboya,IT,51256,2004-05-07 00:00:00,55,Male,2,Yes,7967.24,Widowed,High School,22,Contract,Nairobi,12,2010,On-Site,148,2.3
+10520,James,mburu,I.T,35594,2017-04-23 00:00:00,27,Female,1,No,630.98,Married,PhD,22,Contract,,14,2015,On-Site,175,4.9
+10521,Vincent,Mwangi,HR,32460,2005-05-10 00:00:00,49,Female,6,Yes,9162.86,Married,Master's,30,Contract,London,14,2023,On-Site,135,4.5
+10522,Harun,Onyango,Finance,102356,2004-11-10 00:00:00,49,Female,9,Yes,3111.32,Widowed,Bachelor's,27,Contract,Tokyo,12,2012,Hybrid,16,4.3
+10523,Daisy,Langat,HR,84698,2017-03-12 00:00:00,34,Female,7,No,,Widowed,Bachelor's,27,Contract,Nairobi,3,2017,On-Site,143,3
+10524,Amina,Koech,Operations,46191,2013-04-24 00:00:00,62,,8,Yes,2371.2,Married,Bachelor's,13,Contract,San Francisco,3,2016,on-site,20,4.2
+10525,Nancy,Moraa,Finance,114631,2002-09-14 00:00:00,33,Male,5,Yes,4676.63,Single,Master's,39,Permanent,Tokyo,4,2020,On-Site,161,2.1
+10526,Rahab,Kiptoo,HR,40529,2016-01-12 00:00:00,61,Male,4,No,N/A,Widowed,Master's,27,Intern,Berlin,2,2016,On-Site,N/A,3.2
+10527,Chebet,Njoki,Marketing,62175,2003-04-18 00:00:00,23,Male,6,N,6582.65,Divorced,High School,39,Permanent,Nairobi,11,2022,On-Site,153,2.6
+10528,Xavier,Bett,Operations,47675,2009-02-12 00:00:00,29,Male,3,No,4451.26,Married,Master's,38,Permanent,San Francisco,19,2021,On-Site,113,1.7
+10529,Amina,Njoroge,Finance,73158,2017-06-26 00:00:00,63,MALE,1,Yes,6946.93,Widowed,Associate's,8,Intern,London,11,2017,Fully Remote,62,1.3
+10530,Tony,Muriuki,Operations,76798,2003-01-24 00:00:00,30,Male,4,Yes,5715.02,Divorced,PhD,12,Intern,London,19,2016,On-Site,175,
+10531,Xavier,Musyoka,Marketing,100910,2000-07-15 00:00:00,29,Female,9,No,3119.49,Single,Master's,24,Intern,Berlin,6,2014,Hybrid,9,1.4
+10532,Njeri.,Karanja,Marketing,55976,2010-11-19 00:00:00,24,Male,4,Yes,6640.13,Married,Bachelor's,18,,New York,6,2019,On-Site,184,3.9
+10533,Janet,Maina,Operations,93116,2001-06-09 00:00:00,30,Female,1,No,2440.35,Divorced,PHD,15,Contract,Tokyo,0,2017,Hybrid,145,4.7
+10534,Rose,Makori,HR,108678,2012-12-10 00:00:00,34,,4,Yes,7092.89,Single,High School,16,Contract,Nairobi,ten,2023,Fully Remote,85,1.6
+10535,Purity,Barasa,Marketing,92821,2003-11-11 00:00:00,30,Male,7,No,529.55,Widowed,PhD,33,Permanent,London,2,2017,On-Site,144,2.9
+10536,Joy,Moraa,IT,42204,2012-04-30 00:00:00,52,Male,3,Yes,5713.34,Single,PhD,10,Intern,Nairobi,14,2020,hybrid,5,Good
+,Vincent,langat,Human Resources,KES 85665,2003-07-16 00:00:00,46,Female,6,Yes,4310.14,Single,Bachelor's,24,Intern,Berlin,8,2017,On-Site,12,2.1
+10538,Winnie,Karanja,Sales,37394,2003-04-09 00:00:00,29,Female,1,Yes,3379.49,Married,PhD,19,Permanent,Tokyo,19,2021,On-Site,148,4.7
+10539,Faith,Wanjala,Markting,94814,2005-05-02 00:00:00,52,Female,4,Yes,5399.23,Widowed,Associate's,27,Contract,Nairobi,8,2019,Hybrid,147,4.6
+EMP-10540,Grace,Karanja,HR,63593,2010-01-03 00:00:00,52,Female,3,Yes,6630.46,Married,PhD,31,Intern,Londn,13,2015,Fully Remote,23,1.4
+10541,Uma,Mutua,Operatons,71964,2013-02-07 00:00:00,38,male,1,No,9670.47,Widowed,Bachelor's,21,Permanent,Berlin,2,2011,Fully Remote,157,1.1
+10542,Kevin,Kilonzo,Finance,107188,2006-01-26 00:00:00,40,Male,3,Yes,8414.11,Divorced,PhD,16,Contract,San Francisco,7,2017,Fully Remote,35,4.9
+10543,Baraka,Mwangi,IT,83365,2011-08-25 00:00:00,24,Male,4,No,7312.92,Single,Bachelor,23,Permanent,London,5,2022,Fully Remote,134,4.8
+10544,Valerie,Mutua,HR,$30443,2009-10-20 00:00:00,51,Female,5,No,5050.19,Married,High School,14,Perm,San Francisco,11,2019,Fully Remote,125,2.7
+10545,Winnie,Kimani,Operations,119439,2018-01-16 00:00:00,31,Female,6,Yes,4225.37,Widowed,Master's,23,Permanent,Tokyo,1,2010,Fully Remote,63,1.2
+10546,Dennis,karanja,IT,58180,2015-11-03 00:00:00,50,Female,2,N,809.03,Married,Associate's,18,Contract,New York,2,2018,On-Site,35,3.5
+10547,yara,Ndegwa,Sales,78791,2016-07-08 00:00:00,61,Female,2,Yes,3911.42,Single,Associate's,36,Permanent,NAIROBI,13,2018,On-Site,144,2.2
+10548,Kevin,Cherono,,$116655,2002-10-14 00:00:00,39,Female,6,No,8559.58,Single,High School,12,Permanent,San Francisco,16,2015,Hybrid,149,4.7
+10549,Yusuf,Naliaka,I.T,105899,2008-08-19 00:00:00,33,Female,5,Yes,4148.23,Divorced,High School,37,Permanent,London,2,2030,Fully Remote,33,
+10550,Daisy,Barasa,Marketing,73665,2014-03-04 00:00:00,44,Female,1,Yes,4885.06,Widowed,High School,11,Permanent,Tokyo,3,2015,Hybrid,168,3.6
+10551,Moses,Wanjala,Operations,33465,2009-10-30 00:00:00,32,Female,3,Yes,3082.43,Widowed,High School,5,Intern,Tokyo,N/A,2015,hybrid,108,2.1
+10552,Valerie,Kiptoo,Operations,98247,2011-07-09 00:00:00,30,Male,5,Yes,3104.26,Divorced,PhD,21,Intern,San Francisco,6,2020,Hybrid,67,3.8
+10553,Lucy,Mugambi,Marketing,81559,2011-02-21 00:00:00,45,Female,2,Yes,1087.78,Divorced,Master's,32,Intern,London,18,2013,On-Site,19,2.2
+10554,Lilian,Juma,Marketing,55198,05-07-20,46,Female,1,Yes,6331.14,Widowed,Associate's,29,Intern,Berlin,13,2010,On-Site,34,1.2
+10555,Joy,Wanjala,Marketing,84740,2010-01-11 00:00:00,46,Male,9,No,4756.66,Widowed,Bachelor's,7,Permanent,Tokyo,15,2010,Fully Remote,183,Good
+10556,Stella,Maina,Marketing,52488,2016-06-11 00:00:00,30,Female,5,Y,6256.63,Married,High School,36,Intern,Tokio,12,2010,On-Site,15,3
+10557,Rahab,Koech,Markting,$68515,2012-03-29 00:00:00,33,Female,2,No,5695.43,Widowed,Bachelor's,27,Intern,Nairobi,19,2014,On-Site,189,4.1
+10558,Joy,Kilonzo,Marketing,119144,2002-04-07 00:00:00,32,Female,4,No,8089.02,Married,Bachelor's,6,Permanent,San Francisco,16,2022,On-Site,17,4.5
+10559,rahab,Muthama,Finance,57898,2016-11-28 00:00:00,thirty,Female,3,Yes,7634.61,Married,Master's,38,Intern,Nairobi,16,2016,Fully Remote,59,2.4
+10560,Uma,Kiptoo,human resources,31919,2018-03-14 00:00:00,49,Male,Poor,yes,7828.81,Married,Associate's,4,Intern,Nairobi,9,2010,On-Site,67,2.8
+10561,Yusuf,Korir,HR,80070,2012-12-05 00:00:00,29,Female,,No,-,Married,Associate's,35,Contract,New York,6,2010,On-Site,134,2.9
+10562,Eunice,Korir,Ops,92613,2016-06-20 00:00:00,31,Female,4,Yes,3861.87,Single,Master's,10,Intern,New York,19,2023,Hybrid,188,2.3
+10563,Nancy,Kiprotich,Sales,116135,2014-01-09 00:00:00,46,Female,7,Yes,9367.65,Divorced,High School,38,Contract,Berlin,16,2022,Fully Remote,11,4
+10564,Cynthia,Cherono,Finance,112501,2016-05-23 00:00:00,57,Male,5,Yes,1015.56,Married,High School,30,Intern,Berlin,11,2021,On-Site,175,3.1
+10565,Vincent  Ann,Omondi,Operations,77003,2005-09-20 00:00:00,64,Female,4,Yes,1949.9,Widowed,Associate's,N/A,Permanent,Nairobi,10,2020,Fully Remote,163,4.7
+10566,Yusuf,Ndegwa,Marketing,78478,2005-08-18 00:00:00,30,F,4,No,4486.19,Divorced,Associate's,16,Intern,Berlin,9,2021,On-Site,193,3.6
+10567,Beatrice,Were,Marketing,44434,05-07-20,62,Male,2,No,6332.6,Divorced,Associate's,4,Permanent,Berlin,7,2015,Fully Remote,154,1.8
+10568,Janet,Njoroge,Human Resources,76246,2002-03-29 00:00:00,29,Male,8,No,577.9,Single,High School,26,Intern,San Francisco,14,2020,On-Site,194,1.7
+10569,Irene,Onyango,Sales,66649,2013-01-04 00:00:00,24,Male,4,Yes,7333.57,Married,Bachelor's,29,Intern,San Francisco,17,2011,On-Site,32,2.5
+10570,Dennis,Ochieng,Finance,89030,2010-11-28 00:00:00,39,Male,2,No,5807.9,Divorced,Master's,28,Permanent,San Francisco,ten,2011,Hybrid,29,2.4
+10571,Terry,Atieno,Operations,83061,2010-01-28 00:00:00,56,Female,9,No,5104.68,Married,Master's,11,Permanent,London,15,2021,Fully Remote,197,2.6
+10572,Omari,Mutua,HR,31999,2004-12-16 00:00:00,38,Male,7,No,4523.2,Divorced,PhD,28,Permanent,Nairobi,12,2022,On-Site,164,1.7
+10573,Irene,Kiprotich,Marketing,44849,2013-05-17 00:00:00,57,Male,3,Yes,,Divorced,PhD,32,Permanent,Berlin,3,2016,Hybrid,180,4.9
+10574,James,Mburu,IT,106439,2015-03-18 00:00:00,49,Femle,7,Yes,2036.96,Widowed,Bachelor's,24,Contract,London,10,2018,Hybrid,84,1.6
+10575,Janet,Sang,HR,82800,2019-09-12 00:00:00,36,Female,1,Yes,1532.76,Single,,39,Contract,Tokyo,18,2017,Fully Remote,28,3.6
+10576,Rose,Kimani,Sales,35445,2008-07-11 00:00:00,40,Male,1,Yes,3251.56,Single,Bachelor's,7,Permanent,Nairobi,7,2011,Fully Remote,85,1.1
+10577,George,Abdi,HR,48040,2014-05-17 00:00:00,43,Female,4,Yes,7240.3,Widowed,PhD,18,Permanent,NAIROBI,9,2023,Hybrid,129,2.6
+10578,Baraka,Wafula,Operations,94315,not available,99,Female,4,No,,Widowed,high school,3,Intern,Tokio,11,2016,Fully Remote,174,2.2
+10579,Terry,Mburu,Finance,30246,2004-03-23 00:00:00,28,Male,4,No,5061.17,Widowed,Master's,20,Intern,Tokyo,19,2014,Fully Remote,74,2.5
+10580,Olive,Mutua,Marketing,61153,2018-06-16 00:00:00,30,Female,9,Yes,5929.45,Married,Bachelor's,34,Intern,San Francisco,10,2022,Fully Remote,82,3
+10581,Stella,Ochieng,Sales,35212,31/04/2021,41,Male,6,Yes,5812.95,Married,High School,30,Contract,Nairobi,19,2020,On-Site,94,3.4
+10582,Ruth,Muli,Sales,"33,339",2015-10-18 00:00:00,58,Male,3,No,3416.9,Married,PhD,9,Contract,SF,3,2019,Fully Remote,128,3.3
+10583,Amina,Makori,IT,118678,2005-03-19 00:00:00,32,Female,6,No,1425.83,Married,Master's,10,Intern,Berlin,18,2021,Fully Remote,96,3.5
+10584,Victor,Chebet,HR,86238,2003-12-07 00:00:00,23,Female,2,Part-time,9019.43,Widowed,Associate's,6,Permanent,London,19,2023,Hybrid,115,4.4
+10585,Chebet,Atieno,IT,49394,2013-10-10 00:00:00,43,Female,2,Yes,6199.16,Widowed,Bachelor's,17,Intern,San Francisco,9,2022,Hybrid,168,4.5
+10586,,Wafula,Finance,83871,2009-01-30 00:00:00,57,Female,7,Yes,7128.61,Widowed,PhD,,Contract,New York,14,Never,Hybrid,163,3.9
+10587,Hope,Mugambi,Finance,107722,2009-08-21 00:00:00,26,Male,3,YES,N/A,Married,High School,33,Intern,New York,12,2021,Fully Remote,132,5.5
+10587,Hope,Mugambi,Finance,107722,2009-08-21 00:00:00,26,Male,3,YES,N/A,Married,High School,33,Intern,New York,12,2021,Fully Remote,132,5.5
+10589,Dennis,Korir,Human Resource,82055,2011-04-09 00:00:00,27,Female,3,Yes,6052.72,Divorced,High School,22,Contract,London,17,2019,Hybrid,198,4.8
+10590,Njeri,Ochieng,Finance,34395,2002-09-25 00:00:00,,Female,2,Yes,1011.11,Widowed,Bachelor's,16,Contract,Tokio,N/A,2023,Hybrid,177,3.8
+10591,EUNICE,Kiprotich,IT,45290,2003-12-02 00:00:00,31,Female,4,No,8955.92,Single,High School,34,Contract,Berlin,13,2013,On-Site,48,3.1
+10592,Wanjiku,koech,HR,117687,2012-06-18 00:00:00,61,M,11,No,3402.59,Single,High School,3,Contract,London,ten,2013,On-Site,61,2
+10593,Yusuf,Kimani,IT,95078,2015-03-26 00:00:00,41,Male,3,No,-,Divorced,Master's,8,Intern,New York,8,2018,On-Site,25,4
+10594,Yusuf,Ochieng,IT,33691,2016-10-06 00:00:00,49,Female,9,Yes,1336.39,Married,Bachelor's,20,Contract,San Francisco,16,2016,Fully Remote,,4.5
+10595,janet,Otieno,Operations,37470,2008-05-19 00:00:00,44,Female,6,Yes,7344.18,Widowed,Bachelor's,24,Permanent,London,4,2016,Fully Remote,113,3.7
+10596,Faith,Njoroge,IT,33841,2000-09-21 00:00:00,56,Male,5,Yes,7187.7,Married,Associate's,18,Contract,Tokyo,15,2023,Hybrid,147,3.5
+10597,Grace,Maina,Marketing,93197,2010-03-20 00:00:00,22,Male,6,Yes,7151.54,Divorced,Bachelor's,23,Contract,San Francisco,8,2013,On-Site,166,1.8
+10598,,MURIUKI,Marketing,85773,2017-04-28 00:00:00,50,Male,8,No,9199.65,Single,Bachelor's,1,Intern,Tokyo,16,2018,Fully Remote,108,2.4
+10599,Kiptoo,Mburu,Operations,47776,2006-03-24 00:00:00,30,Male,5,No,3814.96,Single,Associate's,2,Permanent,NAIROBI,17,2017,On-Site,135,3.9
+10600,Njeri,Were,Sales,101596,Jan 5 2021,30,Female,4,Yes,5830.76,Widowed,PhD,5,Permanent,Nairobi,2,2019,On-Site,133,1.1
+10601,Quincy,Kiptoo,Marketing,KES 57584,2009-01-30 00:00:00,43,Female,7,Yes,6385.21,Widwowed,Master's,-1,Permanent,Londn,4,2013,Onsite,28,3.6
+10601,Winnie,Odhiambo,IT,34300,2005-08-08 00:00:00,23,Male,5,Yes,9805.08,Married,PhD,16,Contract,Berlin,16,2022,On-Site,175,4.1
+10603,Tony,Otieno,Operations,33338,2008-08-10 00:00:00,37,Male,4,NO,3467.29,Married,Associate's,10,Intern,London,19,2015,Hybrid,31,2.3
+10604,Amina,Muli,HR,92601,2008-10-26 00:00:00,61,Female,5,Yes,9585.15,Divorced,PhD,29,Intern,Nairobi,3,2013,Hybrid,141,N/A
+10605,Mercy,Mwangi,Finance,35487,2008-08-06 00:00:00,27,Female,4,Yes,1912.98,Married,Bachelor's,35,Contract,London,3,2010,Fully Remote,92,4.3
+10606,Beatrice,Ochieng,Finance,66282,2013-11-12 00:00:00,34,Male,8,Yes,7758.01,Divorced,Bachelor's,25,Permanent,Nairobi,,2014,On-Site,149,1.6
+10607,Baraka,Kilonzo,Finance,106816,2013-06-01 00:00:00,,F,8,Yes,6512.42,Married,High School,24,Permanent,San Fransisco,7,2019,Hybrid,96,2.5
+10608,Oscar,Mburu,IT,58804,2003-06-07 00:00:00,40,Male,1,Yes,8260.51,Married,PhD,13,contractor,San Francisco,1,2023,On-Site,43,3.8
+10609,Gilbert,,HR,39915,2001-12-23 00:00:00,4,Female,,Yes,772.51,Married,High School,21,Contract,Tokyo,9,2020,Hybrid,59,4.3
+10610,Joy,Korir,Operations,41158,2020/13/05,54,Female,4,No,1242.24,Widowed,Master's,39,Permanent,Tokyo,4,2012,Hybrid,129,4.4
+10611,Uma,Korir,Operations,104157,2013-12-15 00:00:00,31,Male,2,No,1162.11,Widowed,High School,34,Contract,Berlin,16,2010,On-Site,49,3.1
+10612,Kiptoo,kiprotich,IT,40547,2019-03-20 00:00:00,22,Female,5,,6133.11,Widowed,PhD,19,Intern,Londn,6,2011,Fully Remote,160,2.9
+10613,Zipporah,Kiprotich,HR,118713,2000-03-24 00:00:00,33,Male,8,No,6227.89,Divorced,Associate's,28,Contract,Berlin,1,2011,Fully Remote,188,4.4
+10614,Oscar,Barasa,HR,32459,2013-03-28 00:00:00,64,Female,2,Yes,9108,Divorced,Bachelor's,27,Contract,London,5,2017,Fully Remote,105,3.3
+10615,Hassan,Wafula,HR,58768,2009-03-24 00:00:00,50,Male,9,No,4942.23,Widowed,,26,Contract,New York,9,2013,On-Site,161,3.3
+10616,Faith,Mwangi,Marketing,93146,2010-06-16 00:00:00,38,Male,7,No,1146.47,Divorced,High School,11,Contract,New York,8,2012,On-Site,33,2.7
+10617,Moses,Cherono,Marketing,80870,2009-03-18 00:00:00,25,Male,6,No,2490.53,Widowed,Bachelor's,35,Permanent,Berln,4,2013,On-Site,73,2.5
+10618,Abdi,Mwangi,Finance,80460,2004-10-23 00:00:00,thirty,Female,8,No,576.69,Single,Bachelor's,20,Intern,Nairobi,2,2019,Fully Remote,15,2.9
+10619,Felix,Maina,HR,112970,2016-09-02 00:00:00,28,Male,2,No,7878.79,Widowed,Associate's,12,Permanent,Tokyo,10,2010,On-Site,134,2.5
+10620,DENNIS,Cherono,Sales,90817,Jan 5 2021,34,Male,5,Yes,8248.19,Single,High School,28,Permanent,Berlin,9,2010,Fully Remote,142,2.4
+10621,Xavier,Muli,HR,68247,2018-12-28 00:00:00,26,Female,4,No,9980.43,Married,Associate's,2,Permanent,San Francisco,15,2014,Hybrid,107,5
+10622,harun,Mburu,Operations,45419,2007-08-12 00:00:00,27,Female,8,No,4415.85,Divorced,Associate's,1,Permanent,New York,19,2016,Fully Remote,112,2.3
+10623,Samuel,Sang,Operations,65577,2008-12-31 00:00:00,55,Male,1,Yes,683.33,Divorced,Master's,9,Intern,Berlin,18,2018,Fully Remote,123,2
+10624,Esther,,H.R,32921,2006-09-18 00:00:00,28,Male,3,No,2729.93,Widowed,High School,22,Intern,New York,0,N/A,On site,159,2.4
+10625,Beatrice,Muthoni,Sales,34676,2014-06-24 00:00:00,49,Female,8,Y,6083.8,Married,Associate's,27,Temporary,Tokyo,10,2020,On-Site,91,3.4
+10626,Vincent,Muthoni,HR,115961,2000-11-24 00:00:00,31,Female,5,No,9638.46,Married,PhD,9,Contract,Tokyo,14,2014,Fully Remote,116,4.6
+10627,Peter,Muriuki,Sales,79684,2001-03-01 00:00:00,25,Female,4,Yes,1484,Married,Bachelor's,7,Contract,London,6,2012,fully remote,167,4.2
+10628,Kiptoo,AWINO,Finance,43463,2015-07-14 00:00:00,24,Male,6,Yes,1654.94,Married,High School,36,Contract,London,7,2017,Hybrid,182,4.4
+10629,Nancy,Wafula,Operations,55474,,46,Femle,,Yes,7166.71,Divorced,Master's,38,Contract,Londn,15,2021,Hybrid,78,4.4
+10630,Felix.,Ndegwa,Sale,70935,2014-07-21 00:00:00,44,Male,3,No,6838.47,Widowed,Associate's,2,Contract,New York,17,2016,Hybrid,6,4.7
+10631,Ruth,Nyambura,IT,97005,2010-11-19 00:00:00,48,Male,5,No,2879.81,Widowed,PhD,5,Intern,Berlin,10,2013,Remote,21,1.9
+10632,Wairimu,Muriuki-Jr,Finance,88596,2001-08-30 00:00:00,35,Male,4,Yes,8224.88,Single,Bachelor's,17,Contract,London,0,2010,Hybrid,99,2.8
+10633,Daisy  Ann,Naliaka,Finance,102828,2005-01-26 00:00:00,59,Female,1,Yes,1723.4,Divorced,Bachelor's,37,Intern,Tokyo,15,2022,Fully Remote,84,2.5
+10634,Isaac,Karanja,HR,119062,2020/13/05,53,Female,1,Yes,9294.55,Single,PhD,35,Contract,Nairobi,3,N/A,On-Site,28,2.5
+10635,Isaac,Ndegwa,HR,85152,2007-04-26 00:00:00,44,Female,7,Yes,2409.8,Married,High School,8,Contract,Berlin,5,2020,On-Site,61,3.6
+10636,Harun,Kimani,Marketing,119001,2005-10-25 00:00:00,61,Male,4,Yes,1272.85,Widowed,Bachelor's,3,Permanent,Berlin,10,2017,Hybrid,75,Good
+10637,Olive,Ochieng,IT,116569,2016-10-25 00:00:00,58,Male,1,Yes,3725.46,Single,Bachelor's,3,Permanent,San Francisco,5,2011,Fully Remote,87,3.5
+10638,Sharon,Juma,Human Resource,102467,2003-07-24 00:00:00,24,Female,6,Yes,2284.49,Divorced,Master's,1,Permanent,Nairobi,9,2018,Hybrid,148,2.5
+10639,Joy,Omondi,IT,82576,2013-09-24 00:00:00,56,Female,1,Yes,5505.94,Widowed,Associate's,24,Intern,Tokyo,5,2023,Hybrid,101,2.2
+10640,Omari,Omondi,IT,96627,2019-05-30 00:00:00,34,Male,8,Yes,7025.04,Divorced,Associate's,30,Intern,Berlin,9,2013,Hybrid,40,2.4
+10641,Caleb,Were,Finance,55772,2001-04-10 00:00:00,55,Male,9,Yes,5163.75,Widowed,Bachelor's,26,Perm,Nairobi,4,2023,Hybrid,49,4.2
+10642,Vincent,Karanja,Sales,46363,2005-05-18 00:00:00,45,Male,3,No,6775.77,Divorced,Master's,38,Permanent,San Francisco,N/A,2016,On-Site,14,3.4
+10643,Cynthia,Njoroge,Finance,58490,2015-03-30 00:00:00,22,Male,7,Yes,3966.74,Divorced,Bachelor's,38,Contract,Nairobi,6,2019,On-Site,67,4.9
+10644,Oscar,Moraa,finance,89004,2005-04-29 00:00:00,33,Female,5,No,765.26,Widowed,High School,3,Intern,London,16,2021,fully remote,47,4.3
+10645,Tony,Nyambura-Jr,Operations,83806,2014-06-15 00:00:00,29,Female,3,Yes,9753.61,Divorced,Master's,13,Contract,Tokyo,11,2016,Fully Remote,55,2.9
+10646,Njeri,Cherono,Finance,30260,2006-12-14 00:00:00,40,Male,5,No,8284.43,N/A,High School,36,Contract,London,10,2021,Hybrid,111,2
+10647,Mercy,Muthoni,Human Resource,105992,2006-06-18 00:00:00,30,Female,7,Yes,1197.48,Married,PhD,12,Permanent,San Francisco,5,2017,On-Site,7,3.7
+10648,Stella,Awino,Hr,52320,2015-09-29 00:00:00,49,Female,7,no,4767.18,Widowed,PhD,20,Contract,Tokyo,10,2016,Hybrid,198,3.9
+10649,Timothy,Muthama,Marketing,108971,2005-08-01 00:00:00,35,Female,9,Yes,6532.68,Single,Associate's,39,Contract,New York,10,2020,On-Site,167,2.9
+10650,Yvonne,Kiprotich,Finance,72145,2022-06-01,48,Female,8,Yes,2310.65,Widowed,Associate's,8,Permanent,New York,13,2013,On site,73,1.9
+10651,Rahab.,Langat,Operations,93688,2017-08-30 00:00:00,39,Male,4,Yes,5990.89,Widowed,Associate's,N/A,Permanent,New York,15,2022,Fully Remote,83,3.2
+10652,Terry,Chebet,HR,78581,2010-10-09 00:00:00,63,Male,5,No,5569.66,Married,Bachelor's,11,Contract,Nairobi,1,2021,Fully Remote,40,2
+10653,Hope,Kilonzo,Sales,50754,2008-10-22 00:00:00,62,Male,5,Yes,2478.52,Single,High School,21,Contract,Berlin,1,2016,On-Site,53,4.8
+10654,Felix,,Operations,"99,837",2015-11-12 00:00:00,27,Male,2,Yes,1841.5,Single,Master's,37,Contract,Nairobi,4,2014,Fully Remote,5,3.5
+10655,TIMOTHY,Karanja,Info Tech,37207,2018-09-17 00:00:00,54,,7,Yes,7710.14,Single,Associate's,6,Intern,Nairobi,13,2021,Hybrid,174,2.2
+10656,Tony,Koech,,57920,2017-01-23 00:00:00,58,female,7,No,3564.57,Divorced,PhD,19,Contract,Nairobi,9,2019,Hybrid,173,1.9
+10657,gilbert,Mboya,HR,"117,739",2007-08-14 00:00:00,63,Female,9,No,-,Divorced,Associate's,30,Inten,Nairobi,9,2016,On-Site,77,3.9
+10658,Nancy.,Atieno,Marketing,117081,2002-02-16 00:00:00,46,Male,9,Yes,7509.84,Divorced,Bachelor's,39,Contract,New York,17,2012,On-Site,189,3.8
+10659,Brian,Sang,human resources,54016,2018-11-16 00:00:00,34,Female,4,Yes,7492.65,Single,Master's,36,Intern,Berlin,19,2019,On-Site,120,3.4
+10660,Grace,Kariuki,Operations,90522,2009-04-02 00:00:00,44,Male,5,No,3125.82,Widowed,High School,20,Contract,Berlin,8,2020,On-Site,152,3.5
+10661,Valerie,Mburu,Marketing,104092,2006-08-15 00:00:00,57,Male,7,No,8789.4,Single,Associate's,10,Intern,San Francisco,3,2016,Fully Remote,18,3.4
+10662,Noah,Bett,Finance,84068,2018-01-20 00:00:00,54,Male,7,Yes,KES 7038.38,Divorced,Bachelor's,24,Intern,New York,16,2016,Hybrid,126,2.4
+10663,Baraka,Cherono,Sale,50102,2011-03-01 00:00:00,42,,8,Yes,3784.76,Single,Bachelor's,33,Permanent,Tokyo,1,2011,On-Site,97,4.7
+10664,Rahab,Nyambura,Operations,31924,2011-09-02 00:00:00,55,MALE,8,Yes,4561.15,Married,Master's,29,Contract,Nairobi,13,2017,Hybrid,184,2.9
+10665,Yvonne,Musyoka,Sales,115015,2006-09-05 00:00:00,57,Female,2,No,7403.74,Divorced,PhD,30,Contract,Berlin,0,2016,Hybrid,58,1.1
+10666,Olive,Abdi,Operations,84333,2013-03-24 00:00:00,38,Female,9,No,2510.05,Divorced,PhD,36,Perm,San Francisco,6,2018,On-Site,53,2.4
+10667,Peter,Achieng,Operations,114458,2018-03-01 00:00:00,17,Male,4,Yes,4953.23,Divorced,Associate's,6,Intern,Berlin,3,2021,Fully Remote,34,1.5
+10668,Akoth,,HR,$114196,2013-09-29 00:00:00,44,Male,1,No,6708.8,Married,Associate's,14,Permanent,Tokyo,8,2013,Fully Remote,135,2.5
+10669,Peter,Kiprotich,Finance,"76,099",2014-06-05 00:00:00,23,Female,1,No,5625.24,Married,PhD,3,Permanent,Tokyo,2,2018,On-Site,16,3.4
+10670,Rose,Odhiambo,HR,87346,2015-04-19 00:00:00,56,Male,5,no,6279.12,Married,High School,24,Contract,New York,4,2010,On-Site,115,1.1
+10671,Esther,Chebet,Sales,105481,2005-06-12 00:00:00,35,Male,7,Yes,5689.02,Single,High School,19,,Berlin,9,N/A,Fully Remote,163,4.5
+10672,Zachary,Musyoka-Jr,,80062,2002-12-02 00:00:00,62,Male,5,No,2392.66,Married,Bachelor's,38,Contract,Tokyo,9,2019,Fully Remote,169,3.4
+10673,Victor,Koech,Operatons,30306,2002-08-02 00:00:00,23,Female,3,No,4396.95,Widowed,Master's,34,Contract,Berln,3,2016,On-Site,159,2.2
+10674,Terry,Wambui,Finance,118495,2000-01-29 00:00:00,40,Femle,7,No,5553.86,Single,high school,9,Contract,Tokyo,16,2013,Remote,120,2.2
+10675,Valerie,Odhiambo,Marketing,99767,2005-03-12 00:00:00,37,Male,1,Yes,7910.6,Single,Associate's,30,Intern,Tokyo,16,2022,Hybrid,156,2.9
+10676,Njeri,Njoki,Operations,42207,2015-09-30 00:00:00,64,Female,1,No,6712.09,Divorced,High School,32,Contract,Berlin,18,2016,Hybrid,116,2
+10677,Njeri,Wekesa,IT,69426,2022-06-01,46,,2,No,4552.61,Divorced,Master's,13,Intern,Nairobi,5,2023,Hybrid,173,1
+10678,Cynthia,Ochieng,Finance,36336,2014-02-06 00:00:00,22,Male,1,No,9756.8,Married,Associate's,18,Intern,Tokyo,0,2021,On-Site,108,1.1
+10679,Fiona,Sang,,105166,2018-09-19 00:00:00,23,Female,9,No,1524.06,Widowed,Master's,22,Intern,San Francisco,13,2018,Fully Remote,196,2.4
+10680,Nancy,Muthoni,Operations,47256,2004-08-24 00:00:00,48,Female,4,Yes,2464.65,Single,PhD,4,Contract,Nairobi,12,2022,Hybrid,15,1.5
+10681,Edwin,Otieno,Ops,79817,2017-03-03 00:00:00,23,Male,7,No,3742.47,Single,Master's,23,intern,Tokyo,2,2023,On-Site,95,1.1
+10682,Kennedy,Cherono,HR,63719,2007-09-15 00:00:00,51,Female,5,Yes,2671.43,Single,Master's,7,Permanent,London,1,2014,Fully Remote,77,4.4
+10683,Zachary,Kiptoo,Finance,72017,2009-03-19 00:00:00,31,Male,7,No,6441.7,Divorced,Master's,11,Contract,Tokyo,6,2014,fully remote,20,2.1
+10684,Brian,Makori,Finance,75704,2006-10-24 00:00:00,40,Male,7,Yes,875.73,Divorced,Associate's,39,Contract,New York,11,2011,Hybrid,18,5.5
+10685,Linda,Juma,Finanace,60013,2019-03-14 00:00:00,63,Female,1,No,2185.65,Widowed,Master's,34,Contract,Berlin,1,2023,Fully Remote,179,N/A
+10685,Linda,Juma,Finanace,60013,2019-03-14 00:00:00,63,Female,1,No,2185.65,Widowed,Master's,34,Contract,Berlin,1,2023,Fully Remote,179,N/A
+10687,Njeri,Atieno,Sales,100258,2016-02-11 00:00:00,34,Prefer not say,3,Yes,6991.78,Widowed,Bachelor's,25,Permanent,San Francisco,15,2017,Hybrid,114,4
+10687,Njeri,Atieno,Sales,100258,2016-02-11 00:00:00,34,Prefer not say,3,Yes,6991.78,Widowed,Bachelor's,25,Permanent,San Francisco,15,2017,Hybrid,114,4
+10689,Stella,Juma,HR,66776,2012-08-24 00:00:00,52,Female,7,No,8085.67,Widowed,Master's,14,Permanent,Tokyo,16,2011,Fully Remote,145,1.1
+10690,Faith,MORAA,IT,40060,2004-04-19 00:00:00,46,Male,3,Yes,2229.77,Divorced,High School,27,Permanent,San Francisco,2,2017,On-Site,123,3.3
+10691,Tony,Ochieng,Operations,108592,2004-09-29 00:00:00,60,Female,7,No,5871.35,Divorced,Master's,16,Intern,Tokyo,13,2013,On-Site,130,1.1
+10692,Vincent,Mugambi,Marketing,36655,2002-01-29 00:00:00,42,Male,9,Yes,785.22,Married,High School,27,Contract,New York,15,2023,Hybrid,13,2.7
+10693,Kevin,Muriuki,IT,118110,2005-11-27 00:00:00,59,Female,1,Yes,3450.1,Married,PhD,2,Intern,Nairobi,16,2022,Fully Remote,181,2.2
+10694,Mercy,Muthoni,HR,79923,not available,62,MALE,3,Yes,8156.85,Widwowed,PhD,19,,Nairobi,18,2014,Hybrid,158,Good
+10695,Chebet,Sang,Finance,108563,2009-07-08 00:00:00,50,Male,6,Yes,4838.32,Widowed,Associate's,23,Contract,London,3,2023,On-Site,53,1
+10696,Daisy,Muthama,Operations,34030,2003-06-22 00:00:00,27,Male,9,N,1924.44,Widowed,Associate's,14,Permanent,Tokyo,19,2021,On-Site,46,4.9
+10697,Mercy,Kiptoo,Sales,119779,05-07-20,39,Female,5,No,N/A,Widowed,PhD,26,contractor,San Francisco,19,2016,Fully Remote,177,3.1
+10698,Grace,kimani,HR,63289,2010-10-24 00:00:00,56,,3,No,2381.31,Widowed,Associate's,55,Contract,San Francisco,8,2030,On-Site,118,3.3
+10699,Hope,Langat,Marketing,49739,2016-04-14 00:00:00,17,Male,8,No,4235.32,Married,High School,27,Contract,London,10,2014,Hybrid,81,3.7
+10700,Mercy,Otieno,Marketing,91687,2017-04-07 00:00:00,26,Female,5,No,5134.42,Single,High School,28,Permanent,New York,4,2022,On-Site,153,4.2
+10701,Terry,Karanja,Finance,66491,2007-02-20 00:00:00,28,Female,6,Yes,3820.8,Divorced,Bachelor's,4,Permanent,,10,2019,Hybrid,161,3.4
+10702,Daisy.,Achieng,Marketing,102115,2001-02-02 00:00:00,31,Male,2,No,9401.21,Divorced,Associate's,38,Permanent,Tokyo,12,,Hybrid,,4
+10703,Wairimu,Cherono,Operations,113778,2007-03-15 00:00:00,31,,4,No,5844.04,maried,Associate's,11,Permanent,Nairobi,1,2016,Hybrid,156,2.8
+10704,Njeri,Achieng,Sales,34781,2006-09-12 00:00:00,49,Female,11,No,8507.48,Married,Bachelor's,24,Permanent,New York,1,2022,Fully Remote,124,0
+10705,Hassan,kilonzo,Operations,50448,2004-07-27 00:00:00,57,Female,4,Yes,7726.92,Single,Master's,28,Intern,New York,9,2013,On-Site,174,4.3
+10706,lucy,Kiptoo,Finance,81550,,31,Male,1,YES,6781.08,Married,High School,-1,Intern,San Francisco,12,2019,Hybrid,88,4.5
+10707,Abdi,Mugambi,Finance,79294,2009-09-06 00:00:00,56,Male,4,No,5220.44,Divorced,Master's,21,Intern,New York,4,2021,Fully Remote,107,1.6
+10708,Sharon,Muriuki,Marketing,51446,2015-08-09 00:00:00,56,Male,2,No,520.65,Widowed,Bachelor's,26,Permanent,Tokyo,10,2013,Hybrid,75,3.2
+10709,Yara,Wanjala,Finance,106579,2010-07-28 00:00:00,58,Female,6,No,6327.94,Widowed,Associate's,3,Contract,Tokyo,14,2011,Hybrid,173,3.7
+10710,Rahab,Wekesa,IT,115389,2008-06-30 00:00:00,4,Male,N/A,No,3881.6,Married,Master's,13,Contract,Tokyo,4,2014,On-Site,52,1.3
+10711,Victor,Sang,HR,115615,2003-02-20 00:00:00,34,Female,8,Yes,1618.74,Widowed,Associate's,38,Permanent,Nairobi,19,,Fully Remote,83,4.7
+10712,Hassan,Moraa,Finance,47101,2004-04-06 00:00:00,thirty,Female,9,No,4723.95,Single,Bachelor's,28,Intern,Berlin,4,2013,Hybrid,81,3.1
+10713,Sharon,Omondi,Finance,$96178,2010-03-27 00:00:00,40,Female,8,No,7487.76,Divorced,PhD,14,Inten,New York,6,2021,On-Site,47,3.6
+010714,Samuel,Were,Sales,58016,2005-11-27 00:00:00,49,,1,No,9635.94,Single,Associate's,1,Permanent,New York,N/A,2022,Fully Remote,12,N/A
+10715,Baraka,Njoki,Sales,48932,2014-10-04 00:00:00,59,Male,3,Yes,4054,Married,Master's,28,Intern,NAIROBI,1,2011,Hybrid,67,2.1
+10716,Samuel,Juma,Sales,74653,2009-06-13 00:00:00,25,Female,6,No,5655.87,Divorced,Master's,36,Intern,San Francisco,0,2018,On-Site,124,1.5
+10717,Nancy,Moraa,IT,82802,2000-10-26 00:00:00,58,Female,1,No,8586.82,Single,Bachelor's,11,Contrct,Nairobi,19,2015,Hybrid,67,2.1
+10718,Nancy,Abdi,Operations,37549,2010-02-15 00:00:00,40,Male,8,Yes,3672.99,Single,Associates,4,Intern,Berlin,0,2012,Hybrid,10,3
+10719,Tony,Atieno,IT,108933,2011-02-05 00:00:00,58,Female,6,No,1851.44,Single,High School,34,Intern,Berlin,3,2022,Hybird,78,4.3
+10720,Kennedy,Otieno,Finance,55362,2019-07-25 00:00:00,35,Male,1,Yes,3177.88,Divorced,Associate's,1,Intern,New York,14,2023,On-Site,56,3.1
+10721,Faith,Kiprotich,HR,77842,2016-01-18 00:00:00,52,MALE,2,,9041.67,Divorced,High School,10,,Tokio,14,2019,Fully Remote,25,2
+10722,Fiona,Korir,Sales,76539,2013-04-21 00:00:00,49,F,11,Yes,2014.23,Widowed,Bachelor's,5 years,Intern,Berln,5,2020,Hybrid,146,1.2
+10723,Ruth,Kilonzo,Information Tech,63717,2000-09-05 00:00:00,57,Female,8,Yes,3627.6,Married,High School,7,Intern,San Francisco,5,2014,On-Site,120,3.5
+10724,Dennis,Kimani,Sales,84596,2007-01-12 00:00:00,59,Male,5,Yes,4914.08,Widowed,High School,39,Intern,Berlin,0,2015,Hybrid,62,2.7
+10725,Oscar,Kimani,IT,53016,2011-04-22 00:00:00,40,Female,1,Yes,8547.58,Married,Associate's,13,Permanent,Berlin,ten,2018,Onsite,157,4.9
+10726,,Kimani-Jr,Marketing,85200,2011-11-02 00:00:00,thirty,Male,2,No,9408.28,Divorced,Associate's,22,Contract,New York,4,2014,Hybrid,60,4.1
+10727,Eunice,Wafula,Finance,110268,2012-10-24 00:00:00,22,Male,4,Yes,4545.2,Single,PhD,1,Permanent,Berlin,16,2018,On-Site,87,4.2
+10728,Eunice,Achieng,HR,90287,2019-06-11 00:00:00,44,female,4,no,9353.56,Widowed,High School,28,Contract,Tokyo,6,2010,Hybrid,13,1
+10729,Rahab,Naliaka,,113402,,49,Male,7,No,2033.86,Widwowed,Bachelors,33,Permanent,Nairobi,3,2021,On-Site,168,4.1
+10729,Joy,Naliaka,Marketing,72607,2001-12-24 00:00:00,25,Female,2,No,1990.1,Divorced,High School,13,Contract,Berlin,2,2019,Fully Remote,189,1.8
+10731,,Mburu,HR,57621,not available,62,Female,7,Yes,9517.88,Divorced,High School,1,Contract,New York,11,2013,Fully Remote,137,3.3
+10732,Eunice,Kariuki,Information Tech,42823,2001-07-23 00:00:00,39,Male,7,Yes,5341.96,Widowed,Bachelor's,38,Contract,Tokyo,14,2010,On-Site,85,Good
+10733,Noah,Achieng,Finance,59986,2000-08-07 00:00:00,60,Male,7,No,2266.12,Divorced,Bachelor's,25,Permanent,San Francisco,19,2011,Hybrid,98,3.3
+10734,Njeri,Mugambi,IT,94325,2003-10-26 00:00:00,46,Male,3,Yes,5135.91,Married,High School,21,Contract,London,8,2011,Fully Remote,139,1.5
+10735,Fiona,Mboya,Finance,87771,2007-10-05 00:00:00,39,Female,6,No,-,Married,Bachelor's,33,Intern,,11,2019,On-Site,138,2.8
+10736,Zipporah.,Awino,Info Tech,84973,2018-04-07 00:00:00,27,Male,6,No,8355.74,Single,Associate's,37,Contract,Tokyo,4,2020,Fully Remote,56,1.1
+10737,Kiptoo,Kamau,Finance,44690,2005-10-23 00:00:00,40,Male,4,no,8707.71,Widowed,High School,34,Permanent,Tokyo,7,2014,Hybrid,110,1.2
+10738,Rahab.,Makori,Operations,69107,2015-09-16 00:00:00,33,Female,11,No,5910.92,Widowed,Bachelor's,3,Permanent,San Francisco,14,2010,Fully Remote,N/A,3.6
+10739,Xavier,mburu,,87888,2011-08-02 00:00:00,46,Male,9,No,8735.99,Widowed,Associate's,30,Intern,San Francisco,6,2019,Hybrid,18,4.8
+10740,Gilbert,Mburu,Marketing,40956,2010-12-14 00:00:00,56,Femle,2,Yes,5345.29,Widowed,High School,3,Permanent,London,18,2023,Hybrid,133,4.1
+10741,Purity,Kiprotich,Sales,"116,839",2017-01-08 00:00:00,22,Male,9,No,6267.07,Widowed,High School,18,Permanent,London,12,2012,On-Site,N/A,2.9
+10742,Felix,Moraa,Marketing,86227,31/04/2021,26,Male,8,No,7707.84,Divorced,Bachelor's,23,Contract,New York,0,2020,Hybrid,53,1.2
+10743,Peter,Musyoka,Sales,66533,2008-06-16 00:00:00,22,Female,1,Yes,4541.64,Divorced,Associate's,8,Intern,London,10,2015,Hybrid,144,1.2
+10744,Rahab,Onyango,,86234,2016-07-25 00:00:00,29,Female,7,No,1199.02,Married,High School,9,Intern,London,12,2010,On-Site,137,1.6
+10745,Zachary,Maina,Hr,97594,2019-08-14 00:00:00,60,Female,3,No,3826.58,Widowed,Bachelor,2,Permanent,Tokyo,1,2021,On-Site,74,4.9
+10746,Hassan,Makori,Sales,86901,2019-09-28 00:00:00,64,Male,9,Yes,6427.47,Widowed,PhD,2,Contract,Berlin,18,2020,Hybrid,120,2.6
+10747,David,Nyambura,Finance,41519,2000-02-19 00:00:00,39,Male,5,No,2327.16,Widowed,High School,27,Intern,Berlin,10,2010,Hybrid,123,4.4
+10748,Noah,Muthama,IT,61115,2001-05-29 00:00:00,30,Female,3,No,1909.66,Married,PhD,39,Intern,Nairobi,0,2012,Remote,143,3.8
+10749,Pauline,Wekesa,Operations,KES 96266,2007-08-23 00:00:00,26,Male,8,No,3284.27,Widowed,PhD,36,intern,London,0,2018,On-Site,185,3.4
+10750,Zachary,Maina,Marketing,31832,2007-08-10 00:00:00,25,Male,Poor,No,805.06,Widowed,Associate's,5,Intern,Nairobi,7,2011,Fully Remote,187,4.8
+10751,Moses,Kimani,H.R,71368,2007-03-03 00:00:00,50,Female,11,Yes,7562.52,Divorced,,1,Permanent,Nairobi,12,2021,Fully Remote,83,1.9
+10752,Eunice,Naliaka,Finance,118425,2005-01-11 00:00:00,22,Female,7,No,2957.8,Married,PhD,22,Intern,New York,7,2015,Fully Remote,54,2.8
+10753,Rose,Kiptoo,H.R,99715,2012-10-15 00:00:00,51,Male,7,Yes,1680.26,Divorced,Associate's,10,Intern,New York,,2012,On-Site,185,4.5
+10754,Irene,Mboya,HR,101835,2003-03-11 00:00:00,22,Female,1,,7141.73,Single,Bachelor's,24,Permanent,Berlin,7,2015,On-Site,129,3.2
+10755,,Omondi,Information Tech,103366,2013-09-07 00:00:00,24,Male,5,Yes,8507.82,Widowed,PhD,15,Permanent,San Fransisco,13,2020,On-Site,59,2
+10756,Moses,Atieno,Marketing,67570,2006-02-27 00:00:00,43,Male,1,,688.82,Single,Masters,33,Contract,NAIROBI,1,2020,Fully Remote,96,1.8
+10757,David,Mugambi,HR,117977,2017-05-21 00:00:00,29,Female,7,Yes,2719.2,Widowed,Bachelor's,23,Intern,London,12,2016,Hybrid,7,4
+10758,Caleb,Njoroge,IT,36615,2020/13/05,39,Male,8,Yes,9479.71,Single,High School,14,Contract,Tokyo,4,2022,Hybrid,124,1.1
+10759,Purity,Njoroge,Operations,102298,2006-03-18 00:00:00,46,F,7,No,4159.91,Divorced,PhD,18,Contract,London,0,2022,Fully Remote,148,4.7
+10760,Amina,Juma,IT,68311,2018-11-23 00:00:00,41,Female,1,No,9416.62,Married,Master's,25,Permanent,London,8,2016,,177,1.1
+10761,Esther,Onyango,IT,53434,2003-01-09 00:00:00,52,Male,3,Yes,3105.02,Single,High School,22,Intern,Nairobi,19,2023,Hybrid,85,3.5
+10762,Samuel,Ndegwa,IT,116879,2013-04-20 00:00:00,51,Male,3,Yes,2571.64,Divorced,Master's,37,Permanent,Berlin,9,2011,Hybrid,168,3.4
+10763,Yara,Wanjala,Finance,45739,2012-10-02 00:00:00,37,Male,7,Yes,2534.03,Single,Associate's,7,Intern,Tokyo,10,2012,On-Site,23,3.3
+10764,David,Mugambi,IT,96202,not available,23,Female,4,Yes,1309.67,Single,Associate's,26,Permanent,Tokyo,17,2021,On-Site,136,2.9
+10765,Mercy,Wambui,Sales,109599,2006-08-13 00:00:00,38,Male,3,Yes,9016.11,Married,Master's,24,Intern,San Francisco,16,2017,On-Site,63,4.4
+10766,Eunice,Kilonzo,Human Resources,63649,2015-05-13 00:00:00,31,Male,6,Yes,9808.43,Divorced,PhD,13,Contract,San Francisco,5,2014,On-Site,93,3.6
+10767,Zipporah,Kilonzo,Finance,KES 77445,2005-04-18 00:00:00,28,Female,6,No,9567.83,Widwowed,Master's,-1,Intern,Tokyo,10,2010,On-Site,144,4.1
+10768,Brian,Sang,Finance,69470,2019-04-10 00:00:00,63,Female,5,No,8594.27,Widowed,Master's,21,Intern,San Francisco,3,2018,hybrid,67,1.5
+10769,Yusuf,Otieno,Operations,104965,2014-12-18 00:00:00,30,Female,6,yes,8545.44,Married,Master's,7,Permanent,San Francisco,0,2010,On-Site,188,1.2
+10770,Sharon,Kilonzo,Marketing,78621,2000-07-22 00:00:00,38,Female,3,N,6780.31,Married,PhD,18,Intern,London,0,2011,Hybrid,31,1.1
+10770,Joy,Moraa,HR,62926,2019-09-10 00:00:00,30,Femle,5,No,8349.03,Single,Bachelor's,15,Intern,Berlin,17,2016,Hybrid,129,1.6
+10772,Rahab,Bett,HR,67997,2019-06-10 00:00:00,30,Male,9,Yes,2479.25,Single,Associate's,8,Intern,London,4,2020,Fully Remote,156,3.7
+10773,Tony,Kariuki,IT,89940,2015-07-13 00:00:00,58,Female,4,Yes,4185.17,Single,Associate's,16,Intern,Nairobi,15,2012,On-Site,158,3
+10774,Janet,Omondi,Operations,70724,31/04/2021,45,Female,2,No,6587.94,Divorced,Bachelor's,3,Intern,San Francisco,1,2015,Hybrid,26,4
+10775,Vincent,Muriuki,IT,61704,2001-05-30 00:00:00,60,Male,5,NO,8810.33,Married,Master's,9,Permanent,London,8,2017,Hybrid,74,0
+10776,Irene,Kamau,HR,58391,2009-10-03 00:00:00,32,Male,3,Yes,6774.46,Widowed,Bachelor's,26,Intern,London,1,2014,On-Site,23,2.5
+10777,Oscar,Omondi,Finance,93291,2017-06-23 00:00:00,29,Female,3,No,8470.71,Single,Master's,26,Permanent,New York,4,2010,Fully Remote,105,4.6
+10778,Miriam,Muriuki,Operations,119723,2012-03-14 00:00:00,46,Male,4,Yes,5002.52,Widowed,High Sch,30,Contract,London,19,2019,On-Site,166,4.7
+10779,Amina,Wafula,Operations,32526,2004-01-04 00:00:00,23,Male,4,,7314.39,Married,Master's,27,Contract,London,16,2023,On-Site,143,4.7
+10780,Lucy,Koech,Finance,54686,2014-02-06 00:00:00,31,Female,5,Yes,9809.82,Married,Associate's,16,Intern,Berlin,18,2021,On-Site,N/A,4.3
+10781,Xavier,Sang,Marketing,103339,2016-06-23 00:00:00,45,Female,7,Yes,1958.14,Married,Associate's,4,Permanent,Tokyo,9,2012,On-Site,92,3.8
+10782,Beatrice,Mboya,Operations,36574,2004-07-10 00:00:00,37,Female,4,Yes,9305.75,Widowed,High School,19,Permanent,New York,7,2020,,None,4.7
+10783,Daisy,Makori,finance,38733,2001-12-07 00:00:00,40,Female,7,Yes,5462.46,Widowed,Bachelor's,34,Permanent,,19,2011,Fully Remote,41,3.9
+10784,,Muthama,HR,80290,2004-06-13 00:00:00,52,Male,9,No,6610.57,Widowed,PhD,6,Contract,New York,10,2015,Hybrid,155,4.8
+10785,Dennis,Awino,Finance,102793,2018-09-16 00:00:00,32,Female,3,No,8839.76,Married,Master's,15,Contract,Nairobi,12,2023,On-Site,172,1.1
+10786,hope,Juma,Information Tech,66051,2013-01-04 00:00:00,27,Male,5,No,4391.71,Married,Master's,10,Intern,NAIROBI,12,2014,Onsite,175,4.7
+10787,EUNICE,Kariuki,Sales,45909,2010-05-13 00:00:00,,Male,4,Yes,4477.58,Single,Associate's,36,Permanent,Berlin,8,2016,Hybrid,8,3.2
+10788,Timothy,Atieno,Operations,$119682,2020/13/05,53,Male,9,No,,Divorced,High School,6,Permanent,Tokyo,4,2011,On-Site,86,1.4
+10789,Valerie,Kiptoo,Marketing,107338,2000-12-09 00:00:00,60,Female,5,Yes,681.47,Widowed,Associate's,6,Contract,Nairobi,17,2023,Hybrid,19,1.9
+10790,kennedy,Kamau,Sales,"103,432",2010-05-14 00:00:00,34,Male,2,Yes,5218.33,Divorced,Associate's,15,Intern,Berlin,7,2022,On-Site,155,4.4
+10791,Rahab,Karanja,IT,58133,31/04/2021,24,Female,1,No,3265.33,Widowed,Bachelor's,29,Intern,New York,19,2015,On-Site,144,3
+10792,Peter,Karanja,HR,81571,2000-12-20 00:00:00,62,Female,7,No,9315.56,Widowed,Bachelors,25,Intern,Tokyo,ten,2020,On-Site,72,4.9
+10793,Cynthia,Chebet,IT,109062,05-07-20,56,Female,1,Yes,1333.49,Divorced,PhD,19,Intern,Nairobi,1,2014,Fully Remote,72,1.5
+10794,Lucy,wambui,Finance,80908,2013-10-02 00:00:00,59,Male,8,Yes,4863.54,Divorced,High School,14,Permanent,Tokyo,15,2015,On-Site,184,2.7
+10795,Linda,Ochieng,IT,41278,2002-09-09 00:00:00,38,Female,9,Part-time,9500.95,Widowed,Associates,3,Intern,Nairobi,N/A,2014,On-Site,173,2.3
+10796,Daisy,Mwangi,Sales,81458,2016-09-26 00:00:00,24,Female,7,No,9059.83,Married,High School,14,Intern,Berlin,12,2016,Hybrid,109,3.1
+10797,James,Mburu,Sales,94265,2017-02-08 00:00:00,55,Male,9,No,7162.81,Single,Master's,39,Permanent,Tokyo,17,2014,Fully Remote,63,3.5
+10798,Linda,Mutua,Finance,86782,2003-09-07 00:00:00,33,Female,6,No,6098.93,Widowed,Bachelor's,39,Intern,San Francisco,0,2023,Hybrid,62,3.6
+10799,Peter,Muriuki,Info Tech,85415,2015-08-01 00:00:00,45,Male,7,No,3166.94,Single,PhD,21,Contract,New York,6,2022,Hybrid,124,1
+10800,Daisy,Wekesa,HR,84160,2016-06-07 00:00:00,27,Male,3,Yes,3986.09,single,High School,11,Intern,New York,3,2016,On-Site,191,1.4
+10801,James,Muthoni,Finance,84399,2008-03-28 00:00:00,17,Female,9,Yes,1356.28,Married,Associate's,10,Permanent,New York,9,2010,Fully Remote,155,1.1
+10802,Wairimu,Njoroge-Jr,HR,55298,2001-06-10 00:00:00,32,Female,3,Yes,7968.03,Single,Master's,15,Contract,Nairobi,7,2018,fully remote,133,4.5
+10803,Amina,Wekesa,HR,52191,31/04/2021,48,Female,6,No,3576.76,Widowed,Bachelor's,30,Intern,Berlin,2,2015,On-Site,60,2.3
+10804,Samuel,,Sales,86964,2019-11-09 00:00:00,45,Female,4,No,6843.93,Single,PhD,17,Permanent,Tokyo,6,2018,Fully Remote,8,2.5
+10805,Harun,Moraa,Finance,63092,2002-07-19 00:00:00,39,Male,9,,3897.15,Widowed,Bachelor's,29,Permanent,Tokyo,,2010,On-Site,33,2.8
+10806,Kiptoo,Odhiambo,HR,119407,2007-07-19 00:00:00,48,Female,Poor,No,4911.14,Divorced,High School,17,Permanent,San Francisco,19,2011,Fully Remote,21,4.4
+10807,Faith,Juma,Sales,$105257,2006-04-01 00:00:00,62,Female,9,No,5772.52,Widowed,Associate's,33,Permanent,London,9,2016,Fully Remote,181,1.1
+10808,Tony,Wanjala,Info Tech,92513,2005-04-30 00:00:00,42,Male,,Yes,8117.6,Divorced,Bachelor's,38,Intern,New York,12,2013,On-Site,55,1.5
+10809,Sharon,Cherono,Finance,81097,2010-10-02 00:00:00,55,Female,5,Yes,2505.99,Divorced,Master's,21,Intern,New York,0,2023,,181,3.7
+10810,Kennedy,Kilonzo,Sales,60279,2022-06-01,54,Female,1,Yes,4288.27,Single,PhD,14,Contract,New York,6,2022,Fully Remote,28,4.9
+10811,Hassan,Omondi,Sales,44404,2019-08-22 00:00:00,39,Female,1,Yes,1735.77,Divorced,PhD,10,Contract,Tokyo,9,2019,Fully Remote,48,3.6
+10812,Caleb,Mburu,Finance,100022,2006-12-16 00:00:00,24,Female,6,No,1219.72,Single,Associate's,23,Permanent,San Francisco,11,2023,Hybrid,120,2
+10813,Valerie,Mburu,Hr,65198,2005-03-31 00:00:00,45,Female,1,No,6244.41,Divorced,Master's,39,Permanent,San Francisco,13,,On-Site,173,3.1
+10814,David,Odhiambo,HR,79997,2009-03-14 00:00:00,22,Male,2,Yes,2296.36,Married,Master's,39,Contract,New York,10,2014,Hybrid,61,4.9
+10815,Winnie,Karanja,Marketing,108692,2004-05-12 00:00:00,27,Female,3,Yes,1068.09,Single,Bachelor's,14,Intern,Tokyo,16,2013,Fully Remote,188,3.1
+10816,Fiona,naliaka,Finance,30567,2008-01-04 00:00:00,40,,7,No,9022.43,Married,phd,22,Intern,New York,8,2015,Fully Remote,36,2.5
+10817,Pauline,Naliaka,HR,91032,2009-12-04 00:00:00,17,MALE,2,Yes,5575.99,Married,Master's,28,Intern,Londn,7,2022,Hybrid,163,2.5
+10818,Abdi,Makori,Finance,32179,2019-02-30,64,Male,5,Yes,1778.97,Single,Bachelor's,9,Permanent,San Francisco,9,2016,Fully Remote,148,4.9
+10819,Beatrice,Kariuki,Operations,32019,2003-05-08 00:00:00,29,Male,9,No,1007.55,Widowed,Master's,23,Contract,London,3,2020,Fully Remote,164,3.9
+10820,Tony,Muthoni,Human Resource,111455,2005-05-13 00:00:00,26,Prefer not say,8,Yes,1638.67,Widowed,Associate's,7,Contract,Berlin,4,2012,On-Site,112,3.7
+10821,Purity,Kimani,Sales,115239,2019-06-20 00:00:00,30,Female,8,Yes,4977.7,Single,Master's,24,Contract,London,17,2015,Fully Remote,46,1.9
+10822,,Makori,Sales,48704,2002-08-23 00:00:00,42,Male,2,Yes,6850.42,Divorced,Master's,37,Intern,Remote,5,2011,On-Site,126,3.2
+10823,Miriam,Achieng,Sales,48030,2013-11-07 00:00:00,49,Female,1,No,6592.16,Single,Master's,9,Contract,New York,9,2021,On-Site,38,2.4
+10824,Chebet,Ndegwa,Sales,99445,2013-09-01 00:00:00,25,Female,9,Yes,1872.02,maried,PhD,38,Contract,Berlin,17,2019,Hybrid,169,2
+10825,Wanjiku,Odhiambo,HR,,2014-12-07 00:00:00,45,Male,4,Part-time,6518.15,Widowed,High School,7,Intern,Berlin,10,2022,Hybrid,148,4.6
+10826,Timothy,Sang,Sales,33420,2010-01-26 00:00:00,29,Female,9,No,4346.22,Divorced,Associate's,23,,London,4,2013,Fully Remote,89,2.5
+10827,Joy,Kimani,Marketing,89875,2011-10-22 00:00:00,38,Male,7,No,KES 4915.07,Single,PhD,25,Permanent,Tokyo,2,2023,Hybrid,145,2.1
+10828,Nancy,Achieng,IT,77653,2001-09-14 00:00:00,55,Male,6,No,8113.59,Divorced,High School,22,Intern,Nairobi,17,2019,Onsite,126,
+10829,Harun,Mugambi,Sales,46740,2012-03-06 00:00:00,41,male,9,No,3658.74,Divorced,Master's,7,Contract,Nairob,3,2022,Hybrid,124,1.8
+10830,Wairimu,Barasa,Sales,,2013-02-08 00:00:00,37,MALE,4,No,1896.49,Married,Master's,6,Permanent,,7,2018,On-Site,86,4
+10831,Wanjiku,Wekesa,IT,94559,2018-09-01 00:00:00,31,Female,1,,8797.8,Single,PhD,36,Permanent,San Fransisco,16,2022,Hybrid,198,3.6
+10832,Xavier,Wafula,Ops,49465,2012-12-09 00:00:00,55,Male,5,Yes,2515.24,Single,Bachelor's,22,Permanent,Berlin,9,2016,Fully Remote,124,4.7
+10833,Felix,Onyango,HR,81432,2006-06-30 00:00:00,64,Male,6,Yes,3293.28,Widwowed,Associate's,35,Temporary,New York,18,2011,Hybrid,165,4.3
+10834,Yara,Muli,Operations,34131,2008-01-27 00:00:00,31,Female,6,Full time,7212.61,Widowed,High School,33,Permanent,New York,0,2015,Fully Remote,109,3.8
+,Wairimu,Mwangi,Operations,40652,2009-01-12 00:00:00,51,Male,1,Yes,6993.73,Widowed,Master's,21,Contract,Berlin,1,2023,Hybrid,86,2.3
+10836,Felix,,HR,94973,2003-03-14 00:00:00,thirty,Female,7,No,8103.8,Widowed,Associate's,11,Intern,San Fransisco,,2013,On-Site,96,3
+10837,Noah,Kiprotich,Finance,117043,2017-08-30 00:00:00,46,Female,8,NO,,Married,Master's,13,Intern,New York,14,2017,Hybrid,167,4.8
+10838,Quincy,Njoki,Ops,77147,2013-01-01 00:00:00,64,Female,5,Yes,3846.66,Divorced,Master's,3,Permanent,Nairobi,0,2021,Hybrid,169,1.1
+10839,Esther,Atieno,IT,77671,2017-08-07 00:00:00,35.5,Female,2,No,1695.89,Married,Master's,13,Contract,Nairobi,N/A,2017,On-Site,44,5.5
+10840,Esther,Atieno,HR,119342,2001-01-26 00:00:00,28,Male,2,No,5639.87,Widowed,Associate's,34,Intern,San Francisco,7,2010,On-Site,140,2
+10840,David,Bett,Marketing,49171,2010-06-06 00:00:00,41,Female,5,No,3279.42,Divorced,PhD,28,Permanent,San Francisco,0,2017,Hybrid,58,1.7
+10842,Nancy,Odhiambo-Jr,Finance,116129,2006-08-04 00:00:00,38,Male,7,Yes,7044.89,Single,Associate's,34,Contract,New York,9,2019,On-Site,93,1.9
+10843,Grace,Ndegwa,HR,85692,2013-04-26 00:00:00,24,Male,7,yes,503.27,Single,Associate's,32,Contract,Tokyo,16,2016,Onsite,139,1.2
+10844,Lilian  Ann,Musyoka,Operations,88541,2013-05-24 00:00:00,35.5,Male,4,yes,1066.99,Widowed,Bachelor's,N/A,Intern,Nairobi,17,2023,Hybrid,6,5
+10845,Stella,Wafula,Finance,39470,2013-10-06 00:00:00,57,Male,3,Yes,4609.32,Single,Bachelor's,24,Permanent,Nairobi,15,2023,Fully Remote,101,4.5
+10846,Yusuf,Muthama,IT,91344,2016-08-10 00:00:00,47,Male,9,No,9602.75,Married,PhD,1,Contract,Berlin,1,2010,Hybrid,60,3.1
+10847,Nancy,Wekesa,Finance,74308,2011-08-31 00:00:00,31,Male,7,Yes,8963.09,Married,Bachelor's,24,Intern,Nairobi,16,2012,Hybrid,108,3.9
+10848,Queen,Awino,Finance,80639,2013-03-21 00:00:00,55,Female,2,No,9943.09,Married,PhD,3,Intern,Tokyo,3,2023,Fully Remote,128,3.2
+10849,Amina,Cherono-Jr,IT,51326,2001-08-03 00:00:00,35,Male,1,Yes,4459.89,Single,Master's,17,Intern,San Francisco,6,2014,Hybrid,189,4.2
+10850,Valerie,Karanja,finance,34597,2002-03-31 00:00:00,29,Female,2,no,942.4,Single,Master's,7,Intern,San Francisco,8,2012,Hybrid,181,4.4
+10851,Yusuf,Kamau,IT,60788,2003-06-01 00:00:00,48,Male,3,Yes,3406.58,Single,Associate's,55,Intern,Berlin,2,2012,On-Site,129,1.9
+10852,George,Nyambura,Finance,95020,2000-05-03 00:00:00,,Female,5,No,6919.82,Divorced,Master's,19,Contract,San Francisco,19,2010,Hybrid,82,2.8
+10853,Wanjiku,Wafula,IT,79477,2016-08-11 00:00:00,36,Female,3,Yes,1784.06,Single,Bachelor's,24,Intern,London,4,2017,Fully Remote,12,3.5
+10854,Amina,Muthoni,Sales,63071,2012-02-26 00:00:00,58,Male,9,Yes,3349.74,Married,High School,9,Permanent,San Francisco,17,2018,Fully Remote,,4.9
+10855,Samuel,Odhiambo,HR,100603,2019-02-30,43,Female,4,No,1033.58,Single,Associate's,15,Permanent,Nairobi,16,2014,hybrid,195,3.7
+10855,Samuel,Odhiambo,HR,100603,2019-02-30,43,Female,4,No,1033.58,Single,Associate's,15,Permanent,Nairobi,16,2014,hybrid,195,3.7
+10857,Miriam,Makori,Human Resources,$100560,2008-07-20 00:00:00,23,Male,4,Yes,2484.75,Widowed,Master's,17,Intern,Londn,13,2010,Hybrid,92,4.4
+10858,Daisy,Bett,Finance,KES 103251,2011-07-26 00:00:00,52,Male,3,No,1366.86,Married,Associate's,55,Intern,London,14,2018,Hybrid,178,3.3
+10859,Oscar,Bett,HR,87492,,35,Male,1,No,4406.55,Widowed,Associate's,9,Contract,Tokyo,13,2023,Hybrid,71,4.6
+10860,Chebet,Ochieng,H.R,,2018-08-14 00:00:00,31,Male,9,No,3836.64,Single,High Sch,38,Intern,Tokio,8,2010,Fully Remote,121,2.5
+10861,Yusuf,Langat,Marketing,106762,2008-10-03 00:00:00,51,Male,1,Yes,5606.42,Single,Master's,19,Intern,Tokyo,15,2018,Fully Remote,178,5.5
+10862,Abdi,Karanja,Operations,65399,2007-08-17 00:00:00,57,Male,1,Yes,7615.87,Divorced,PhD,8,Permanent,New York,18,2012,On-Site,82,4.1
+10863,Zachary,wanjala,IT,108948,2019-05-23 00:00:00,61,Male,1,Yes,1569.4,Widowed,Associate's,6,Intern,London,0,2012,Hybrid,71,1.5
+10864,Terry,Barasa,IT,87439,2005-10-19 00:00:00,36,Male,5,Yes,8015.69,Widowed,,38,Contract,London,7,2022,Fully Remote,46,2.2
+10865,Kevin,Karanja,HR,74415,2017-07-26 00:00:00,35,Female,7,Yes,749.75,Widowed,Associate's,21,Permanent,San Fransisco,17,2013,Hybrid,68,3.4
+10866,Caleb,Nyambura,Sales,,2003-04-25 00:00:00,52,Male,7,No,4709.47,Widowed,Associate's,29,Contract,Remote,1,2014,Fully Remote,132,2.7
+10867,Faith,Kiprotich,Marketing,32369,2002-10-23 00:00:00,50,Female,Excellent,Yes,6080.59,Married,Bachelor's,34,Contract,SF,3,2015,fully remote,77,4.8
+10868,Grace,Mugambi,Operations,30528,2014-10-18 00:00:00,48,Male,6,No,9591.49,Married,PhD,12,Intern,Berlin,0,2023,On-Site,185,4.8
+10869,Vincent,Onyango,HR,60314,2011-04-10 00:00:00,99,Male,9,Yes,5952.27,Single,Associate's,39,Intern,London,18,2015,Hybrid,94,3
+10870,Timothy,Maina,IT,48047,05-07-20,30,Female,6,Yes,2008.12,Widowed,Masters,32,Permanent,Berlin,ten,2019,On-Site,11,3.2
+10870,James,Maina,Marketing,49748,2014-11-12 00:00:00,41,Male,4,No,5416.65,Divorced,Associate's,6,Contract,Tokyo,5,2022,On-Site,11,3.9
+10872,JAMES,Kamau,Operations,$65109,2019-03-20 00:00:00,56,Female,9,Yes,4259.95,Single,Master's,17,Contract,Nairobi,18,2022,On-Site,126,2.8
+10873,Peter,Cherono,Finance,43919,2015-04-28 00:00:00,36,Female,3,Yes,5053.88,Single,Bachelor's,32,Intern,Berlin,13,2018,On-Site,168,1.8
+10874,Pauline,Karanja,Marketing,77498,2001-05-12 00:00:00,45,Male,4,No,2372.42,Married,Associate's,8,Contract,Nairobi,18,2010,On-Site,120,4
+10875,Beatrice,Were,Ops,85808,2012-05-26 00:00:00,37,Female,4,No,5257.86,Single,Associate's,55,Contract,Nairobi,12,2018,On-Site,17,Good
+10876,Terry,Juma,HR,110792,2007-09-06 00:00:00,57,Male,4,Yes,1925.38,Married,Master's,29,Contract,New York,11,2013,On-Site,199,2
