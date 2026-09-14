@@ -104,4 +104,4 @@ The production-ready table is now ready for local system extraction or analytics
 ---
 ## Article Link
 
-[Link to your published article](https://dev.to/arapzruto/python-pandas-to-the-rescue-the-ultimate-data-cleanup-guide-2ned)
+[Link to your published article](https://dev.to/arapzruto/how-i-cleaned-messy-hr-dataset-using-postgresql-a-step-by-step-guide-5255)
