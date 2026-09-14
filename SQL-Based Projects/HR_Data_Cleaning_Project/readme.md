@@ -1,11 +1,11 @@
 # HR Data Cleaning Project
 
-## 🎯 Project Objectives
+## Project Objectives
 This project transforms raw, unstructured HR data into an analysis-ready dataset.
 
 ---
 
-## 📋 Project Outline
+## Project Outline
 * **Phase 1:** Create Database & Setup Environment
 * **Phase 2:** Initial Data Quality Assessment Report
 * **Phase 3:** Data Cleaning Steps Employed
@@ -18,7 +18,7 @@ This project transforms raw, unstructured HR data into an analysis-ready dataset
 
 ---
 
-## 🛠️ Phase 1. Create Database & Setup
+## Phase 1. Create Database & Setup
 
 ### Step 1: Database Setup
 - I used the already created `MyPracticeProjects` Database.
@@ -38,12 +38,12 @@ This project transforms raw, unstructured HR data into an analysis-ready dataset
 
 ---
 
-## 📊 Phase 2. Initial Data Quality Assessment Report
+## Phase 2. Initial Data Quality Assessment Report
 *(Initial run to profile and understand the dirty text data before modifications).*
 
 ---
 
-## 🧹 Phase 3. Data Cleaning Steps Employed
+## Phase 3. Data Cleaning Steps Employed
 
 ### Step 1: Rename & Standardize Column Heads
 - Needed to rename and standardize all column names.
@@ -75,7 +75,7 @@ This project transforms raw, unstructured HR data into an analysis-ready dataset
 
 ---
 
-## 📉 Phase 4. Final Quality Report
+## Phase 4. Final Quality Report
 Validating the cleaned data by performing final database checks:
 - Row count matches target
 - Duplicate checks return zero rows
@@ -85,5 +85,23 @@ Validating the cleaned data by performing final database checks:
 
 ---
 
-## 📤 Phase 5. Data Export
+## Phase 5. Data Export
 The production-ready table is now ready for local system extraction or analytics warehouse pipeline ingestion.
+
+
+## 👤 Author
+
+**Robert Ruto**
+*Data Analyst | Data Scientist | Researcher*
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112
+* GitHub: https://github.com/ArapzRuto
+
+---
+## Article Link
+
+[Link to your published article](https://dev.to/arapzruto/python-pandas-to-the-rescue-the-ultimate-data-cleanup-guide-2ned)
