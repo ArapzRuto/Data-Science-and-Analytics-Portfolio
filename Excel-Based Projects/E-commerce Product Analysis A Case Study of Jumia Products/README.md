@@ -5,6 +5,7 @@
 This project analyzes **109 Jumia e-commerce products** to explore how **product pricing, discounts, ratings, and customer reviews** relate to product performance.
 
 **The business problem**
+
 Jumia and its sellers set discounts and prices without knowing whether they move customer engagement. Nobody can currently say whether higher discounts bring more reviews, whether well-rated products cost more or less than the rest, which listings are performing well, or which need a different pricing or marketing strategy.
 
 Thus the central question was:
@@ -134,14 +135,8 @@ Products were grouped based on current price:
 
 # Dashboard
 
-```text
-docs/screenshots/dashboard.png
-```
-
-For GitHub Markdown, you can use:
-
 ```markdown
-![Jumia Excel Dashboard](docs/screenshots/dashboard.png)
+![Jumia Excel Dashboard]("C:\Users\HP\OneDrive\Desktop\LuxDev Tutorials\MS Excel\Jumia Product Performance Project\dashboard.png")
 ```
 
 ---
