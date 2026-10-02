@@ -152,6 +152,6 @@ Dashboard screenshot below:
 
 * LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112
 * GitHub: https://github.com/ArapzRuto
-* Article Link[https://dev.to/arapzruto/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-438a]
+* Article Link: [https://dev.to/arapzruto/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-438a]
 
 ---
