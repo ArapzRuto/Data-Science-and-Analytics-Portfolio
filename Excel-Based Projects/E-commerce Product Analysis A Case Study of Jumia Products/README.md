@@ -136,7 +136,8 @@ Products were grouped based on current price:
 # Dashboard
 
 ```markdown
-![Jumia Excel Dashboard]((https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Excel-Based%20Projects/E-commerce%20Product%20Analysis%EF%80%BA%20A%20Case%20Study%20of%20Jumia%20Products/assets/dashboard.png)
+![Jumia Excel Dashboard](assets/dashboard.png)
+
 ```
 
 ---
