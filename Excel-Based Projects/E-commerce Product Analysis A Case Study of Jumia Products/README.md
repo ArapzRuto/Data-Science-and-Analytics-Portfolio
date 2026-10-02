@@ -133,11 +133,24 @@ Products were grouped based on current price:
 
 ---
 
-# Dashboard
+##  Dashboard Preview
 
-```markdown
-![Jumia Excel Dashboard]((https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Excel-Based%20Projects/E-commerce%20Product%20Analysis%EF%80%BA%20A%20Case%20Study%20of%20Jumia%20Products/assets/dashboard.png)
+Dashboard screenshot below:
 
-```
+![Jumia Product Performance Dashboard](https://github.com/ArapzRuto/Data-Science-and-Analytics-Portfolio/blob/main/Excel-Based%20Projects/Jumia-Product-Performance-Analysis/assets/Jumia%20product%20Dashboard.jpg)
+
+---
+
+## 👤 Author
+
+**Robert Ruto**
+*Data Analyst | Data Scientist | Researcher*
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112
+* GitHub: https://github.com/ArapzRuto
 
 ---
