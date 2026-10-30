@@ -1,0 +1,71 @@
+API Data Analysis Using Python Structures
+Fetch a customer directory from an API, explore its nested structure and answer simple distribution questions with sets, dicts and a chart.
+Overview
+Pesa Pulse, a Nairobi fintech start-up, has just signed a partner who shares its customer directory through an API. Before the marketing team plans regional campaigns, they want to know the basics: how many customers there are, where they are, and what the data even looks like.
+You are the junior analyst. Pull the data, explore its nested structure, extract the attributes that matter, and answer "where are our customers?" first with plain Python structures and then with pandas. Finish with a chart marketing can drop straight into a slide.
+Learning objectives
+•	Retrieve JSON from an API with requests and handle a failed request
+•	Navigate nested dictionaries and lists confidently
+•	Use sets to find unique values and dictionaries to count them
+•	Write dict comprehensions for aggregation without pandas
+•	Move the cleaned data into pandas, export it and visualise a distribution
+Python skills tested
+Requests & APIsJSONDictionariesSetsComprehensionsPandasData visualization
+Project instructions
+1.	1
+Retrieve customer data with Requests
+Implement get_customers(url) to fetch https://jsonplaceholder.typicode.com/users with a timeout, check the status code, and return the parsed list. A network failure should print a clear message, not a traceback.
+2.	2
+Explore nested dictionaries and lists
+Implement explore(record, indent) to walk one customer record recursively and print every key with its Python type, indented by depth. In your README, list which attributes are nested and how you reach the deepest one.
+3.	3
+Extract customer attributes
+Implement extract_attributes(customers) to return one flat dict per customer with id, name, username, email, email domain, phone, city, zipcode, latitude, longitude, company and website. Latitude and longitude must be floats.
+4.	4
+Use sets to find unique cities
+Implement unique_cities(customers) with a set (a set comprehension is fine). Print how many there are and compare it with the number of customers — explain in one sentence what the comparison tells marketing.
+5.	5
+Count customers by city with loops and dict comprehensions
+Implement city_counts(customers) without collections.Counter or pandas, and email_domain_counts(customers) using a dict comprehension. Print both sorted from most to least common.
+6.	6
+Convert the data into a DataFrame
+Implement to_dataframe(rows) and confirm with value_counts() or groupby() that pandas agrees with your hand-written counts. Print the DataFrame's shape and dtypes.
+7.	7
+Export the results to CSV
+Write output/customers.csv and output/city_counts.csv with the columns shown in the expected-output resource, without the pandas index.
+8.	8
+Visualise the customer distribution
+Implement plot_distribution(counts, path) with matplotlib or pandas plotting and save output/customer_distribution.png. Since every city may appear once, also chart a more informative distribution (email domain, or another attribute you choose) and say in your README which chart is more useful and why.
+Starter resources
+•	API
+JSONPlaceholder Users API
+Free mock REST endpoint returning 10 customers with nested address, geo and company objects.
+https://jsonplaceholder.typicode.com/users
+•	STARTER CODE
+Starter script
+Function signatures and docstrings to implement. Contains no working logic.
+starter.py· 1.6 KB
+•	EXPECTED OUTPUT
+Expected output structure
+Columns of both CSVs, the console findings format and what the chart should contain. Values are placeholders.
+expected_output.md· 640 B
+Submission requirements
+•	`analysis.py` or `analysis.ipynb` implementing every task
+•	`output/customers.csv`, `output/city_counts.csv` and at least one saved chart
+•	README.md explaining your approach, how to run it, your findings and assumptions
+•	A public (or shared) GitHub repository containing all of the above
+Submitting your work
+1.	Push your project to a public GitHub repository (or a private one shared with your instructor).
+2.	Use this structure:
+CODECopy code
+day1-api-analysis/
+├── analysis.py            # or analysis.ipynb
+├── output/
+│   ├── customers.csv
+│   ├── city_counts.csv
+│   └── customer_distribution.png
+├── requirements.txt
+└── README.md
+3.	Your README.md must explain your approach, exactly how to run the analysis, two or three findings in plain English, and any assumptions.
+4.	On Squad, paste your public GitHub repository URL and press Submit Project. Squad checks with GitHub that the repository is public and has at least one commit — files are not uploaded, so push everything (code, README, outputs) before you submit.
+
